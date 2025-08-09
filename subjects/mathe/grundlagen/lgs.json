@@ -1,19 +1,19 @@
 [
   {
     "title": "rref L\u00f6sungen",
-    "latex": "\\matrixrow{0 0 1 *}",
+    "latex": "\\matrixrow{0 & 0 & 1 & *}",
     "solution": "Eine L\u00f6sung",
     "guid": "4e42b4dd9145d013aae81dec33695a6b"
   },
   {
     "title": "rref L\u00f6sungen",
-    "latex": "\\matrixrow{0 0 0 1}",
+    "latex": "\\matrixrow{0 & 0 & 0 & 1}",
     "solution": "Keine L\u00f6sung",
     "guid": "2d69ae30d5645e221e4f7c5bb3704913"
   },
   {
     "title": "rref L\u00f6sungen",
-    "latex": "\\matrixrow{0 0 0 0}",
+    "latex": "\\matrixrow{0 & 0 & 0 & 0}",
     "solution": "Unendlich viele L\u00f6sungen",
     "guid": "821e53065958e1cdb51db6ead82d4869"
   },
