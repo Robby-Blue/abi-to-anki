@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Umkehrfunktion Definition",
+    "solution": "x=f-1(f(x))",
+    "guid": "97cb2dd12851aad61cd8e08b2253f091"
+  },
+  {
+    "title": "Umkehrfunktion Bestimmen",
+    "solution": "f(x)=y; nach x aufl\u00f6sen; x=f-1(x)",
+    "guid": "b7faf37fbe6b4d81fea3af2332c00d8b"
+  }
+]

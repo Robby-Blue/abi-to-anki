@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Ebenen Lagebeziehungen",
+    "solution": "Schnitt, Identisch, Echt Parallel",
+    "guid": "1383ad93751d05faed302d8f0bc06309"
+  },
+  {
+    "title": "Ebenen Lagebeziehung Schnitt",
+    "solution": "nicht kollinear",
+    "guid": "2603f22fcbcbe5b94a7a2ba333ab9cf9"
+  },
+  {
+    "title": "Ebenen Lagebeziehung Identisch",
+    "solution": "n ung g kollinear, mind 1 Schnittpunkt",
+    "guid": "32e0b5b57829d89d4485c5ea6e41d3dc"
+  },
+  {
+    "title": "Ebenen Lagebeziehung Echt Parallel",
+    "solution": "n ung g kollinear, kein Schnittpunkt",
+    "guid": "13e4d2cfe62ef2498bc7d8aafa20bc96"
+  },
+  {
+    "title": "nicht kollinear",
+    "solution": "Schnitt",
+    "guid": "2b15e1705a20c1785c4ef30a6aadfb58"
+  },
+  {
+    "title": "n ung g kollinear, mind 1 Schnittpunkt",
+    "solution": "Identisch",
+    "guid": "dcf59d9c9e12b955bb55c4c87f246892"
+  },
+  {
+    "title": "n ung g kollinear, kein Schnittpunkt",
+    "solution": "Echt Parallel",
+    "guid": "397bbceb1a4c4549baa71f4d6d7e9703"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Geraden Lagebeziehungen",
+    "solution": "Schnitt, Identisch, Echt Parallel, Windschief",
+    "guid": "dc3731c484bbcc6500a1390160048f25"
+  },
+  {
+    "title": "Geraden Lagebeziehung Schnitt",
+    "solution": "Ein Schnittpunkt; nicht kollinear",
+    "guid": "d6bb11f8b104c41df8bbeecaf813f076"
+  },
+  {
+    "title": "Geraden Lagebeziehung Identisch",
+    "solution": "Unendliche Schnittpunkte; kollinear",
+    "guid": "6514b2f71040df39ea5e6c4d20edc3ab"
+  },
+  {
+    "title": "Geraden Lagebeziehung Echt Parallel",
+    "solution": "Kein Schnittpunkt; kollinear",
+    "guid": "8bacf54b26815213b360ec4d09ad848e"
+  },
+  {
+    "title": "Geraden Lagebeziehung Windschief",
+    "solution": "Kein Schnittpunkt; nicht kollinear",
+    "guid": "53177667faa575b497ab1ec5b08c614b"
+  },
+  {
+    "title": "Ein Schnittpunkt; nicht kollinear",
+    "solution": "Schnitt",
+    "guid": "2e35e58353d607c2387c2eb8bee19d87"
+  },
+  {
+    "title": "Unendliche Schnittpunkte; kollinear",
+    "solution": "Identisch",
+    "guid": "f86cb6c5cce39aeafdff4b2630bfcf48"
+  },
+  {
+    "title": "Kein Schnittpunkt; kollinear",
+    "solution": "Echt Parallel",
+    "guid": "f25ebd32304a24723755a5dd9c2f1c34"
+  },
+  {
+    "title": "Kein Schnittpunkt; nicht kollinear",
+    "solution": "Windschief",
+    "guid": "efe64cb2a1b8578591aa4abcb15fdd1f"
+  }
+]

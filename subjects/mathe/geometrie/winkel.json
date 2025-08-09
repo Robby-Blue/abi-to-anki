@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Winkel Vektoren Skalarprodukt mit cos",
+    "latex": "\\vect{a} \\cdot \\vect{b} = \\mathellipsis",
+    "solution": "|a|*|b|*cos(a)",
+    "guid": "99e4d1e0062a07a63e94fd8a1e6559ef"
+  },
+  {
+    "title": "Winkel Vektoren cos",
+    "latex": "\\cos \\alpha = \\mathellipsis",
+    "solution": "(a*b)/(|a|*|b|)",
+    "guid": "202d6628809008376b29efa3c17dc358"
+  },
+  {
+    "title": "Winkel Vektoren alpha",
+    "latex": "\\alpha = \\mathellipsis",
+    "solution": "cos-1((a*b)/(|a|*|b|))",
+    "guid": "8859826d2dd2ecf176b273ad3582abc0"
+  },
+  {
+    "title": "Winkel Geraden",
+    "solution": "Winkel Richtungsvektoren",
+    "guid": "455f2feb88adf04ae3daaa0f8654026c"
+  },
+  {
+    "title": "Winkel Ebene Gerade Beschreibung",
+    "solution": "Winkel Normalvektoren mit sin; Skalarprodukt im Betrag",
+    "guid": "ffd1eef7b4cd124a919b72acecb48b2e"
+  },
+  {
+    "title": "Winkel Ebene Gerade Formel",
+    "solution": "cin-1((|a*b|)/(|a|*|b|))",
+    "guid": "45d9b8e64a638159d8c7e09cd9d51094"
+  },
+  {
+    "title": "Winkel Ebenen",
+    "solution": "Winkel Normalvektoren",
+    "guid": "ced3535bae623aa7ea9c07013763f1ad"
+  }
+]

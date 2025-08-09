@@ -1,0 +1,35 @@
+[
+  {
+    "title": "rref L\u00f6sungen",
+    "latex": "\\matrixrow{0 0 1 *}",
+    "solution": "Eine L\u00f6sung",
+    "guid": "4e42b4dd9145d013aae81dec33695a6b"
+  },
+  {
+    "title": "rref L\u00f6sungen",
+    "latex": "\\matrixrow{0 0 0 1}",
+    "solution": "Keine L\u00f6sung",
+    "guid": "2d69ae30d5645e221e4f7c5bb3704913"
+  },
+  {
+    "title": "rref L\u00f6sungen",
+    "latex": "\\matrixrow{0 0 0 0}",
+    "solution": "Unendlich viele L\u00f6sungen",
+    "guid": "821e53065958e1cdb51db6ead82d4869"
+  },
+  {
+    "title": "Eine L\u00f6sungsmenge",
+    "solution": "L={x|y|z}",
+    "guid": "a0738208cce3405bd597aac811a46ab5"
+  },
+  {
+    "title": "Unendlich viele L\u00f6sungsmengen",
+    "solution": "L={(x|y|z);t in R}",
+    "guid": "b23716fa3a0f674cd49c0f9eaf3663ea"
+  },
+  {
+    "title": "Keine L\u00f6sungsmenge",
+    "solution": "L = {}",
+    "guid": "1e4039f1bea2300f32df13ddb5210b41"
+  }
+]

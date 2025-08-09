@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Ebenen Parameterform",
+    "solution": "E:x=OA+r*AB+s*AC",
+    "guid": "e4e46cab9a86641824c9f99caf73ed2c"
+  },
+  {
+    "title": "Ebenen Normalform",
+    "solution": "(x-p)*n=0",
+    "guid": "520d3bb35bc7123df2ada0362e34adbf"
+  },
+  {
+    "title": "Ebenen Koordinatengleichung",
+    "solution": "x*n=e",
+    "guid": "efc1eabd2d9935b877f6833300de5141"
+  },
+  {
+    "title": "Ebenen Koordinatengleichung Full",
+    "solution": "x*n=p*n",
+    "guid": "8823b874b5f8b93fe8a31db13f8c68ab"
+  },
+  {
+    "title": "Ebenen Koordinatengleichung e",
+    "solution": "e=p*n",
+    "guid": "4078ed298254bebf22f0a460db3eeeb5"
+  },
+  {
+    "title": "Ebenen Hesse'sche Normalform",
+    "solution": "(1/|n|)*(n*x-n*OP)=0",
+    "guid": "01e008e1f78b9e5af20e43646b94a4c2"
+  },
+  {
+    "title": "Ebenen Richtungsvektoren aus Normalvektor",
+    "solution": "eine Koordinate zu null; andere Tauschen; eine \u00fcbrige negativ",
+    "guid": "9035053928a95c93ed22013aa1fc0a38"
+  }
+]

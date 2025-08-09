@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Exponentielles Wachstum Formel (Exponential)",
+    "solution": "A*b^x",
+    "guid": "0cbc40d1bebc9f62b934f09b5a1b7132"
+  },
+  {
+    "title": "Exponentielles Wachstum Formel (e)",
+    "solution": "e^(k*x)",
+    "guid": "ab1a1644489dc8409fc9f321a7b21d37"
+  },
+  {
+    "title": "Exponentielles Wachstum Formel (k)",
+    "solution": "ln b",
+    "guid": "5c7fe40e3cc671bb8ed2236ea4ba6d38"
+  },
+  {
+    "title": "Exponentielles Wachstum DGL",
+    "solution": "f'(x)=k*f'(x)",
+    "guid": "f29472c44afac0bc40d22ffc2b9b7f8f"
+  },
+  {
+    "title": "Begrenztes Wachstum Formel (Sarikaya)",
+    "solution": "f(x)=(A-G)*e^(-kx)+G",
+    "guid": "000c26eb28d3051e2112c1ee0c3b4641"
+  },
+  {
+    "title": "Begrenztes Wachstum DGL (Sarikaya)",
+    "solution": "f'(x)=k*(G-f(x))",
+    "guid": "781b0f5dd996feb0bb5f9d736736305b"
+  },
+  {
+    "title": "Begrenztes Wachstum Formel (Schulbuch)",
+    "solution": "f(x)=S-c*e^(-kt)",
+    "guid": "a2b88ad0d9a99d009d92810aaa50f9fe"
+  },
+  {
+    "title": "Begrenztes Wachstum c (Schulbuch)",
+    "solution": "c=S-f(0)",
+    "guid": "e36182a82d4a218922c7432fb0fcd871"
+  },
+  {
+    "title": "Begrenztes Wachstum DGL (Schulbuch)",
+    "solution": "f'(x)=k*(S-f(x))",
+    "guid": "574560ab80a5c3a8b4a28868377f424f"
+  },
+  {
+    "title": "Logistisches Wachstum Formel (Sarikaya)",
+    "solution": "f(x)=(A*G)/(A+(G-A)*e^(-kGx))",
+    "guid": "1888f0b17e211114e4c2cee7a69c9aa0"
+  },
+  {
+    "title": "Logistisches Wachstum DGL (Sarikaya)",
+    "solution": "f'(x)=k*f(x)*(G-f(x))",
+    "guid": "d8eebd234ba07708a88456bc08cba8ff"
+  },
+  {
+    "title": "Logistisches Wachstum Formel (Schulbuch)",
+    "solution": "f(x)=S/(1+c*e^(-kSx)",
+    "guid": "309799138671550fa883857f544b6b5d"
+  },
+  {
+    "title": "Logistisches Wachstum c (Schulbuch)",
+    "solution": "c=(S/f(0))+1",
+    "guid": "6c55b0d3ab90a1a470d64c6d583e9dd4"
+  },
+  {
+    "title": "Logistisches Wachstum DGL (Schulbuch)",
+    "solution": "f'(x)=k*f(x)*(S-f(x))",
+    "guid": "c84a4c82b680f496d68a5b0a5ad4ec5f"
+  }
+]

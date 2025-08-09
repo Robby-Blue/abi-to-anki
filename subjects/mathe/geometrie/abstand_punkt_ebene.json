@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Abstand Punkt Ebene Schreibweise",
+    "solution": "d(A,E)",
+    "guid": "e4eabd382b87baaf23d8a2cd1075eb91"
+  },
+  {
+    "title": "Abstand Punkt Ebene Lotfu\u00dfpunktverfahren",
+    "solution": "Gerade durch Punkt, mit Normalvektor; Schnittpunkt; Distanz Schnittpunkt Punkt",
+    "guid": "9eaeaa54e1525699f0e6c0b10c2370ee"
+  },
+  {
+    "title": "Abstand Punkt Ebene Lotfu\u00dfpunktverfahren Kurz",
+    "solution": "|t|*|n|",
+    "guid": "d880cae69811b921c15989325d7f3f61"
+  },
+  {
+    "title": "Abstand Punkt Ebene Hesse'sche Normalform",
+    "solution": "(1/|n|)*|n*OA-n*OP|",
+    "guid": "eeb3686dac410cafacab6dbf82124365"
+  }
+]

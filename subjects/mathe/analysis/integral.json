@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Integral Summenregel",
+    "latex": "\\int f(x) + g(x) \\dx",
+    "solution": "int f(x) dx + int g(x) dx",
+    "guid": "5ddf0bbbb30773fee9e8f24a506a8b1a"
+  },
+  {
+    "title": "Integral Faktorregel",
+    "latex": "\\int n \\cdot f(x) \\dx",
+    "solution": "n * int f(x) dx",
+    "guid": "ab20024afda2fafadaba32556ec55fc0"
+  },
+  {
+    "title": "Integral Potenzregel",
+    "latex": "\\int x^C \\dx",
+    "solution": "1/(C+1)*x^(C+1)+C",
+    "guid": "81d8234b57f67b181263d8f82f926356"
+  },
+  {
+    "title": "Integral Kettenregel",
+    "latex": "\\int g(m \\cdot x + b) \\dx",
+    "solution": "1/m*G(mx+b)+C",
+    "guid": "7c72c1d4935d8fa65d4f2093c74e7a3c"
+  },
+  {
+    "title": "Integral sin-Funktion",
+    "latex": "\\int \\sin{x} \\dx",
+    "solution": "-cos x+C",
+    "guid": "7497c0ca5d97b35c52331f3fa0303a04"
+  },
+  {
+    "title": "Integral cos-Funktion",
+    "latex": "\\int \\cos{x} \\dx",
+    "solution": "sin x+C",
+    "guid": "6aee89ef2950a2bf7fb40d3c4b8144cb"
+  },
+  {
+    "title": "Integral 1/x Funktion",
+    "latex": "\\int \\frac{1}{x} \\dx",
+    "solution": "ln|x|+C",
+    "guid": "5eb31242c514e1db593b76d100169615"
+  },
+  {
+    "title": "Hauptsatz der Differenzial- und Integralrechnung",
+    "latex": "\\int_a^b \\dx = F(b)-F(a)",
+    "solution": "x zu x+delta x ist delta y, lim delta -> 0, ist dy/dx die ableitungsform",
+    "guid": "0439bcb03036b2492a867710fe0bc117"
+  },
+  {
+    "title": "Integralfunktionen",
+    "latex": "I_a(x)=",
+    "solution": "intax f(t) dt",
+    "guid": "f45a8e812ff492b418a39a5d24dc44ec"
+  },
+  {
+    "title": "Uneigentliche Itegrale",
+    "latex": "\\int_a^{\\infty} f(x) \\dx =",
+    "solution": "lim u->infty int au f(x) dx",
+    "guid": "a7b60779dd66973e444c159684f8372a"
+  },
+  {
+    "title": "Rotationsk\u00f6rper",
+    "solution": "V=pi*intab f(x)^2 dx",
+    "guid": "5d4a312c58758bbe758dbe28b38c0ad2"
+  },
+  {
+    "title": "Rotationsk\u00f6rper Begr\u00fcnden",
+    "latex": "V = \\pi \\cdot \\int_a^b f(x)^2 \\dx",
+    "solution": "integral von A=pi r^2 wobei r=f(x)",
+    "guid": "f090bc9f315797336df189c446e60866"
+  },
+  {
+    "title": "Bogenl\u00e4nge",
+    "solution": "l=intab sqrt(1+f'(x)^2) dx",
+    "guid": "9f76df93a124ff10d58a1847bd43dc78"
+  },
+  {
+    "title": "Bogenl\u00e4nge Begr\u00fcnden",
+    "latex": "L = \\int_a^b \\sqrt{1+f'(x)^2} \\dx",
+    "solution": "integral \u00fcber unendlich keine geraden mit deltax, deltay und l\u00e4nge durch satz des pythagoras. dy=f'(x) wenn dx=1",
+    "guid": "9a09d88ff1a43f99801b805affa5d43c"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "LGS L\u00f6sen Taschenrechner",
+    "solution": "3, 7, 1",
+    "guid": "6836dc82deee283e8c5de7f59b19f165"
+  },
+  {
+    "title": "Skalarprodukt Taschenrechner",
+    "solution": "7, c, 3",
+    "guid": "bc005a0e84712edbce911bfb70ef2832"
+  },
+  {
+    "title": "Vektorenprodukt Taschenrechner",
+    "solution": "7, c, 2",
+    "guid": "170473e403d36d0647886d03674c52f4"
+  },
+  {
+    "title": "L\u00e4nge eines Vektors Taschenrechner",
+    "solution": "7 7 1",
+    "guid": "e1479664aa0242d7af9807d56ca81ae6"
+  },
+  {
+    "title": "Ableitung Taschenrechner",
+    "solution": "4 1",
+    "guid": "62f86a18c76686a6e4a8855632e7a1ec"
+  },
+  {
+    "title": "Integral Taschenrechner",
+    "solution": "4 3",
+    "guid": "d83de985f30ac8e59ab7d5e9b83372ab"
+  }
+]

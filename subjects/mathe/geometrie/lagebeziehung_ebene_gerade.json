@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Ebene-Gerade Lagebeziehungen",
+    "solution": "Schnitt, Ineinander, Echt Parallel",
+    "guid": "37d8a53701a095f406e811640470d2f3"
+  },
+  {
+    "title": "Ebene-Gerade Lagebeziehung Schnitt",
+    "solution": "n und g nicht orthogonal",
+    "guid": "dcc5201f1b65a769c6f30c4e5c601708"
+  },
+  {
+    "title": "Ebene-Gerade Lagebeziehung Ineinander",
+    "solution": "n ung g orthogonal, mind 1 Schnittpunkt",
+    "guid": "39d52a4df1c52ceed6701a7fe13e4656"
+  },
+  {
+    "title": "Ebene-Gerade Lagebeziehung Echt Parallel",
+    "solution": "n ung g orthogonal, kein Schnittpunkt",
+    "guid": "8649b1b4de372ce601dd75812d1276ba"
+  },
+  {
+    "title": "n und g nicht orthogonal",
+    "solution": "Schnitt",
+    "guid": "2351089440703d1e4ee53ecf34df0b01"
+  },
+  {
+    "title": "n ung g orthogonal, mind 1 Schnittpunkt",
+    "solution": "Ineinander",
+    "guid": "d00f0b130c2a2c668b887c029f9a2fea"
+  },
+  {
+    "title": "n ung g orthogonal, kein Schnittpunkt",
+    "solution": "Echt Parallel",
+    "guid": "81dd90521d5c03b923205abc99192206"
+  }
+]
