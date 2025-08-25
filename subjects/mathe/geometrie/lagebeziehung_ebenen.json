@@ -11,26 +11,26 @@
   },
   {
     "title": "Ebenen Lagebeziehung Identisch",
-    "solution": "n ung g kollinear, mind 1 Schnittpunkt",
+    "solution": "Normalvektoren kollinear, mind 1 Schnittpunkt",
     "guid": "32e0b5b57829d89d4485c5ea6e41d3dc"
   },
   {
     "title": "Ebenen Lagebeziehung Echt Parallel",
-    "solution": "n ung g kollinear, kein Schnittpunkt",
+    "solution": "Normalvektoren kollinear, kein Schnittpunkt",
     "guid": "13e4d2cfe62ef2498bc7d8aafa20bc96"
   },
   {
-    "title": "nicht kollinear",
+    "title": "Ebenen Lagebeziehung nicht kollinear",
     "solution": "Schnitt",
     "guid": "2b15e1705a20c1785c4ef30a6aadfb58"
   },
   {
-    "title": "n ung g kollinear, mind 1 Schnittpunkt",
+    "title": "Ebenen Lagebeziehung Normalvektoren kollinear, mind 1 Schnittpunkt",
     "solution": "Identisch",
     "guid": "dcf59d9c9e12b955bb55c4c87f246892"
   },
   {
-    "title": "n ung g kollinear, kein Schnittpunkt",
+    "title": "Ebenen Lagebeziehung Normalvektoren kollinear, kein Schnittpunkt",
     "solution": "Echt Parallel",
     "guid": "397bbceb1a4c4549baa71f4d6d7e9703"
   }

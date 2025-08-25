@@ -25,22 +25,22 @@
     "guid": "53177667faa575b497ab1ec5b08c614b"
   },
   {
-    "title": "Ein Schnittpunkt; nicht kollinear",
+    "title": "Geraden Lagebeziehung Ein Schnittpunkt; nicht kollinear",
     "solution": "Schnitt",
     "guid": "2e35e58353d607c2387c2eb8bee19d87"
   },
   {
-    "title": "Unendliche Schnittpunkte; kollinear",
+    "title": "Geraden Lagebeziehung Unendliche Schnittpunkte; kollinear",
     "solution": "Identisch",
     "guid": "f86cb6c5cce39aeafdff4b2630bfcf48"
   },
   {
-    "title": "Kein Schnittpunkt; kollinear",
+    "title": "Geraden Lagebeziehung Kein Schnittpunkt; kollinear",
     "solution": "Echt Parallel",
     "guid": "f25ebd32304a24723755a5dd9c2f1c34"
   },
   {
-    "title": "Kein Schnittpunkt; nicht kollinear",
+    "title": "Geraden Lagebeziehung Kein Schnittpunkt; nicht kollinear",
     "solution": "Windschief",
     "guid": "efe64cb2a1b8578591aa4abcb15fdd1f"
   }

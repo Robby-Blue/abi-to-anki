@@ -20,17 +20,17 @@
     "guid": "8649b1b4de372ce601dd75812d1276ba"
   },
   {
-    "title": "n und g nicht orthogonal",
+    "title": "Ebene-Gerade Lagebeziehungen n und g nicht orthogonal",
     "solution": "Schnitt",
     "guid": "2351089440703d1e4ee53ecf34df0b01"
   },
   {
-    "title": "n ung g orthogonal, mind 1 Schnittpunkt",
+    "title": "Ebene-Gerade Lagebeziehungen n ung g orthogonal, mind 1 Schnittpunkt",
     "solution": "Ineinander",
     "guid": "d00f0b130c2a2c668b887c029f9a2fea"
   },
   {
-    "title": "n ung g orthogonal, kein Schnittpunkt",
+    "title": "Ebene-Gerade Lagebeziehungen n ung g orthogonal, kein Schnittpunkt",
     "solution": "Echt Parallel",
     "guid": "81dd90521d5c03b923205abc99192206"
   }
