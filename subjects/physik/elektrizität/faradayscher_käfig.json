@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Faradayscher K\u00e4fig Besonderheit",
+    "solution": "Keine Ladung drinnen",
+    "guid": "5eee0cbef037bbb34cf5169f48d4b25d"
+  },
+  {
+    "title": "Faradayscher K\u00e4fig Begr\u00fcndung Kurz",
+    "solution": "Superposition",
+    "guid": "b53d5767f60356ac35a6b482d17ee5d2"
+  },
+  {
+    "title": "Faradayscher K\u00e4fig Begr\u00fcndung Lang",
+    "solution": "Influenz teilt Rings' Ladung, Feld entsteht im Ringinneren, entgegengesetzt des eigentlichen Felds. Sie fallen weg",
+    "guid": "bf1d6d0051a6b943416f219e5d693e09"
+  }
+]

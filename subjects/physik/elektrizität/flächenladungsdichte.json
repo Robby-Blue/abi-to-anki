@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Fl\u00e4chenladungsdichte Definition",
+    "solution_latex": "%sigma = %frac{Q}{A}",
+    "guid": "e899f9a6d101a0985f03ef428274f5f7"
+  },
+  {
+    "title": "Fl\u00e4chenladungsdichte mit ",
+    "solution_latex": "%sigma = %epsilon_0 %cdot E",
+    "guid": "682e33fbe749cf51330de5c207cfa668"
+  }
+]

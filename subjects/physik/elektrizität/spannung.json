@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Spannung Einheit",
+    "solution": "Volt V",
+    "guid": "5ba32ab09639283e6bd68001a76cc842"
+  },
+  {
+    "title": "Spannung Formelzeichen",
+    "solution_latex": "U",
+    "guid": "3e796a926ddc217bd4f51f66cbe09309"
+  },
+  {
+    "title": "Volt Definition",
+    "solution_latex": "1 %,%text{Volt} = %frac{1 %,%text{Joule}}{1 %,%text{Coulomb}}",
+    "guid": "29631808690d8be90975bebdef0eb2cf"
+  },
+  {
+    "title": "Spannung Definitionen Worte",
+    "solution": "pro Ladung verrichtete Arbeit und Potenzialdifferenz",
+    "guid": "34c01988c56e3ff621790e9f624a7197"
+  },
+  {
+    "title": "Spannung Definition Formel",
+    "solution_latex": "U = %frac{W}{Q}",
+    "guid": "f9ccaf844eae4b2d0975286a3d19e651"
+  }
+]

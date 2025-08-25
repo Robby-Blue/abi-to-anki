@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Elektrische Feldst\u00e4rke Formelzeichen",
+    "solution_latex": "E",
+    "guid": "be17710c03e712d79f6564488341a1c6"
+  },
+  {
+    "title": "Elektrische Feldst\u00e4rke Definition",
+    "solution_latex": "E = %frac{F}{Q}",
+    "guid": "d97ba250bb9bff02e63977ced6897b21"
+  },
+  {
+    "title": "Elektrische Feldst\u00e4rke im Plattenkondensator",
+    "solution_latex": "E = %frac{U}{d}",
+    "guid": "efe890f123db67b34e191b165f3e7e38"
+  },
+  {
+    "title": "Elektrische Feldst\u00e4rke Einheit",
+    "solution_latex": "%frac{%text{Newton}}{%text{Coulomb}}",
+    "guid": "d62e7f45191c6c5fd8d7f82656c0c685"
+  },
+  {
+    "title": "Elektrisches Feld Feldlinien",
+    "solution": "Pfeil von positiv zu negativ; Kraftrichtung auf positive Probeladung",
+    "guid": "ab9ce4ceda01e7d5872d3ae4fd959e2c"
+  },
+  {
+    "title": "Typische Feldlinien",
+    "solution": "homogenes Feld, Dipol, Punktladung",
+    "guid": "4bda104a218f9a2de7950da4b371c789"
+  },
+  {
+    "title": "Typische Feldlinien homogenes Feld",
+    "solution": "Zwischen zwei Plattenkondensatoren; Gerade parallele Linien, gleich gro\u00dfes Feld",
+    "guid": "c54d2aa42e4139e2c80decd84573749a"
+  },
+  {
+    "title": "Typische Feldlinien Dipol",
+    "solution": "Zwischen zwei geladenen Punkten",
+    "guid": "12e8824bb1a7ae1019ce3de4541edb6e"
+  },
+  {
+    "title": "Typische Feldlinien Punktladung",
+    "solution": "Radialsymmetrisches Feld; in jede Richtung",
+    "guid": "ddfecb8511d81835182d316499933902"
+  }
+]

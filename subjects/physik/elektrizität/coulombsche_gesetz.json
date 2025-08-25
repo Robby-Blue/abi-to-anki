@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Coulombsche Gesetz Nutzen",
+    "solution": "Kr\u00e4fte zweier Punktladung der Distanz r",
+    "guid": "2d124b8aa62dc8980bdeb7da28660421"
+  },
+  {
+    "title": "Coulombsche Gesetz Formel",
+    "solution_latex": "%abs{F_1} = %abs{F_2} = %frac{1}{4 %pi %epsilon_0} %cdot %frac{Q_1 %cdot Q_2}{r^2}",
+    "guid": "46bbd686dcbbb24922c263f077418077"
+  }
+]

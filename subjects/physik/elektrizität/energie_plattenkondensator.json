@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Energiebilanz Plattenkondensator",
+    "solution_latex": "%Delta E_{pot} + %Delta E_{kin} = 0",
+    "guid": "794c14e8371e1d3e88d48c1bd7ccf883"
+  },
+  {
+    "title": "Energie Plattenkondensator E_pot",
+    "solution_latex": "E_{pot} = q %cdot U",
+    "guid": "cf649a2248ea155219b84374e04a9b3f"
+  },
+  {
+    "title": "Energiebilanz Plattenkondensator E_kin",
+    "solution_latex": "E_{kin} = %frac{1}{2}mv^2",
+    "guid": "1b349da5b881bc460b81736fd37c15c3"
+  },
+  {
+    "title": "Elektronengeschwindigkeit Plattenkondensator",
+    "solution_latex": "v = %sqrt{%frac{2eU}{m}}",
+    "guid": "073d363d6eafef245c4c785880fc6f1a"
+  }
+]

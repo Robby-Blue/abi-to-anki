@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Ladung Einheit",
+    "solution": "Coulomb C",
+    "guid": "6f0a1599d0369ca4c9331bd9eb122e90"
+  },
+  {
+    "title": "Ladung Formelzeichen",
+    "solution_latex": "Q",
+    "guid": "1d1470c6fee4f47f11c848bb338eea1c"
+  },
+  {
+    "title": "Influenz Bedeutung",
+    "solution": "Bewegung freier Elektronen",
+    "guid": "deb1f26e2f6df5b267048b316004fecb"
+  },
+  {
+    "title": "Gleiche Ladungen",
+    "solution": "gleichnamig",
+    "guid": "8999237a46dd63a0ff1150ccab8df337"
+  },
+  {
+    "title": "Anziehende Ladung",
+    "solution": "ungleichnamig",
+    "guid": "2aa78fdbaa88cd65889a3453e7fee22e"
+  },
+  {
+    "title": "Elektroskop",
+    "solution": "gleichnamiges Laden von Zeiger und Stativ, so dass abst\u00f6\u00dft und ausschl\u00e4gt",
+    "guid": "725dfce407e02d49dace97a7d2ccc2ea"
+  },
+  {
+    "title": "Ger\u00e4t zum Ladungsnachweis",
+    "solution": "Elektroskop",
+    "guid": "f6a9fa4c26a61647b3469e690f8874f6"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Elektrisches Feld Kraftmessung Erkl\u00e4rung",
+    "solution": "Auslenkung einer geladenen Kugel im Fadenpendel, in welchem die Dreiecke dx/dy = F_el=F_g",
+    "guid": "acf88d6e6efc3faccc21e44e24ff1a48"
+  },
+  {
+    "title": "Elektrisches Feld Kraftmessung Formel",
+    "solution_latex": "F_{el} = %frac{%Delta x}{%Delta y} %cdot m %cdot g",
+    "guid": "0b12d7db9a5d48d18a27e8c8c9802cec"
+  }
+]

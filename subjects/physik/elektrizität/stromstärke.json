@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Stromst\u00e4rke Einheit",
+    "solution": "Ampere A",
+    "guid": "8478c482c08e3c3098cc4643a4d215e3"
+  },
+  {
+    "title": "Ampere Definition",
+    "solution_latex": "1 %,%text{Ampere} = %frac{1 %,%text{Coulomb}}{1 %,%text{Sekunde}}",
+    "guid": "c3a10d7c664face74c6bd122446ec6d6"
+  },
+  {
+    "title": "Stromst\u00e4rke Formelzeichen",
+    "solution_latex": "I",
+    "guid": "a3cf24d2ecf65df7cf72341e858b4e40"
+  },
+  {
+    "title": "Stromst\u00e4rke Definitionen Worte",
+    "solution": "pro Zeiteinheit geflossene Ladung",
+    "guid": "369449fd1b477841c4f79c2d259ff9b9"
+  },
+  {
+    "title": "Stromst\u00e4rke Definition Formel",
+    "solution_latex": "U = %frac{W}{Q}",
+    "guid": "ccdee976d6d5815ca27246749f4d1933"
+  },
+  {
+    "title": "",
+    "title_latex": "%int I(t) %dt",
+    "solution_latex": "Q(t)",
+    "guid": "d7783f7832d5b4d850d4aa4132a6b10b"
+  },
+  {
+    "title": "",
+    "title_latex": "%derivet Q(t)",
+    "solution_latex": "I(t)",
+    "guid": "d234eefbc2ec3d2ea329613f3d287a81"
+  }
+]

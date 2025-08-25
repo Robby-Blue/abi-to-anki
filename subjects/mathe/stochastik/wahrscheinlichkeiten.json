@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Stochastik Bedingte Wahrscheinlichkeit Schreibweise",
+    "solution_latex": "P(A %vert B)",
+    "guid": "c87ecd4ed6a9526ea41ee5b169c49f27"
+  },
+  {
+    "title": "Stochastik Bedingte Wahrscheinlichkeit Formel",
+    "solution_latex": "%frac{P(A %,%text{und}%, B)}{P(B)}",
+    "guid": "c3970de8a2e771ecacf1a1db3b288345"
+  }
+]
