@@ -1,6 +1,7 @@
 import os
 import subprocess
 from tqdm import tqdm
+from consts import ANSWER, SOLUTION
 
 workspace_folder = os.path.abspath("workspace")
 tex_file = os.path.join(workspace_folder, "main.tex")
@@ -15,11 +16,11 @@ def create_latex(data):
     equations = []
     
     for note in data:
-        if "latex" not in note:
-            continue
-        
         note["media_paths"] = []
-        equations.append((note["guid"]+".answer", note["latex"]))
+        if "title_latex" in note:
+            equations.append((note["guid"]+ANSWER, note["title_latex"]))
+        if "solution_latex" in note:
+            equations.append((note["guid"]+SOLUTION, note["solution_latex"]))
     
     media_paths = []
     
@@ -28,6 +29,7 @@ def create_latex(data):
     return media_paths
 
 def create_latex_node(guid, latex):
+    latex = latex.replace("%", "\\")
     svg_file = os.path.join(workspace_folder, f"{guid}.svg")
 
     if os.path.exists(svg_file):

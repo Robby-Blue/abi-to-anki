@@ -1,20 +1,20 @@
 [
   {
     "title": "Winkel Vektoren Skalarprodukt mit cos",
-    "latex": "\\vect{a} \\cdot \\vect{b} = \\mathellipsis",
-    "solution": "|a|*|b|*cos(a)",
+    "title_latex": "%vect{a} %cdot %vect{b} = %mathellipsis",
+    "solution_latex": "%vabs{a} %cdot %vabs{b} %cdot %cos{%alpha}",
     "guid": "99e4d1e0062a07a63e94fd8a1e6559ef"
   },
   {
     "title": "Winkel Vektoren cos",
-    "latex": "\\cos \\alpha = \\mathellipsis",
-    "solution": "(a*b)/(|a|*|b|)",
+    "title_latex": "%cos %alpha = %mathellipsis",
+    "solution_latex": "%frac{%ve{a} %cdot %ve{b}}{%vabs{a} %cdot %vabs{b}}",
     "guid": "202d6628809008376b29efa3c17dc358"
   },
   {
     "title": "Winkel Vektoren alpha",
-    "latex": "\\alpha = \\mathellipsis",
-    "solution": "cos-1((a*b)/(|a|*|b|))",
+    "title_latex": "%alpha = %mathellipsis",
+    "solution_latex": "%cos^{-1}{%frac{%ve{a} %cdot %ve{b}}{%vabs{a} %cdot %vabs{b}}}",
     "guid": "8859826d2dd2ecf176b273ad3582abc0"
   },
   {
@@ -29,7 +29,7 @@
   },
   {
     "title": "Winkel Ebene Gerade Formel",
-    "solution": "cin-1((|a*b|)/(|a|*|b|))",
+    "solution_latex": "%sin^{-1}{%frac{%abs{%ve{a} %cdot %ve{b}}}{%vabs{a} %cdot %vabs{b}}}",
     "guid": "45d9b8e64a638159d8c7e09cd9d51094"
   },
   {

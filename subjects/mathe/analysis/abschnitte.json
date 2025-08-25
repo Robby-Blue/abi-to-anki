@@ -1,23 +1,23 @@
 [
   {
     "title": "Limes Seite",
-    "latex": "\\lim_{x \\to a^+}",
+    "title_latex": "%lim_{x %to a^+}",
     "solution": "von rechts",
     "guid": "b1ddda7efe3b60cd868f54200adced02"
   },
   {
     "title": "Abschnittsweise definierte Funktionen Schreibweise",
-    "solution": "f(x) = { untereinander <gleichung>, f\u00fcr <bedinung>",
+    "solution_latex": "f(x) = %begin{cases} %mdots, & %text{für } x < %mdots \\\\ %mdots, & %text{für } x %ge %mdots %end{cases}",
     "guid": "cdf41f7a58f2c9d2e82f7c68cf494f03"
   },
   {
     "title": "Stetigkeit Definition",
-    "solution": "Beide Limes zu x_0 von links und rechts gleich",
+    "solution_latex": "%lim_{x %to x_0^-} f(x) = %lim_{x %to x_0^+} f(x)",
     "guid": "3c49788453714f4e0be197976f3cf87c"
   },
   {
-    "title": "Differenzierbarkeit",
-    "solution": "Ableitung existiert/gleich und stetig",
+    "title": "Differenzierbarkeit Definition",
+    "solution_latex": "%lim_{x %to x_0^-} f'(x) = %lim_{x %to x_0^+} f'(x)",
     "guid": "cb14f97b40d6aa38c5619bb920c41638"
   }
 ]

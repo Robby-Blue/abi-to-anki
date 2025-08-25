@@ -2,6 +2,7 @@ import card_reader
 import latex_writer
 import genanki
 import os
+from consts import ANSWER, SOLUTION
 
 styling = """
 .card {
@@ -57,19 +58,70 @@ latex_model = genanki.Model(
   ],
   css=styling)
 
+solution_latex_model = genanki.Model(
+  2055541331,
+  "Solution LaTex Media Model",
+  fields=[
+    {"name": "Title"},
+    {"name": "LaTex"},
+  ],
+  templates=[
+    {
+      "name": "Card",
+      "qfmt": "{{Title}}",
+      "afmt": "{{FrontSide}}<br>\n\n<hr>\n{{LaTex}}",
+    },
+  ],
+  css=styling)
+
+double_latex_model = genanki.Model(
+  1580457028,
+  "Double LaTex Media Model",
+  fields=[
+    {"name": "Title"},
+    {"name": "AnsLaTex"},
+    {"name": "SolLaTex"},
+  ],
+  templates=[
+    {
+      "name": "Card",
+      "qfmt": "{{Title}} <br>\n\n<hr>\n{{AnsLaTex}}",
+      "afmt": "{{FrontSide}}<br>\n\n<hr>\n{{SolLaTex}}",
+    },
+  ],
+  css=styling)
+
 for note in data:
-  if "latex" in note:
-    filename = note["guid"]+".answer.svg"
-    image_path = f"<img src=\"{filename}\" class=\"media\">"
-    anki_note = genanki.Note(
-      model=latex_model,
-      fields=[note["title"], note["solution"], image_path],
-      guid=note["guid"])
+  if "title_latex" in note:
+    if "solution_latex" in note:
+      ans_filename = note["guid"]+ANSWER+".svg"
+      ans_image_path = f"<img src=\"{ans_filename}\" class=\"media\">"
+      sol_filename = note["guid"]+SOLUTION+".svg"
+      sol_image_path = f"<img src=\"{sol_filename}\" class=\"media\">"
+      anki_note = genanki.Note(
+        model=double_latex_model,
+        fields=[note["title"], ans_image_path, sol_image_path],
+        guid=note["guid"])
+    else:
+      filename = note["guid"]+ANSWER+".svg"
+      image_path = f"<img src=\"{filename}\" class=\"media\">"
+      anki_note = genanki.Note(
+        model=latex_model,
+        fields=[note["title"], note["solution"], image_path],
+        guid=note["guid"])
   else:
-    anki_note = genanki.Note(
-      model=normal_model,
-      fields=[note["title"], note["solution"]],
-      guid=note["guid"])
+    if "solution_latex" in note:
+      filename = note["guid"]+SOLUTION+".svg"
+      image_path = f"<img src=\"{filename}\" class=\"media\">"
+      anki_note = genanki.Note(
+        model=solution_latex_model,
+        fields=[note["title"], image_path],
+        guid=note["guid"])
+    else:
+      anki_note = genanki.Note(
+        model=normal_model,
+        fields=[note["title"], note["solution"]],
+        guid=note["guid"])
   deck.add_note(anki_note)
 
 

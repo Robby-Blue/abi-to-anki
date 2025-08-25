@@ -1,8 +1,8 @@
 [
   {
     "title": "e-Funktion Basis",
-    "latex": "a^x=e^{\\mathellipsis}",
-    "solution": "ln(a)*x",
+    "title_latex": "a^x=e^{%mathellipsis}",
+    "solution_latex": "%ln{a} %cdot x",
     "guid": "977431bfb36995227787fe7d23287cae"
   }
 ]

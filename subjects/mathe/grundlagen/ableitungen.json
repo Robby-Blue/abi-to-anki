@@ -1,56 +1,56 @@
 [
   {
     "title": "Ableitung Summenregel",
-    "latex": "\\derive (u+v)",
-    "solution": "u'+v'",
+    "title_latex": "%derive (u+v)",
+    "solution_latex": "u'+v'",
     "guid": "9772c74421c277c855cfd2f13692d3b2"
   },
   {
     "title": "Ableitung Faktorregel",
-    "latex": "\\derive (C \\cdot u)",
-    "solution": "C*u'",
+    "title_latex": "%derive (C %cdot u)",
+    "solution_latex": "C %cdot u'",
     "guid": "0f5c6aa681cd7b013585c0fbc53819ba"
   },
   {
     "title": "Ableitung Produktregel",
-    "latex": "\\derive (u \\cdot v)",
-    "solution": "u'*v+v'*u",
+    "title_latex": "%derive (u %cdot v)",
+    "solution_latex": "u' %cdot v+v' %cdot u",
     "guid": "21ac88d66047f43f1c0a2856d90d24c0"
   },
   {
     "title": "Ableitung Quotientenregel",
-    "latex": "\\derive (\\frac{u}{v})",
-    "solution": "(u'*v-v'*u)/v^2",
+    "title_latex": "%derive (%frac{u}{v})",
+    "solution_latex": "%frac{u' %cdot v-v' %cdot u}{v^2}",
     "guid": "c48fd197e00b14f58ef3c3750294b8b3"
   },
   {
     "title": "Ableitung Kettenregel",
-    "latex": "\\derive f(g(x))",
-    "solution": "f'(g(x)) * g'(x)",
+    "title_latex": "%derive f(g(x))",
+    "solution_latex": "f'(g(x)) %cdot g'(x)",
     "guid": "efc3c6ed4f740a2d01562072b53d9a44"
   },
   {
     "title": "Ableitung Potenzregel",
-    "latex": "\\derive (x^C)",
-    "solution": "C * x^(C-1)",
+    "title_latex": "%derive (x^C)",
+    "solution_latex": "C %cdot x^{C-1}",
     "guid": "6bf714831d73d96cf7ab0a388f834d98"
   },
   {
     "title": "Ableitung ln-Funktion",
-    "latex": "\\derive \\ln{x}",
-    "solution": "1/x",
+    "title_latex": "%derive %ln{x}",
+    "solution_latex": "%frac{1}{x}",
     "guid": "92eae0791eac6cb72b07b8ee5dfa51a1"
   },
   {
     "title": "Ableitung sin-Funktion",
-    "latex": "\\derive \\sin{x}",
-    "solution": "cos x",
+    "title_latex": "%derive %sin{x}",
+    "solution_latex": "%cos{x}",
     "guid": "c989e988d8b8ff3efde66ab945b4002f"
   },
   {
     "title": "Ableitung cos-Funktion",
-    "latex": "\\derive \\cos{x}",
-    "solution": "-sin x",
+    "title_latex": "%derive %cos{x}",
+    "solution_latex": "-%sin{x}",
     "guid": "4797a8071912e933726b8106a81bbc99"
   }
 ]

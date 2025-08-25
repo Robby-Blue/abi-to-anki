@@ -3,8 +3,8 @@ import json
 import os
 
 def gen_uid(question):
-    text = question["title"] + "---" + question["solution"]
-    return hashlib.md5(text.encode("UTF8")).hexdigest()
+    data = json.dumps(question, indent=2)
+    return hashlib.md5(data.encode("UTF8")).hexdigest()
 
 def read_folder(path):
     data = []
