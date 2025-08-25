@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wirtschaftsziele in De",
+    "solution": "Stabilit\u00e4tsgesetz, StabG als Fundament des magischen Sechs(vier)ecks",
+    "guid": "62068d111b1a1619fd565640ec007f56"
+  },
+  {
+    "title": "Wirtschaftsziele in De Liste",
+    "solution": "Au\u00dfenwirtschaftliches Gleichgewicht, Stabiles Preisniveau, Gerechte Einkommens- und Verm\u00f6gensverteilung, Umweltschutz, Hoher Besch\u00e4ftigungsstand, Stetiges und angemessenes Wirtschaftswachstum",
+    "guid": "e1b6b2a90d93f2f12ec434759525e418"
+  },
+  {
+    "title": "Wirtschaftsziele in De Liste L\u00e4nge",
+    "solution": "6",
+    "guid": "b2fd0c0a6e88845df5e7e74ef00bb4dc"
+  },
+  {
+    "title": "Wirtschaftsziele Beziehungen",
+    "solution": "Zielkomplimentarit\u00e4t, Zielneutralit\u00e4t, Zielkonflikte",
+    "guid": "23fd39eb8cc3f36b8fc2d1b4981752eb"
+  },
+  {
+    "title": "Wirtschaftsziele Handlungsfelder",
+    "solution": "Ordnungspolitik, Strukturpolitik, Prozesspolitik",
+    "guid": "53c2075f3a285493fbab026653e195d2"
+  },
+  {
+    "title": "Wirtschaftsziele Handlungsfelder Ordnungspolitik",
+    "solution": "langzeitige Rahmenbedingungen",
+    "guid": "fad1233a8fa17c2d6fc141fd22f88cb2"
+  },
+  {
+    "title": "Wirtschaftsziele Handlungsfelder Strukturpolitik",
+    "solution": "mittelfristige Struktur eines Wirtschaftssektors, z.B. Bau von Infrastruktur",
+    "guid": "6182c08195be87e916919035f96186a9"
+  },
+  {
+    "title": "Wirtschaftsziele Handlungsfelder Prozesspolitik",
+    "solution": "kurzzeitiger Eingriff auf Prozesse, eg. um Konjunktur zu stabilisieren",
+    "guid": "a4123d2174fe3f938146aee6a72878a0"
+  }
+]
