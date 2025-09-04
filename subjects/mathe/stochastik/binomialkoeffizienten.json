@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Stochastik Binomialkoeffizienten Nutzen",
+    "solution": "Anzahl an M\u00f6glichkeiten n Elemente von insgesamt k Elementen auszuw\u00e4hlen. Reihenfolge irrelevant",
+    "guid": "8839163343d8b83b7858b46dccde0e99"
+  },
+  {
+    "title": "Stochastik Binomialkoeffizienten Schreibweise",
+    "solution_latex": "%bink{n}{k}",
+    "guid": "16c5a1b0bf1794a9d5cd8de35c537681"
+  },
+  {
+    "title": "Stochastik Binomialkoeffizienten Formel",
+    "solution_latex": "%bink{n}{k} = %frac{n!}{k! %cdot (n-k)!}",
+    "guid": "e262db0b38e9c0ba2faf101e50c32fd6"
+  },
+  {
+    "title": "Stochastik Binomialkoeffizienten Formel Einfach",
+    "solution_latex": "%frac{n %cdot %ldots %cdot (n-k+1)}{k!}",
+    "guid": "45f1c151f8fd5e8f672300f7b38dab60"
+  }
+]

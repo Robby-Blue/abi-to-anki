@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Stochastik Bernoulli Bedingungen Anzahl",
+    "solution": "4",
+    "guid": "a6607976b334b933ca1d5d541a966bde"
+  },
+  {
+    "title": "Stochastik Bernoulli Bedingungen",
+    "solution": "1. Zwei m\u00f6gliche Ergebnisse 2. Gleichbleibende Wahrscheinlichkeit 3. Unabh\u00e4ngig Einzelexperimente 4. Feste Anzahl an Wiederholungen, n",
+    "guid": "afd069039c3eedd766ce272cd3d6cb40"
+  },
+  {
+    "title": "Stochastik Bernoulli Formel",
+    "solution_latex": "P(X=x)= %bink{n}{k} %cdot p^k %cdot (1-p)^{n-k}",
+    "guid": "ad43c301e5eb3c64e5084928c123bef0"
+  }
+]

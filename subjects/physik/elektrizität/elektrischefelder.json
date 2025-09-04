@@ -43,5 +43,10 @@
     "title": "Typische Feldlinien Punktladung",
     "solution": "Radialsymmetrisches Feld; in jede Richtung",
     "guid": "ddfecb8511d81835182d316499933902"
+  },
+  {
+    "title": "Elektrisches Feld Energie",
+    "solution_latex": "E_{el} = %frac{1}{2} CU^2",
+    "guid": "178feda4816abe87e529aec2c709ff31"
   }
 ]

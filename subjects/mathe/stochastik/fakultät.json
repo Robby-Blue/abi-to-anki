@@ -1,0 +1,52 @@
+[
+  {
+    "title": "0!",
+    "solution_latex": "1",
+    "guid": "713f86977ee7415410271772c5ff6dc8"
+  },
+  {
+    "title": "1!",
+    "solution_latex": "1",
+    "guid": "3ed6370337556c34a3d9aa83ef3d408a"
+  },
+  {
+    "title": "2!",
+    "solution_latex": "2",
+    "guid": "afc1fec609bfa8a8c51d626cce389dea"
+  },
+  {
+    "title": "3!",
+    "solution_latex": "6",
+    "guid": "09111e75e9d1cf4ff4902286b9687acc"
+  },
+  {
+    "title": "4!",
+    "solution_latex": "24",
+    "guid": "2d957e417919d53aeaa68b3b850c7005"
+  },
+  {
+    "title": "5!",
+    "solution_latex": "120",
+    "guid": "2b2d9d9cac2f4fd37b006a04a0408295"
+  },
+  {
+    "title": "6!",
+    "solution_latex": "720",
+    "guid": "b0c8ea5fada5270118f32e9a9223d8ff"
+  },
+  {
+    "title": "8!",
+    "solution_latex": "40%,320",
+    "guid": "5ba9ca24bbce15d0855a4ec6c24170f4"
+  },
+  {
+    "title": "9!",
+    "solution_latex": "362%,880",
+    "guid": "800b04bd132ab20aed0372eb3a53b06a"
+  },
+  {
+    "title": "10!",
+    "solution_latex": "3%,628%,800",
+    "guid": "a370319e5a02927d74fbe9c9d53dd42e"
+  }
+]

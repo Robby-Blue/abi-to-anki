@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Lorentzkraft Formel",
+    "solution_latex": "F_L = B %cdot I %cdot L ",
+    "guid": "1e6225c546f03b21a117ccb729462677"
+  },
+  {
+    "title": "Lorentzkraft Worte",
+    "solution": "Kraft auf elektrisch geladene Teilchen in Magnetfeld",
+    "guid": "a05c6df77f894dc93d228040ca9b92b9"
+  },
+  {
+    "title": "UVW Regel",
+    "solution_latex": "Daumen, Zeige- Mittelfinger in 90 Grad, Ursache; Vermittlung; Wirkung",
+    "guid": "4e7f542c23b995f5b62e1b1c048a29c8"
+  },
+  {
+    "title": "UVW Daumen",
+    "solution": "Ursache Stromfluss",
+    "guid": "b8c96efcdaae108b3998ff153a5d61e3"
+  },
+  {
+    "title": "UVW Zeigefinger",
+    "solution": "Vermittlung Magnetfeld",
+    "guid": "83a1d4fb251158980705f847786600bf"
+  },
+  {
+    "title": "UVW Mittelfinger",
+    "solution": "Wirkung Kraft",
+    "guid": "b5e313d402aa700cb3f264ca66b88197"
+  }
+]

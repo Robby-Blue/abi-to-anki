@@ -28,5 +28,10 @@
     "title": "Integral Taschenrechner",
     "solution": "4 3",
     "guid": "d83de985f30ac8e59ab7d5e9b83372ab"
+  },
+  {
+    "title": "Taschenrechner Regression Fix",
+    "solution": "Einheiten entfernen",
+    "guid": "363570224a8026e626ea69a4102b616d"
   }
 ]

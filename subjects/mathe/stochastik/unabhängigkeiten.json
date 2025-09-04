@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Stochastik Unabh\u00e4ngigkeiten Bedingung",
+    "solution_latex": "P_B(A) = P(A)",
+    "guid": "4bb674186fd55739641313107a8d8db2"
+  },
+  {
+    "title": "Stochastik Unabh\u00e4ngigkeiten Multiplikation",
+    "solution_latex": "P(A %cap B) = P(A) %cdot P(B)",
+    "guid": "0f246f59406d0342269346f56598bdd4"
+  }
+]

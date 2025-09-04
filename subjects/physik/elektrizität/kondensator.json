@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Kapazit\u00e4t Halbwertszeit",
+    "solution_latex": "f(%ln{(2)} %cdot RC) = %frac{1}{2} f(0)",
+    "guid": "812d5f212c822e0eeae73305df5ad1ee"
+  },
+  {
+    "title": "Kondensator Stromst\u00e4rke Aufladen",
+    "solution_latex": "I(t)=I_0 %cdot e^{-kt}",
+    "guid": "401dbc5723d1b1c57289bd685e44f870"
+  },
+  {
+    "title": "Kondensator Spannung Aufladen",
+    "solution_latex": "U(t)=U_0 - U_0 %cdot e^{-kt}",
+    "guid": "7a592d53f3781c20a1d5f739eeea8727"
+  },
+  {
+    "title": "Kondensator Stromst\u00e4rke Entladen",
+    "solution_latex": "I(t)=-I_0 %cdot e^{-kt}",
+    "guid": "542908c0d66a3550792ce8769b51b152"
+  },
+  {
+    "title": "Kondensator Spannung Entladen",
+    "solution_latex": "U(t)=U_0 %cdot e^{-kt}",
+    "guid": "6c291891eff3afe1e90bbb7fd0e44aae"
+  },
+  {
+    "title": "Kondensator Laden",
+    "solution": "Stromkreis mit Schalter, wechselt zwischen nichts und Kondensator mit A und V messen",
+    "guid": "f20cd756f2edf9c413aa629d6866495b"
+  },
+  {
+    "title": "Kondensator Laden Begr\u00fcndung",
+    "solution": "Form, f(0) definiert",
+    "guid": "b27ee40f82b03c513d1ef7af9a095d62"
+  }
+]

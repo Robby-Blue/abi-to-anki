@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Flussdichte Formelzeichen",
+    "solution_latex": "B",
+    "guid": "2b74d99c443f6801c69e1f116c87101a"
+  },
+  {
+    "title": "Flussdichte mit Leiter",
+    "solution_latex": "B = %frac{F_L}{I %cdot l}",
+    "guid": "085ccc2719b06aae8c81c67620c2645a"
+  },
+  {
+    "title": "Flussdichte Einheit",
+    "solution": "Tesla T",
+    "guid": "f218bc358844d9883de5c93b23552654"
+  },
+  {
+    "title": "Tesla T",
+    "solution_latex": "%unitdef{Tesla}{Newton}{Ampere %cdot Meter}",
+    "guid": "5abe262c52b9c42e97a35da2e5fd0dab"
+  }
+]

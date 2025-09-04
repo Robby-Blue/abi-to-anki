@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Widerstand Einheit",
+    "solution_latex": "Ohm %, %Omega",
+    "guid": "dde027b6fc2542e33ff65386804b03a6"
+  },
+  {
+    "title": "Widerstand Formelzeichen",
+    "solution_latex": "R",
+    "guid": "4a4266cae8df6206bba7dafa4af174f4"
+  },
+  {
+    "title": "Ohm Definition",
+    "solution_latex": "%unitdef{Ohm}{Volt}{Ampere}",
+    "guid": "a4b55e3da53fe5e0e150d137fc2d6ca1"
+  },
+  {
+    "title": "Widerstand Definition Formel",
+    "solution_latex": "I = %frac{U}{R}",
+    "guid": "0519bca13607cd12c4f5545d86092194"
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "title": "Stochastik Bedingte Wahrscheinlichkeit Schreibweise",
-    "solution_latex": "P(A %vert B)",
+    "solution_latex": "P(A %vert B) = P_B(A)",
     "guid": "c87ecd4ed6a9526ea41ee5b169c49f27"
   },
   {

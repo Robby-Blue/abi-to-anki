@@ -21,7 +21,7 @@
   },
   {
     "title": "Stromst\u00e4rke Definition Formel",
-    "solution_latex": "U = %frac{W}{Q}",
+    "solution_latex": "I = %frac{Q}{t}",
     "guid": "ccdee976d6d5815ca27246749f4d1933"
   },
   {
