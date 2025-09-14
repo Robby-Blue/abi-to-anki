@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Lange Spule Definition",
+    "solution_latex": "l > d",
+    "guid": "a5782754d526feeb206a8b4fb115a4a1"
+  },
+  {
+    "title": "Lange Spule Andere Name",
+    "solution": "Schlanke Spule",
+    "guid": "277427f5ea34ab7d1c7dcf0464039947"
+  },
+  {
+    "title": "Lange Spule Magnetfeld",
+    "solution_latex": "B = %mu_0 %cdot %frac{N %cdot I}{l}",
+    "guid": "ca328f763b9c73ad37f2a9d5bb024047"
+  }
+]

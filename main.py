@@ -124,7 +124,7 @@ for note in data:
         guid=note["guid"])
   deck.add_note(anki_note)
 
-
+print(f"{len(data)} notes created")
 package.media_files = media_paths
 
 package.write_to_file("output.apkg")

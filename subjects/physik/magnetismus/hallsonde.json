@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Hallsonde",
+    "solution": "Misst Hallspannung",
+    "guid": "8b63dc1ff525d09fe0f17a3c54c805ab"
+  },
+  {
+    "title": "Hallsonde Messungen",
+    "solution": "Offsetspannung abziehen",
+    "guid": "9faafc51cb107cc08e6e8153a8583a76"
+  }
+]

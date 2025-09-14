@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Magnetischer Fluss Zeichen",
+    "solution_latex": "%Phi",
+    "guid": "a5bf39bbd2ce48e533744d199fcb4643"
+  },
+  {
+    "title": "Magnetischer Fluss Formel",
+    "solution_latex": "%Phi = A %cdot B",
+    "guid": "4a0c31190345b662d68359f3324578dd"
+  },
+  {
+    "title": "Magnetischer Fluss Zeichen Name",
+    "solution": "Phi",
+    "guid": "7277c8daea370432734922af51150334"
+  }
+]

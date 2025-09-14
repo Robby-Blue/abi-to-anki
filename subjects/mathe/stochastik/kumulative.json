@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Kumulative Wahrscheinlichkeiten",
+    "solution": "Summe der einzelnen",
+    "guid": "0598658c9ce50947990485b92f22ee0f"
+  },
+  {
+    "title": "Kumulative a < X",
+    "solution_latex": "a+1 %leq X",
+    "guid": "83e61f214df88f8ade31eb7f370eed0e"
+  },
+  {
+    "title": "Kumulative X < b",
+    "solution_latex": "X %leq b-1",
+    "guid": "d960c745fce257345d5e2ec3cc448df0"
+  },
+  {
+    "title": "Kumulative X > b",
+    "solution_latex": "X %geq b+1",
+    "guid": "5491d743dbca113b9408c9e2f0ee5259"
+  },
+  {
+    "title": "Kumulative Zwischen",
+    "solution": "Ohne Grenzen",
+    "guid": "c6f1d44e5eb41be03f2bdd2c19f11a6b"
+  }
+]

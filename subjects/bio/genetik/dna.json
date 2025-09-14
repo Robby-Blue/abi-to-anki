@@ -1,0 +1,52 @@
+[
+  {
+    "title": "DNA Bestand",
+    "solution": "2 Str\u00e4nge, Nukleins\u00e4uren, aneinander gereihte Nukleotide",
+    "guid": "b4a730020329447b3e993a10e8f8c488"
+  },
+  {
+    "title": "DNA Full",
+    "solution": "Desoxyribonukleins\u00e4ure",
+    "guid": "f60c0ec30af35ecc6738c6814237fdce"
+  },
+  {
+    "title": "DNA Mehrere Nukleotide",
+    "solution": "Strang",
+    "guid": "7027dcd118b8a0a9ab3729754d8be4b1"
+  },
+  {
+    "title": "DNA Schl\u00fcssel-Schloss",
+    "solution": "Wasserstoffbr\u00fcckenbindungen der Basen",
+    "guid": "87cb287615e8a162b047f4a339d2532f"
+  },
+  {
+    "title": "DNA Basen G",
+    "solution": "Guanin",
+    "guid": "d0aee940e70e06dd3fdc211b2006451c"
+  },
+  {
+    "title": "DNA Basen C",
+    "solution": "Cytosin",
+    "guid": "fe30466d42640ec8b7211c4e614ec9ec"
+  },
+  {
+    "title": "DNA Basen T",
+    "solution": "Thymin",
+    "guid": "0dceb535c1b16580a35ebdbd4c0a874d"
+  },
+  {
+    "title": "DNA Basen A",
+    "solution": "Adenin",
+    "guid": "b2ed955e0f859d859c53da4b68b18a3b"
+  },
+  {
+    "title": "DNA Basen G Schl\u00fcssel",
+    "solution": "C",
+    "guid": "a135a0b9eb153634b35fa9a33bdf8ad2"
+  },
+  {
+    "title": "DNA Basen T Schl\u00fcssel",
+    "solution": "A",
+    "guid": "a7b42234f8edcc32b4d57936f62e31b9"
+  }
+]

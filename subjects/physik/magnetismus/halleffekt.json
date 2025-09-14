@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Hall Effekt",
+    "solution": "Hallspannung durch Lorentzkraft; Elektronen bewegen sich",
+    "guid": "d09fd2a4484cdef870a67946c4505975"
+  },
+  {
+    "title": "Hallspannung Herleitung Schritte",
+    "solution": "1. Kr\u00e4ftesatz 2. I umformen",
+    "guid": "724daeef9daa276b0d3523d337382624"
+  },
+  {
+    "title": "Hallspannung Herleitung 1. Schritt",
+    "solution_latex": "F_L = F_{el} = B %cdot I %cdot L",
+    "guid": "376e5d48fd6a8808efa64634a439ed4f"
+  },
+  {
+    "title": "Hallspannung Herleitung F_el",
+    "solution_latex": "F_{el} = Q %cdot E = e %cdot %frac{U}{d}",
+    "guid": "977b7ba4897590d83f6c2c0ea6aabbb9"
+  },
+  {
+    "title": "Hallspannung Herleitung nach Kr\u00e4ftesatz",
+    "solution_latex": "I = Q/t, l/t=v",
+    "guid": "bb8c94b9b61fab79ba474fee5a9c8569"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Induktion",
+    "solution": "Induktionsspannung entsteht in Leiter in Ver\u00e4ndernes Magnetfeld",
+    "guid": "201b5a8f9eaafccfa03de1286923e44f"
+  },
+  {
+    "title": "Induktionsspannung",
+    "solution_latex": "U_{Ind} = -N %cdot %derive{%Phi}{t}",
+    "guid": "2769cc13b4f20a4bd11b4931c0d7487e"
+  },
+  {
+    "title": "Induktionsspannung Full",
+    "solution_latex": "%derive{%Phi}{t} = A %cdot %derive{B}{t} + B %cdot %derive{A}{t}",
+    "guid": "82fee6e765d823ea26e8c1a51d28069d"
+  },
+  {
+    "title": "Induktion Qualitativer Versuch",
+    "solution": "Magnet neben Spule mit Voltmeter; Spannung gemessen",
+    "guid": "08170211fb43a2e828948f6bf423e621"
+  }
+]

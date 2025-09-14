@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Pr\u00e4fix g Bedeutung",
+    "solution": "Giga",
+    "guid": "c3394543aa0ff691baf7806f339810b1"
+  },
+  {
+    "title": "Pr\u00e4fix Giga Gr\u00f6\u00dfe",
+    "solution_latex": "10^{9}",
+    "guid": "5955057540f4f8b6c6f4dc0ec057fd1b"
+  },
+  {
+    "title": "Pr\u00e4fix M Bedeutung",
+    "solution": "Mega",
+    "guid": "b01a91f50d182bd33c677a9d4aa2255b"
+  },
+  {
+    "title": "Pr\u00e4fix Mega Gr\u00f6\u00dfe",
+    "solution_latex": "10^{6}",
+    "guid": "ad63366b65ce131682aacbb4e1961bd1"
+  },
+  {
+    "title": "Pr\u00e4fix k Bedeutung",
+    "solution": "Kilo",
+    "guid": "38c6dcae9a4226614f0e985d232c8c5c"
+  },
+  {
+    "title": "Pr\u00e4fix Kilo Gr\u00f6\u00dfe",
+    "solution_latex": "10^{3}",
+    "guid": "f90a45225490b751c75434e0606b7f02"
+  },
+  {
+    "title": "Pr\u00e4fix d Bedeutung",
+    "solution": "Dezi",
+    "guid": "c37dc304b464acf610a9ac316ac4bbf0"
+  },
+  {
+    "title": "Pr\u00e4fix Dezi Gr\u00f6\u00dfe",
+    "solution_latex": "10^{-1}",
+    "guid": "309d322d2dd4607530e91b67f6d7bbb9"
+  },
+  {
+    "title": "Pr\u00e4fix c Bedeutung",
+    "solution": "Zenti",
+    "guid": "8f51442fef26faa46caae70eb4ec2446"
+  },
+  {
+    "title": "Pr\u00e4fix Zenti Gr\u00f6\u00dfe",
+    "solution_latex": "10^{-2}",
+    "guid": "45de7f5e7816bc27542986432fbddcd1"
+  },
+  {
+    "title": "Pr\u00e4fix m Bedeutung",
+    "solution": "Milli",
+    "guid": "1cbffd73056f0c62b06b2eeb8cd9efb9"
+  },
+  {
+    "title": "Pr\u00e4fix Milli Gr\u00f6\u00dfe",
+    "solution_latex": "10^{-3}",
+    "guid": "44ef3be97e8e4e08800989b8fd5b0543"
+  },
+  {
+    "title": "Pr\u00e4fix mu Bedeutung",
+    "solution": "Mikro",
+    "guid": "307558512f523f51a6b3dcb18c7ed029"
+  },
+  {
+    "title": "Pr\u00e4fix Mikro Gr\u00f6\u00dfe",
+    "solution_latex": "10^{-6}",
+    "guid": "ae0183a5efb5fe65bbb47956d76615ec"
+  },
+  {
+    "title": "Pr\u00e4fix n Bedeutung",
+    "solution": "Nano",
+    "guid": "da262a42fc04b118d52ef9ba87893990"
+  },
+  {
+    "title": "Pr\u00e4fix Nano Gr\u00f6\u00dfe",
+    "solution_latex": "10^{-9}",
+    "guid": "1c3e596aefd7bb58534545def8858f3d"
+  },
+  {
+    "title": "Pr\u00e4fix p Bedeutung",
+    "solution": "Piko",
+    "guid": "a05df7ac41a586f311cf8f7e47a2cea0"
+  },
+  {
+    "title": "Pr\u00e4fix Piko Gr\u00f6\u00dfe",
+    "solution_latex": "10^{-12}",
+    "guid": "fe2ba2078982a77de9bf881457e3a5a1"
+  }
+]

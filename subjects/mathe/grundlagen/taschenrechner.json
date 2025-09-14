@@ -33,5 +33,45 @@
     "title": "Taschenrechner Regression Fix",
     "solution": "Einheiten entfernen",
     "guid": "363570224a8026e626ea69a4102b616d"
+  },
+  {
+    "title": "Binomialkoeffizient Taschenrechner",
+    "solution": "5 3",
+    "guid": "62783b2cc3c0156a6d8bdc2f0705c431"
+  },
+  {
+    "title": "Binomialverteilung Ketten Taschenrechner",
+    "solution": "5 5 A",
+    "guid": "cc4f62d57e3d2152f40ce86c3338f6c8"
+  },
+  {
+    "title": "Kumulative Taschenrechner",
+    "solution": "Ein Weiter",
+    "guid": "1c3cf39609a77c1dccb423ae48f143b8"
+  },
+  {
+    "title": "Fakult\u00e4t Taschenrechner",
+    "solution": "5 1",
+    "guid": "fa05de14bcec6c5e159c34bb6d0846e8"
+  },
+  {
+    "title": "Variable Lists Taschenrechner",
+    "solution": "Normal",
+    "guid": "11b32baae4e9cb26177023aa1c655632"
+  },
+  {
+    "title": "Datensequenz Lists Taschenrechner",
+    "solution": "3 1",
+    "guid": "261d5a59de9940eb80490058437a364b"
+  },
+  {
+    "title": "Binverteilung Lists Taschenrechner",
+    "solution": "4 1 A",
+    "guid": "9be7984fffc96b85933fee81344cb0da"
+  },
+  {
+    "title": "Histogramm Lists Taschenrechner",
+    "solution": "3 8",
+    "guid": "9e5589c3df6a158c2c346752a150b295"
   }
 ]

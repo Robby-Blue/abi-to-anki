@@ -20,7 +20,7 @@
     "guid": "acb93e168846ef1df81d2c8f31d7cdc6"
   },
   {
-    "title": "Kapazit\u00e4t Formel",
+    "title": "Kapazit\u00e4t Andere Formel",
     "solution_latex": "C = %varepsilon_0 %cdot %varepsilon_r %cdot %frac{A}{d}",
     "guid": "9ec848a05cf2b8b9b92b2ac41f5477a3"
   },
@@ -31,7 +31,7 @@
   },
   {
     "title": "Kapazit\u00e4t Bestimmen",
-    "solution_latex": "Q = %frac{Q}{U} %quad %text{mit} %quad %int_0^%infty I(t) %, %dx",
+    "solution_latex": "C = %frac{Q}{U} %quad %text{mit} %quad Q = %int_0^%infty I(t) %, %dx",
     "guid": "4ed6938fed087278f8f5097edf6b7c1a"
   }
 ]

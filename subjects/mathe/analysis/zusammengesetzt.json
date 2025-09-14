@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Zusammengesetzt Verkn\u00fcpfung",
+    "solution_latex": "g(x)+h(x)",
+    "guid": "87f0f45944a1a66f57c66a4950a3f3c4"
+  },
+  {
+    "title": "Zusammengesetzt Verkettung",
+    "solution_latex": "g(h(x))",
+    "guid": "100c6d719940d46bd30e7bc9b57476fe"
+  }
+]

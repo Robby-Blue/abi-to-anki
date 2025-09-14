@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Hallwachs Aufbau",
+    "solution": "UV-Lampe auf Elektroskop, Glas dazwischen",
+    "guid": "4041af10ea60856b4a4fb82396dad89c"
+  },
+  {
+    "title": "Hallwachs Beobachtung",
+    "solution": "Mit Glas passiert nichts, ohne Glas kann es Elektronen l\u00f6sen",
+    "guid": "2d8b275eae6650a211bacaeaf1fec40f"
+  },
+  {
+    "title": "Hallwachs Begr\u00fcndung",
+    "solution": "L\u00f6sen braucht Energie, UV mit viel Energie von Glas blockiert UV",
+    "guid": "cb8af1a9b0145a5595caff03594121c2"
+  },
+  {
+    "title": "Hallwachs Folge",
+    "solution": "Energie h\u00e4ngt von Wellenl\u00e4nge, nicht Intensit\u00e4t ab. Nicht mit Wellenmodell vereinbar. Photonen existen",
+    "guid": "2575a4360e540eecfa906c936fb52790"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fadenstrahlr\u00f6hre",
+    "solution": "Misst spezifische Ladung",
+    "guid": "2a8cc9b721d92ced0f21fa14b52f870a"
+  },
+  {
+    "title": "Spezifische Ladung",
+    "solution_latex": "%frac{e}{m}",
+    "guid": "f089d906f4c3e65d11363bdb30d1e876"
+  },
+  {
+    "title": "Fadenstrahlr\u00f6hre Funktion",
+    "solution": "Elektronenkanone in gasegef\u00fcllter Glaskolben in Magnetfeld. Elektronm, sichtbar durch gas, macht Kreise",
+    "guid": "fccf4e7daa52b5d1d786d99cd881077f"
+  },
+  {
+    "title": "Fadenstrahlr\u00f6hre Herleitung Schritte",
+    "solution": "1. Kraftsatz F_L = F_Z, nach e/m 2. v einsetzen 3. Umformen",
+    "guid": "8de80687fd3969d72037bea59202bbd2"
+  },
+  {
+    "title": "Fadenstrahlr\u00f6hre Zenipetalkraft",
+    "solution_latex": "F_Z = m %cdot %frac{v^2}{r}",
+    "guid": "f498a026a4ebcb3cd538a981ad9b7c10"
+  },
+  {
+    "title": "Fadenstrahlr\u00f6hre v",
+    "solution_latex": "e %cdot U = %frac{1}{2} m %cdot v^2 ",
+    "guid": "546593195476350a7b3261389400e59a"
+  }
+]

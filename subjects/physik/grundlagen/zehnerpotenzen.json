@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Tausend Gr\u00f6\u00dfe",
+    "solution_latex": "10^3",
+    "guid": "024eb0b01839f84af05f9867e7ca8eb1"
+  },
+  {
+    "title": "Millionen Gr\u00f6\u00dfe",
+    "solution_latex": "10^6",
+    "guid": "9f429f938e761d1b861fbf8696231411"
+  },
+  {
+    "title": "Milliarden Gr\u00f6\u00dfe",
+    "solution_latex": "10^9",
+    "guid": "07505aecaa12cb683a1579652169e088"
+  },
+  {
+    "title": "Billion Gr\u00f6\u00dfe",
+    "solution_latex": "10^{12}",
+    "guid": "5ea93bd6059e0ba498af9f620bb2ec44"
+  },
+  {
+    "title": "Billiarden Gr\u00f6\u00dfe",
+    "solution_latex": "10^{15}",
+    "guid": "291720c351fdc319caad20f88b0e25d0"
+  }
+]

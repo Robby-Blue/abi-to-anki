@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Fotoeffekt Aufbau",
+    "solution": "Hallwachs aber mit Ringanode und Kathode, verbunden durch hochohmiges Voltmeter statt Elektroskop. Farbfilter statt Glas",
+    "guid": "23f840224419b0cc9bfab85918b971d1"
+  },
+  {
+    "title": "Fotoeffekt Hochohmig Begr\u00fcndung",
+    "solution": "Nichts flie\u00dft; maximale Spannung",
+    "guid": "d853bf645cd62731d0673b2457412883"
+  },
+  {
+    "title": "Fotoeffekt E_kin",
+    "solution_latex": "E_{kin} = e %cdot U",
+    "guid": "cc570d3d369fe6ae5729fc36ae3e123e"
+  },
+  {
+    "title": "Fotoeffekt E_photon durch E_kin",
+    "solution_latex": "E_{photon} = W_A + E_{kin}",
+    "guid": "f84024e0afaf62514546f66228a49263"
+  },
+  {
+    "title": "Fotoeffekt Abl\u00f6seenergie",
+    "solution_latex": "W_A",
+    "guid": "64cf98bbe19e6fe14eb74151c661dc43"
+  },
+  {
+    "title": "Fotoeffekt E_photon",
+    "solution_latex": "h %cdot f",
+    "guid": "da453e72302be3df2ff46f2044398566"
+  },
+  {
+    "title": "Fotoeffekt Graph 1",
+    "solution": "Grenzfrequenz f_G, ab welcher genug Energie",
+    "guid": "c0a74f14624e6132985a7c68bed1cbc0"
+  },
+  {
+    "title": "Fotoeffekt Graph 2",
+    "solution": "W_A als y-Achsenabschnitt",
+    "guid": "2a7165317b590a99482f5b72bea09f4a"
+  },
+  {
+    "title": "Fotoeffekt Graph 3",
+    "solution": "Steigung als h",
+    "guid": "68df5c46d4f9785c9777247c92608a99"
+  },
+  {
+    "title": "Fotoeffekt h",
+    "solution": "Plankschen Wirkungsquantum",
+    "guid": "3baefb2f221fb2af91f2c16d6dfc4e15"
+  },
+  {
+    "title": "Elektronenvolt",
+    "solution_latex": "Energie eines Elektrons, beschleunigt mit eienr Spannung von 1 Volt",
+    "guid": "525c67f80d4295c6f8493f9358a5822b"
+  }
+]

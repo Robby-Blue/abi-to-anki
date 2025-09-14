@@ -5,6 +5,21 @@
     "guid": "a2477eb0beedbab845467e88569fe1da"
   },
   {
+    "title": "Magnetfelder Feldlinien Leiter",
+    "solution": "Daumen in Elektronenflussrichtung, Finger zusammengezogen Feldlinien",
+    "guid": "6d9ff53f7f1acfad826ef6041fc81009"
+  },
+  {
+    "title": "Magnetfelder Feldlinien Spule",
+    "solution": "Daumen in Magnetfeldlinien, Finger zusammengezogen Spulen",
+    "guid": "f2193dfcdf7a4a98d928b96c08f25fee"
+  },
+  {
+    "title": "Magnetfelder Feldlinien Spule Quelle",
+    "solution": "Negative Quelle bei Nordpol",
+    "guid": "91e2d08567d7dc8d8df80e2cbab80012"
+  },
+  {
     "title": "Magnetismus Nord Nord",
     "solution": "gleichnamig, absto\u00dfend",
     "guid": "8f4bdda24d1980a1874a54fc2129b282"

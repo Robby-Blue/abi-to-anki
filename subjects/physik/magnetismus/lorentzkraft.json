@@ -1,8 +1,13 @@
 [
   {
-    "title": "Lorentzkraft Formel",
+    "title": "Lorentzkraft Leiter Formel",
     "solution_latex": "F_L = B %cdot I %cdot L ",
     "guid": "1e6225c546f03b21a117ccb729462677"
+  },
+  {
+    "title": "Lorentzkraft Elektron Formel",
+    "solution_latex": "F_L = e %cdot V %cdot B",
+    "guid": "12ce52711f030fe01eb86d98a4fb63ff"
   },
   {
     "title": "Lorentzkraft Worte",
@@ -11,7 +16,7 @@
   },
   {
     "title": "UVW Regel",
-    "solution_latex": "Daumen, Zeige- Mittelfinger in 90 Grad, Ursache; Vermittlung; Wirkung",
+    "solution": "Daumen, Zeige- Mittelfinger in 90 Grad, Ursache; Vermittlung; Wirkung",
     "guid": "4e7f542c23b995f5b62e1b1c048a29c8"
   },
   {
@@ -28,5 +33,15 @@
     "title": "UVW Mittelfinger",
     "solution": "Wirkung Kraft",
     "guid": "b5e313d402aa700cb3f264ca66b88197"
+  },
+  {
+    "title": "Lorentzkraft Messen",
+    "solution": "Stromwage",
+    "guid": "8681f9bf110341911a1e1a177f0e7e53"
+  },
+  {
+    "title": "Lorentzkraft Stromwage",
+    "solution": "Leiter durch Magnetfeld mit Kraftsensor",
+    "guid": "86b3f129c144fe0c33e2155ba6ee91cc"
   }
 ]
