@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Braun'sche R\u00f6hre Name",
+    "solution": "Elektronenstrahlr\u00f6hre",
+    "guid": "ba9e5e429a83ed061b7976945149890b"
+  },
+  {
+    "title": "Braun'sche R\u00f6hre Aufbau Generell",
+    "solution": "Elektronenkanone zu Ablenkkondensatoren zu Schirm",
+    "guid": "d91f2b5c75bbdc1aa6e60a62e9ebb3a6"
+  },
+  {
+    "title": "Braun'sche R\u00f6hre Aufbau Genauer",
+    "solution": "1) Gl\u00fchwendel mit Heizspannung U_H 2) Wehneltzylinder um Elektronenstrahl zu b\u00fcndeln 3) Ringanode 4) Ablenkkondensator 5) Leuchtschirm",
+    "guid": "ad49a9e972a5cc199fa44cbcb21e9a75"
+  },
+  {
+    "title": "Braun'sche R\u00f6hre v Herleitung",
+    "solution_latex": "W = e %cdot U_B = %frac{1}{2} m %cdot v^2",
+    "guid": "268516095b7bd7bcb2dccbccd403a679"
+  },
+  {
+    "title": "Braun'sche R\u00f6hre a Herleitung",
+    "solution": "F_{el} = m %cdot a",
+    "guid": "9d5b1135b184b674be6cdd5285f81fa7"
+  },
+  {
+    "title": "Braun'sche R\u00f6hre a Formel",
+    "solution": "a = %frac{e %cdot U_A}{m %cdot d}",
+    "guid": "31e4b9114fede508b7c6ef59c6efcbe6"
+  },
+  {
+    "title": "Braun'sche R\u00f6hre y Herleitung",
+    "solution": "y = s = %int v(t)",
+    "guid": "14f4b5b8900994bcdcc742cc05fa921a"
+  },
+  {
+    "title": "Braun'sche R\u00f6hre y Formel",
+    "solution": "y = %frac{U_A}{4 %cdot U_B %cdot d} %cdot l^2",
+    "guid": "8497ca7a7c3c4080ef9776118b6a19b3"
+  },
+  {
+    "title": "Braun'sche R\u00f6hre Schirm y",
+    "solution": "Kondensator Austritt bei y(l/v) + Distanz zum Schirm mit v = a(l/t)",
+    "guid": "868cd534fd9555a419114d11b24d7c47"
+  }
+]

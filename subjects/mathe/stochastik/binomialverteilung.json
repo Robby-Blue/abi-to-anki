@@ -3,5 +3,20 @@
     "title": "Binomialverteilung",
     "solution": "Verteilung einer Bernoulli Kette",
     "guid": "2f655b8935428da816ea5452f9e4aad2"
+  },
+  {
+    "title": "Binomialverteilung Erwartungswert",
+    "solution_latex": "%mu = n %cdot p",
+    "guid": "ffff44956099fe7c7e347816095e54c6"
+  },
+  {
+    "title": "Binomialverteilung Standardabweichung",
+    "solution_latex": "%sigma = %sqrt{n %cdot p %cdot (1-p)}",
+    "guid": "d7eee5a476a68c4c9279669b7c29169b"
+  },
+  {
+    "title": "Binomialverteilung E(X) im Histogramm",
+    "solution": "E(X) ist in N\u00e4he von l\u00e4ngster Balken, wenn E(X) \\in N, dann ist l\u00e4ngster Balken",
+    "guid": "e2e40da5c1e637e21b9efc1ef5dfa478"
   }
 ]

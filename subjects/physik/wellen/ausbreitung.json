@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Wellen Ausbreitung Prinzip",
+    "solution": "Huygenssches",
+    "guid": "d08946a9eeec8eaee3b2d67630412305"
+  },
+  {
+    "title": "Huygenssches Prinzip",
+    "solution": "Jeder Punkt einer Wellenfront ist Ausgangspunkt einer Elementarwelle",
+    "guid": "6a4a6c2397b0a638835012071a7db958"
+  },
+  {
+    "title": "Wellen Reflexion Ende",
+    "solution": "fest oder lose; kann mitschwingen oder nicht",
+    "guid": "32dc1df9968c0f5df266a09f78dd9cfe"
+  },
+  {
+    "title": "Wellen Reflexion Regel",
+    "solution": "LLL - Longitudinal, Loses Ende, halbes Lambda Phasensprung",
+    "guid": "e69f0101f3c7273bfff457a6386c5bbe"
+  }
+]

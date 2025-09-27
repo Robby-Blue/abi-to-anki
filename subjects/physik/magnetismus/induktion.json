@@ -18,5 +18,10 @@
     "title": "Induktion Qualitativer Versuch",
     "solution": "Magnet neben Spule mit Voltmeter; Spannung gemessen",
     "guid": "08170211fb43a2e828948f6bf423e621"
+  },
+  {
+    "title": "Induktion Stromgerzeugung",
+    "solution": "Leiterfl\u00e4che gedreht, Uind weil A*B \u00e4ndert, weil wirkendes A \u00e4ndert. sinusf\u00f6rmig, wechselstrom",
+    "guid": "426bba329db949a64974e09b7ab3b648"
   }
 ]

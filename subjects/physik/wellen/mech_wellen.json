@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Mechanische Wellen",
+    "solution": "\u00f6rtliche und zeitliche periodeische Ver\u00e4nderung einer Gr\u00f6\u00dfe",
+    "guid": "e46574627fb21e243024abace17a0646"
+  },
+  {
+    "title": "Mechanische Wellen Weitergabe",
+    "solution": "an benachbarte schwingungsf\u00e4hige Systeme vom Erreger durch Resonanzprinzip",
+    "guid": "4d1775a4190c68641f6ba13e174da326"
+  },
+  {
+    "title": "Mechanische Wellen Gr\u00f6\u00dfe",
+    "solution": "Wellenl\u00e4nge lambda, Ausbreitungsgeschwindigkeit c",
+    "guid": "16e6e0c9c29161438517bbab581874b6"
+  },
+  {
+    "title": "Mechanische Wellen Ausbreitungsgeschwindigkeit",
+    "solution_latex": "c = %lambda %cdot f",
+    "guid": "781c8ec540dae46659a5d90c5f6b7b0c"
+  },
+  {
+    "title": "Mechanische Wellen Schwingungsrichtungen",
+    "solution_latex": "Transversalwellen: Schwingen senkrecht zu Ausbreitungsrichtung, Longitudinalwellen: Schwingen in Ausbreitungsrichtung",
+    "guid": "6245c956bd3c8dad58d0928e249ec6c4"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Selbstinduktion",
+    "solution": "Induktion in einer Spule durch ver\u00e4nderung des Magnetfeldes der eigenen Spule",
+    "guid": "43351a08c316b1df71647f0c0d0d6079"
+  },
+  {
+    "title": "Selbstinduktion Richtung",
+    "solution": "Gem\u00e4\u00df Lenzsches Gesetz entgegen Wirkung; um Statusquo aufrecht zu erhalten",
+    "guid": "19d6d466f8e7cce9ce7afc37f96fc9da"
+  },
+  {
+    "title": "Selbstinduktion Spule Full",
+    "solution_latex": "U_{ind} = -%mu_0 %cdot %mu_r %cdot %frac{N^2}{l} %cdot A %cdot %derive{I}{t}",
+    "guid": "6611e54898ec77fa78036ae3dbe99106"
+  },
+  {
+    "title": "Selbstinduktion Spule mit L",
+    "solution_latex": "U_{ind} = -L %cdot %derive{I}{t}",
+    "guid": "0a5eb5a6c9f8c50d74c1fc7718e44cb4"
+  },
+  {
+    "title": "Selbstinduktion Spule L",
+    "solution_latex": "L = %mu_0 %cdot %mu_r %cdot %frac{N^2}{l} %cdot A",
+    "guid": "aedd032addad065476a084394828be24"
+  },
+  {
+    "title": "Selbstinduktion Spule Herleitung",
+    "solution": "U_ind mit B in Spule",
+    "guid": "4b9768ce46290538573dbc4b6d6a20a2"
+  },
+  {
+    "title": "Selbstinduktion Spule Energiespeicher Begr\u00fcndung",
+    "solution": "Energie durch Selbstinduktion bei zerfall des Magnetfeldes",
+    "guid": "d6fd86a26f13fd81d729f1d6ca1a0def"
+  },
+  {
+    "title": "Selbstinduktion Spule Energiespeicher Formel",
+    "solution_latex": "E_{mag} = %frac{1}{2} L %cdot I^2 ",
+    "guid": "52b012cf6c5f970c63e32ce3d1d560e4"
+  },
+  {
+    "title": "Selbstinduktion Spule Energiespeicher Vergleich",
+    "solution_latex": "Kondensator",
+    "guid": "436ae8615ee8ce025a57e29170039ec6"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Fadenpendel",
+    "solution": "Gewicht pandelt an Faden herum",
+    "guid": "140df36e7baa2891c3798baae80e09d5"
+  },
+  {
+    "title": "Fadenpendel F_r\u00fcck Herleiten",
+    "solution": "Kr\u00e4fte Parallelogramm, F_r\u00fcck = F_G * sin phi, mit sin phi = phi = y/l",
+    "guid": "8b3d4f3b43563ba5bd3a7dbbd9850e36"
+  },
+  {
+    "title": "Fadenpendel F_r\u00fcck",
+    "solution_latex": "F_{r%ddot{u}ck} = m %cdot g %cdot y",
+    "guid": "cb18534874f434f032c4e206ab35d538"
+  },
+  {
+    "title": "Fadenpendel T",
+    "solution_latex": "T = 2%pi %cdot %sqrt{%frac{l}{g}}",
+    "guid": "843fdfc07e9aafb59bb42f3890e7456e"
+  }
+]

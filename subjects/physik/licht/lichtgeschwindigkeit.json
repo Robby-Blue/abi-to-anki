@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Lichtgeschwindigkeit Finder Beispiel",
+    "solution": "Hippolyte Fizeau",
+    "guid": "9cb08bb3a73a5bff1be2aab1d81f0b6b"
+  },
+  {
+    "title": "Lichtgeschwindigkeit Fizeau Aufbau",
+    "solution": "Licht durch Zahnrad zu Spiegel",
+    "guid": "15470a3a2bd51a4f89b92eca8a7a68df"
+  },
+  {
+    "title": "Lichtgeschwindigkeit Fizeau Gr\u00f6\u00dfen",
+    "solution": "720 Zackig, 8.6 km",
+    "guid": "7663a7512847025fc05abb7030db5c3e"
+  },
+  {
+    "title": "Lichtgeschwindigkeit Fizeau Funktion",
+    "solution": "Geschwindigkeit bis nicht mehr sichbar, weil Zahnradl\u00fccke weggedreht. Zeit finden mit T/1440, das ist Zeit f\u00fcr 17.2 km",
+    "guid": "07df99adad2db5b7e12a65bd4bb167cf"
+  }
+]

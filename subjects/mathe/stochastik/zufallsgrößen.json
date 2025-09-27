@@ -23,5 +23,15 @@
     "title": "Stochastik Standardabweichung Formel",
     "solution_latex": "%sigma = %sqrt{%sum_{i=1}^n (x_i - %mu)^2 %cdot P(X=x_i)}",
     "guid": "3f990e80ee6ec01b43b03563b7a0f030"
+  },
+  {
+    "title": "Stochastik Intervallwahrscheinlichkeit",
+    "solution_latex": "P(%mu-%lfloor%sigma%rfloor < X <%mu+%lfloor%sigma%rfloor)",
+    "guid": "f335a379f1f248839b327f906a51e714"
+  },
+  {
+    "title": "Stochastik Intervallwahrscheinlichkeit Runden",
+    "solution_latex": "In das Intervall rein",
+    "guid": "cc892d3c7efe3b7e3a26115bd0991c6b"
   }
 ]

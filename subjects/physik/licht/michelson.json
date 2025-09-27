@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Michelson Interferometer",
+    "solution": "Sender, halbdurchl\u00e4ssiger Spiegel, 2 Spiegel, Sensor",
+    "guid": "2c8d20e17bb0e1afb4b5f0102065bfc9"
+  },
+  {
+    "title": "Michelson Interferometer Idee",
+    "solution": "Zwei Lichtstrahlen mit variablem Gangunterschied interferieren und Messen lassen. Hier Gangunterschied ~ Zur\u00fcckgelegte Strecke ~ Spiegelposition",
+    "guid": "f952e65badf6f5ae09b4bec32feec846"
+  },
+  {
+    "title": "Michelson Interferometer Wellenl\u00e4nge",
+    "solution": "Wird Spiegel um d von max konstruktiver zu max destruktiver Interferenz bewegt, ist lambda = 4d",
+    "guid": "02520a2505bcbb4b471854846957f5dc"
+  }
+]

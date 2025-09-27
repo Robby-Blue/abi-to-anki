@@ -28,5 +28,10 @@
     "title": "Linke Hand Regel",
     "solution": "stromdurchflossene Leiter hat Magnetfeld, Daumen der Linken Hand in Elektronenbewegungsrichtung, andere als Feldlinien",
     "guid": "89563c49e5d5dcead3625c2a2ae1dbec"
+  },
+  {
+    "title": "\u00d8rsted / Oersted",
+    "solution": "Kompassnadel auf Leiter, parallel. Bei Spannung dreht sich der Kompass",
+    "guid": "1877f1e2f99d02e2e90c5486fed2065f"
   }
 ]

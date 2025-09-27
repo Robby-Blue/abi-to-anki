@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Millikan Aufbau",
+    "solution": "Kleine \u00d6ltr\u00f6pchen zwischen Kondensatoren mit Spannung bis es Schwebt. q bestimmen, alle q sind das vielfache von e",
+    "guid": "c291cf2b5a6c4f02530aabc82cd282be"
+  },
+  {
+    "title": "Millikan Formel",
+    "solution_latex": "F_e = F_g",
+    "guid": "d1cd1350b5c8248d62ed49fac5e39eef"
+  },
+  {
+    "title": "Millikan Formel F_g",
+    "solution_latex": "F_g = m %cdot g",
+    "guid": "4ecdc7015e3fe944e8e9dd8653a44579"
+  }
+]

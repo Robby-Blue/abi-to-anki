@@ -1,0 +1,12 @@
+[
+  {
+    "title": "h mit LEDs Hintergrund",
+    "solution": "LEDs produzieren Licht, wenn bei Spannung freie Valenzelektronen (n-dottierung) in die \"L\u00f6cher\" (p-dottierung) springen",
+    "guid": "cc179bc3688537cb5a24a9499621cd0d"
+  },
+  {
+    "title": "h mit LEDs Aufbau",
+    "solution": "Gleichstrom Schaltkreis mit Lampe einer bestimmenten Wellenl\u00e4nge bis LED geradeso Licht abgibt. Nun ist E=qU=hf mit mehreren Lampen kann f-E-Diagramm mit h gefunden werden",
+    "guid": "77aff1af246b3dc59239b9d34bbcdfc0"
+  }
+]

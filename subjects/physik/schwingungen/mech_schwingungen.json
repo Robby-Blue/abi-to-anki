@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Schwingungen Definition",
+    "solution": "zeitlich periodische \u00c4nderung einer physikalischen Gr\u00f6\u00dfe, nach einer einmaligen Auslenkung aus der Ruhelage, durch r\u00fccktreibende Kr\u00e4fte",
+    "guid": "fd4e25f80583ec6c2ba5fa7613e4f925"
+  },
+  {
+    "title": "Schwingungen Gr\u00f6\u00dfen",
+    "solution": "Periodendauer T, Frequenz f, Amplitude, Elongation, Winkelgeschwindigkeit omega",
+    "guid": "cafdb45371dfe8ff7fe9c3924c52ba2a"
+  },
+  {
+    "title": "Schwingungen Harmonisch",
+    "solution": "Sinusfunktion, gleichf\u00f6rmige Kreisbewegung, konstante Schwingungsdauer, zur F_r\u00fcck ~ y",
+    "guid": "9af1a70ca3f18b3feffe172793bebede"
+  },
+  {
+    "title": "Schwingungen Formel",
+    "solution_latex": "y(t) = y_{max} %cdot %sin{%left(%frac{2%pi}{T} %cdot t%right)}",
+    "guid": "e9d445dbd3a12946f01fa889c587e77e"
+  },
+  {
+    "title": "Schwingungen Wingelgeschwindigkeit",
+    "solution_latex": "%omega = %frac{2%pi}{T}",
+    "guid": "c5d035335327647b11dd84a6a9cf16be"
+  },
+  {
+    "title": "Schwingungen Lineare Kraftgesetz",
+    "solution_latex": "F_{r%ddot{u}ck} = -k %cdot y(t)",
+    "guid": "703d07813d5620ed290e033207e22e3c"
+  }
+]

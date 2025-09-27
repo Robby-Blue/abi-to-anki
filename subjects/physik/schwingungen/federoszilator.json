@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Federoszilator",
+    "solution": "Gewicht der Masse m mit Feder aufgehangen, schwingt vertikal",
+    "guid": "d88fd334ee1b9da57a23cdaae53db3dd"
+  },
+  {
+    "title": "Federoszilator Gesetz",
+    "solution": "Hookesches Gesetz",
+    "guid": "a960ae2de06afd2c42b09c017436382e"
+  },
+  {
+    "title": "Hookesches Gesetz",
+    "solution_latex": "F = D %cdot %Delta y",
+    "guid": "4ed74fcaf4b35303e1fa2510fc9d4f63"
+  },
+  {
+    "title": "Federoszilator T",
+    "solution_latex": "T = 2%pi %cdot %sqrt{%frac{m}{D}}",
+    "guid": "46db94d0cd6c35768ae24b6cab2a1eba"
+  },
+  {
+    "title": "Federoszilator T Herleitung Schritte",
+    "solution": "Kr\u00e4fte F_r\u00fcck = Grundgesetz, y und a=y'' einsetzen, Satz vom Nullprodukt, nach T",
+    "guid": "17ca4c1d4bc53e6a61d0fa02537effe1"
+  },
+  {
+    "title": "Federoszilator T Herleitung 1",
+    "solution_latex": "D %cdot y + m %cdot a = 0",
+    "guid": "3da32794d00eddad79811dd15025efb1"
+  }
+]

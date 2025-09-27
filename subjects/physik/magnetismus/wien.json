@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Wien Filter Aufbau",
+    "solution": "Magnetfeld zwischen Kondensatoren, Elektronen durchgeschossen",
+    "guid": "906d1f9edbf91e956f0ff9ac776ef081"
+  },
+  {
+    "title": "Wien Filter v",
+    "solution_latex": "v = %frac{E}{B}",
+    "guid": "bb5d0f71d0c40093a3954a00e8f1b05b"
+  },
+  {
+    "title": "Wien Filter v Herleitung",
+    "solution_latex": "F_{el} = F_l",
+    "guid": "d5ae25c765556799430df1f3349e37ee"
+  }
+]

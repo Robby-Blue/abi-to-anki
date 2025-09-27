@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Transformator",
+    "solution": "Induktion um U oder I zu \u00e4ndern",
+    "guid": "25d8b7ec83311afd3b782b94da22fec3"
+  },
+  {
+    "title": "Transformator Aufbau",
+    "solution": "Eisenkern mit zwei Spulen, Prim\u00e4r- und Sekund\u00e4rspule",
+    "guid": "d8318a2cb47065aea3eb031d7d0bd4ae"
+  },
+  {
+    "title": "Transformator U",
+    "solution_latex": "%frac{N_1}{N_2} = %frac{U_1}{U_2} ",
+    "guid": "6504709372104f246f012c1955a0d353"
+  },
+  {
+    "title": "Transformator I",
+    "solution_latex": "%frac{N_1}{N_2} = %frac{I_2}{I_1} ",
+    "guid": "b0ef9d4f3b514f8c20a651c618c74651"
+  },
+  {
+    "title": "Transformator Strom",
+    "solution": "Wechselstrom weil Magnetfeld\u00e4nderung ben\u00f6tigt ist",
+    "guid": "ee18e4c611542a01bbe1c1ce9c7d7bad"
+  }
+]

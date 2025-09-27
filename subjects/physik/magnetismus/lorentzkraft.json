@@ -43,5 +43,15 @@
     "title": "Lorentzkraft Stromwage",
     "solution": "Leiter durch Magnetfeld mit Kraftsensor",
     "guid": "86b3f129c144fe0c33e2155ba6ee91cc"
+  },
+  {
+    "title": "Lorentzkraft Motor Namen",
+    "solution": "Rotor (drehend), Stator (station\u00e4r) und Kommutor (umpolung)",
+    "guid": "aacd3f5614ca48aa5de1b1940ece0236"
+  },
+  {
+    "title": "Lorentzkraft Motor Funktion",
+    "solution": "Lorentzkraft dreht Rotor zur Magneten, Kommutator dreht sobald Endposition erreicht",
+    "guid": "ad0b2903f68acaa79725ca248fcd3ee7"
   }
 ]
