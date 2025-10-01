@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Schwebung",
+    "solution": "Zwei schwingungsf\u00e4hige Systeme der Eigenfrequenzen f_1 approx f_2,, bildet durch \u00dcberlagerung Schwebung",
+    "guid": "249e0a997e34986c2a66398ec8cb2fb3"
+  },
+  {
+    "title": "Schwebung Frequenzen",
+    "solution": "Einh\u00fcllungsfrequenz f_R, Schwebungsfrequenz f_S",
+    "guid": "d28622da999a64ce986504c350a1a393"
+  },
+  {
+    "title": "Schwebung Einh\u00fcllungsfrequenz",
+    "solution_latex": "f_R = %vert f_1 - f_2",
+    "guid": "2d952684589aa77957eabaf1eb397226"
+  },
+  {
+    "title": "Schwebung Schwebungsfrequenz",
+    "solution_latex": "f_S = %frac{f_1 - f_2}{2}",
+    "guid": "84689a537517339e918cda205c9c3eac"
+  }
+]

@@ -11,7 +11,7 @@
   },
   {
     "title": "Fadenstrahlr\u00f6hre Funktion",
-    "solution": "Elektronenkanone in gasegef\u00fcllter Glaskolben in Magnetfeld. Elektronm, sichtbar durch gas, macht Kreise",
+    "solution": "Elektronenkanone (nach oben gerichtet) in gasegef\u00fcllter Glaskolben in Magnetfeld. Elektronm, sichtbar durch gas, macht Kreise",
     "guid": "fccf4e7daa52b5d1d786d99cd881077f"
   },
   {
@@ -20,7 +20,7 @@
     "guid": "8de80687fd3969d72037bea59202bbd2"
   },
   {
-    "title": "Fadenstrahlr\u00f6hre Zenipetalkraft",
+    "title": "Fadenstrahlr\u00f6hre Zentipetalkraft",
     "solution_latex": "F_Z = m %cdot %frac{v^2}{r}",
     "guid": "f498a026a4ebcb3cd538a981ad9b7c10"
   },

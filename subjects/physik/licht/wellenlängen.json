@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Wellenl\u00e4ngen Violet",
+    "solution": "400 nm",
+    "guid": "7d3eed4e9b0659dd88d5d0707b024682"
+  },
+  {
+    "title": "Wellenl\u00e4ngen Rot",
+    "solution": "800 nm",
+    "guid": "7b9ed2adb2d2f73c60de18d29799c35b"
+  },
+  {
+    "title": "Wellenl\u00e4ngen Mikrowellen",
+    "solution": "~ cm",
+    "guid": "b7f7ac1d68fa5360be8e92d0160973d3"
+  },
+  {
+    "title": "Wellenl\u00e4ngen Spektrum",
+    "solution": "400 nm - 800 nm",
+    "guid": "b48c00411d10b5deb8fc03b3fca4d645"
+  }
+]

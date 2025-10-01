@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Texts E-Mail",
+    "solution": "int at friends, explain situation. P-E-E, opinions and so on. address",
+    "guid": "a13b149498f5aa89dc8425e0d3f99073"
+  },
+  {
+    "title": "Texts Blog",
+    "solution": "heading, address, catchy. P-E-E, also opinions. call to action, summary",
+    "guid": "4f43e75ea354d415ce9c2fd9b63ee5e3"
+  },
+  {
+    "title": "Texts Article",
+    "solution": "heading, catchy. no address. factual args, P-E-E. formal summary. can be biased, shouldnt seem like it",
+    "guid": "6f6b3441e985155c9cc1a12c67f97e43"
+  }
+]

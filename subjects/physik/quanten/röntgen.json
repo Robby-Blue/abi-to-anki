@@ -1,0 +1,32 @@
+[
+  {
+    "title": "R\u00f6ntgen Aufbau",
+    "solution": "U_A bis Elektronen Anode treffen. Abbremsung, R\u00f6ntgen",
+    "guid": "fa521afe41ae773597a965bc7afbeb68"
+  },
+  {
+    "title": "R\u00f6ntgen U_A",
+    "solution": "bis 200 kV",
+    "guid": "d30a8cba58e70b8035eac4d9d8cbeabb"
+  },
+  {
+    "title": "R\u00f6ntgen f_max",
+    "solution_latex": "e %cdot U = h %cdot f_{max}",
+    "guid": "afa7614eaa22c7e8bee3d7c0939de9a1"
+  },
+  {
+    "title": "R\u00f6ntgen Arten",
+    "solution": "Brems- und Charakteristische Strahlung",
+    "guid": "16d2cd7dcbaebbad92da3d138fbf5368"
+  },
+  {
+    "title": "R\u00f6ntgen Bremsstrahlung",
+    "solution": "kont. Spektrum bis f < f_max",
+    "guid": "2e49487fd96e4eb38c46ef706b3629fd"
+  },
+  {
+    "title": "R\u00f6ntgen Charakteristische Strahlung",
+    "solution": "Peaks der Anode, Position unabh\u00e4ngig von U",
+    "guid": "06d2940ad3e7f89ef927d837835948b8"
+  }
+]

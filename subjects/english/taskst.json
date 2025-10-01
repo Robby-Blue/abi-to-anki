@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Tasks Comprehension",
+    "solution": "general info, one sentence. relevant info, own words.",
+    "guid": "104862360b36b93dad2bb3a167f1150e"
+  },
+  {
+    "title": "Tasks Analysis",
+    "solution": "general statement what to expect. P-E-E. conclusion on most important. quotes",
+    "guid": "21200e4beda62b8bfde51e270a352879"
+  },
+  {
+    "title": "Tasks Argumentation",
+    "solution": "catching attention, relevance, opinion. P-E-E. conclusion, weighing points, opinion",
+    "guid": "b0cd538464b92297d7a86f2b49c72566"
+  },
+  {
+    "title": "Tasks Argumentation Discuss",
+    "solution": "unbiased",
+    "guid": "e79b15bf594e3e879cb9c13d8fab6d2f"
+  },
+  {
+    "title": "Tasks Argumentation Comment",
+    "solution": "biased",
+    "guid": "4d818ef34b7415222eee5eff5a93ae27"
+  },
+  {
+    "title": "Tasks Mediation",
+    "solution": "type, situation, aspects. int and conc on type and situation, body on aspects",
+    "guid": "bdae5fd2174b052a05294ead3a04cd72"
+  }
+]

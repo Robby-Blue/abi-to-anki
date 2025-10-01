@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Doppelspalt Beobachtung",
+    "solution": "Interferenzmuster",
+    "guid": "cc41efb3f35289f980d2c161d7955faa"
+  },
+  {
+    "title": "Doppelspalt Delta bei Maximum",
+    "solution_latex": "%Delta = k %cdot %lambda %quad %text{mit} %quad k %in %mathbb{N}",
+    "guid": "8b9f1b4aa34f5e722d3ce030b9b1f47d"
+  },
+  {
+    "title": "Doppelspalt Delta bei Minima",
+    "solution_latex": "%Delta = %frac{1}{2} %left(2k+1%right) %lambda %quad %text{mit} %quad k %in %mathbb{N}",
+    "guid": "20322455a7db0a9728c5b8573f169ae3"
+  },
+  {
+    "title": "Doppelspalt Maximum Geometrie",
+    "solution_latex": "%Delta = %lambda %cdot k = b %cdot %sin{%left(%arctan{%left(%frac{a}{e}%right)}%right)}",
+    "guid": "e64c7e979e9bc36b0118a61e039c8aa5"
+  },
+  {
+    "title": "Doppelspalt Maxima Namen",
+    "solution": "max 0. Ord, min 1. Ord, max 1. Ord",
+    "guid": "03ed989e47ed7baa26edccbaf78f5559"
+  },
+  {
+    "title": "Doppelspalt Vars Namen",
+    "solution": "b Abstand Spaltmitten; e Abstand Schirm; a Abstand max 0. und 1. Ord",
+    "guid": "1dc14a46237d2a3f20de1ada5c88fe66"
+  }
+]

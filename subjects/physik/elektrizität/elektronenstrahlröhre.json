@@ -21,22 +21,22 @@
   },
   {
     "title": "Braun'sche R\u00f6hre a Herleitung",
-    "solution": "F_{el} = m %cdot a",
+    "solution_latex": "F_{el} = m %cdot a",
     "guid": "9d5b1135b184b674be6cdd5285f81fa7"
   },
   {
     "title": "Braun'sche R\u00f6hre a Formel",
-    "solution": "a = %frac{e %cdot U_A}{m %cdot d}",
+    "solution_latex": "a = %frac{e %cdot U_A}{m %cdot d}",
     "guid": "31e4b9114fede508b7c6ef59c6efcbe6"
   },
   {
     "title": "Braun'sche R\u00f6hre y Herleitung",
-    "solution": "y = s = %int v(t)",
+    "solution_latex": "y = s = %int v(t)",
     "guid": "14f4b5b8900994bcdcc742cc05fa921a"
   },
   {
     "title": "Braun'sche R\u00f6hre y Formel",
-    "solution": "y = %frac{U_A}{4 %cdot U_B %cdot d} %cdot l^2",
+    "solution_latex": "y = %frac{U_A}{4 %cdot U_B %cdot d} %cdot l^2",
     "guid": "8497ca7a7c3c4080ef9776118b6a19b3"
   },
   {
