@@ -1,5 +1,10 @@
 [
   {
+    "title": "Hallspannung",
+    "solution_latex": "U_H = B %cdot v %cdot d",
+    "guid": "ad5ce6830274b20d123f65b9eb92f481"
+  },
+  {
     "title": "Hall Effekt",
     "solution": "Hallspannung durch Lorentzkraft; Elektronen bewegen sich",
     "guid": "d09fd2a4484cdef870a67946c4505975"

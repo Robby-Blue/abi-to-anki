@@ -28,5 +28,25 @@
     "title": "Federoszilator T Herleitung 1",
     "solution_latex": "D %cdot y + m %cdot a = 0",
     "guid": "3da32794d00eddad79811dd15025efb1"
+  },
+  {
+    "title": "Federoszilator Energiebilanz",
+    "solution_latex": "E_{ges} = E_{spann} = E_{kin}",
+    "guid": "251b453437fdbd098d7201506be3a16c"
+  },
+  {
+    "title": "Federoszilator spann",
+    "solution_latex": "%frac{1}{2} D %cdot y_{max}^2",
+    "guid": "38bad07f335f9fbd4e7182c704c12e63"
+  },
+  {
+    "title": "Federoszilator spann Herleitung",
+    "solution_latex": "W = %int_0^{y_{max}} F %,%text{d}y",
+    "guid": "e5c9d58f29df74a3f827a3a5310d4d76"
+  },
+  {
+    "title": "Federoszilator Horizontal",
+    "solution": "Gleiche Formel mit D als Summe beider Federn",
+    "guid": "da4e4d2b704942488dab737c00027e61"
   }
 ]

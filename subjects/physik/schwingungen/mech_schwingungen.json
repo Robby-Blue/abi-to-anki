@@ -16,7 +16,7 @@
   },
   {
     "title": "Schwingungen Formel",
-    "solution_latex": "y(t) = y_{max} %cdot %sin{%left(%frac{2%pi}{T} %cdot t%right)}",
+    "solution_latex": "y(t) = y_{max} %cdot %sin{(%omega %cdot t)}",
     "guid": "e9d445dbd3a12946f01fa889c587e77e"
   },
   {

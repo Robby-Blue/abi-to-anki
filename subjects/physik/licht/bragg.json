@@ -1,0 +1,27 @@
+[
+  {
+    "title": "BRAGG Ionen",
+    "solution": "regelm\u00e4\u00dfig 201 pm",
+    "guid": "64ea58fbe08916706e88c18527147968"
+  },
+  {
+    "title": "BRAGG Dreieck",
+    "solution_latex": "%Delta = d %cdot %sin{%alpha}",
+    "guid": "921ef635df3c59d8418fc6e326304d87"
+  },
+  {
+    "title": "BRAGG Maxima",
+    "solution_latex": "k %cdot %lambda = 2 %Delta",
+    "guid": "290006a48dab33ba1e3ef1ab8a771d27"
+  },
+  {
+    "title": "BRAGG Gleichung",
+    "solution_latex": "k %cdot %lambda = 2d %cdot %sin{%alpha}",
+    "guid": "bce9ce89eb4d0a997548b1bee88a002c"
+  },
+  {
+    "title": "BRAGG Drehkristall",
+    "solution": "Kristall und Sensor wird gedreht, bis alle lambda der gleichung entsprochen haben",
+    "guid": "6c2d15ae36e134b2dc3ae1dcb4367b33"
+  }
+]

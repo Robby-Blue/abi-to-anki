@@ -33,5 +33,25 @@
     "title": "\u00d8rsted / Oersted",
     "solution": "Kompassnadel auf Leiter, parallel. Bei Spannung dreht sich der Kompass",
     "guid": "1877f1e2f99d02e2e90c5486fed2065f"
+  },
+  {
+    "title": "Parallele Leiter Gleiche Stromrichtung",
+    "solution": "Anziehend",
+    "guid": "d45e96789af6bedbd955b1b14c5a6658"
+  },
+  {
+    "title": "Parallele Leiter F",
+    "solution": "F = %mu_0 %cdot %frac{I_1 %cdot I_2}{2 %pi d} %cdot l",
+    "guid": "9088cf4b9fa850daac6ce761f20ad604"
+  },
+  {
+    "title": "Parallele Leiter Herleitung",
+    "solution": "F = bil, in B von Leiter mit d",
+    "guid": "6f9d70870541c562966cfb97b6d9b1f0"
+  },
+  {
+    "title": "Parallele Leiter Begr\u00fcndung",
+    "solution": "Feldlinien entgegengesetzt: Anzug",
+    "guid": "81f9789d0936208ce2472f296861d4e2"
   }
 ]

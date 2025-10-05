@@ -18,5 +18,35 @@
     "title": "Wellen Reflexion Regel",
     "solution": "LLL - Longitudinal, Loses Ende, halbes Lambda Phasensprung",
     "guid": "e69f0101f3c7273bfff457a6386c5bbe"
+  },
+  {
+    "title": "Wellen Reflexion Winkel",
+    "solution": "Reflexionswinkel ist Einfallswinkel",
+    "guid": "5a0793aa0e4e57080ab6cc1c21fe6abe"
+  },
+  {
+    "title": "Wellen Reflexion Brechung Erkl\u00e4rung",
+    "solution": "Mediumswechsel, bei diff Ausbreitungsgeschwindigkeiten eine Drehung",
+    "guid": "e0de7c56f7424cb2e0d076da05375f6e"
+  },
+  {
+    "title": "Wellen Reflexion Brechung Formel",
+    "solution_latex": "%frac{%sin %alpha}{%sin %beta} = %frac{c_1}{c_2}",
+    "guid": "af01264b0b5122c4481033b267ad8055"
+  },
+  {
+    "title": "Wellen Reflexion Brechung c Alternative",
+    "solution": "Brechungsindex n",
+    "guid": "744e3a201cb0c4183e1e7fad756ed652"
+  },
+  {
+    "title": "Brechungsindex n",
+    "solution_latex": "n_1 = %dfrac{c}{v_1}",
+    "guid": "84a81a24b4090ffaac9d579511619c7b"
+  },
+  {
+    "title": "Wellen Reflexion Beugung",
+    "solution": "Eintreten eines Hindernissschattens, wegen Elementarwelle des Huygenschen Prinzips",
+    "guid": "9b535dfe2b1208c7eb14001e99bf1bf4"
   }
 ]

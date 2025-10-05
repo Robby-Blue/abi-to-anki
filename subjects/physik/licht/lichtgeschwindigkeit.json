@@ -18,5 +18,10 @@
     "title": "Lichtgeschwindigkeit Fizeau Funktion",
     "solution": "Geschwindigkeit bis nicht mehr sichbar, weil Zahnradl\u00fccke weggedreht. Zeit finden mit T/1440, das ist Zeit f\u00fcr 17.2 km",
     "guid": "07df99adad2db5b7e12a65bd4bb167cf"
+  },
+  {
+    "title": "Lichtgeschwindigkeit In Medien",
+    "solution_latex": "c_m = %frac{c_0}{n}",
+    "guid": "d1d8c8a3857cca4a020f8881e4e851a4"
   }
 ]

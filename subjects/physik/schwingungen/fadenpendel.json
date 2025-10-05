@@ -11,12 +11,22 @@
   },
   {
     "title": "Fadenpendel F_r\u00fcck",
-    "solution_latex": "F_{r%ddot{u}ck} = m %cdot g %cdot y",
+    "solution_latex": "F_{r%ddot{u}ck} = %frac{m %cdot g}{l} %cdot y",
     "guid": "cb18534874f434f032c4e206ab35d538"
   },
   {
     "title": "Fadenpendel T",
     "solution_latex": "T = 2%pi %cdot %sqrt{%frac{l}{g}}",
     "guid": "843fdfc07e9aafb59bb42f3890e7456e"
+  },
+  {
+    "title": "Fadenpendel Energiebilanz",
+    "solution_latex": "E_{ges} = E_{pot} = E_{kin}",
+    "guid": "355641c45d829af2efd922fff187bb18"
+  },
+  {
+    "title": "Fadenpendel E_pot",
+    "solution_latex": "E_{pot} = m %cdot g %cdot h",
+    "guid": "6238eb0e118416f808f6cfb0ac05d9ec"
   }
 ]

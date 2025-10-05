@@ -28,5 +28,10 @@
     "title": "R\u00f6ntgen Charakteristische Strahlung",
     "solution": "Peaks der Anode, Position unabh\u00e4ngig von U",
     "guid": "06d2940ad3e7f89ef927d837835948b8"
+  },
+  {
+    "title": "R\u00f6ntgen Charakteristische Strahlung Grund",
+    "solution": "Ausschlagen Elektrons unterer Schale der Anode",
+    "guid": "35264bd1aa32d9afe7f16c4f3031cb07"
   }
 ]
