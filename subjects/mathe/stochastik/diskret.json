@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Diskret Definition",
+    "solution_latex": "x %in %mathbb{N}",
+    "guid": "7b97f4d5366240b9f093fd19f1dc869d"
+  },
+  {
+    "title": "Diskret Verteilung",
+    "solution_latex": "Binomial",
+    "guid": "e142055683978fd0034d2ab0c46da148"
+  },
+  {
+    "title": "Diskret Erwartungswert Formel",
+    "solution_latex": "%mu = E(X) = %sum_{i=1}^n x_i %cdot P(X=x_i)",
+    "guid": "9c458e75cba7746eee38273af499f2bb"
+  },
+  {
+    "title": "Diskret Standardabweichung Formel",
+    "solution_latex": "%sigma = %sqrt{%sum_{i=1}^n (x_i - %mu)^2 %cdot P(X=x_i)}",
+    "guid": "3f990e80ee6ec01b43b03563b7a0f030"
+  }
+]

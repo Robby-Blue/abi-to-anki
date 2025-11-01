@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Enzyme",
+    "solution": "Hydrolasen, Ligasen, Transferasen",
+    "guid": "e9e813d0b02d165424a7a586a35e8da2"
+  },
+  {
+    "title": "Enzyme Hydrolasen",
+    "solution": "Spalten",
+    "guid": "f75d4d09498e31fe4f3519b9b22bb16b"
+  },
+  {
+    "title": "Enzyme Ligasen",
+    "solution": "Binden",
+    "guid": "1890c7ccc64f252bd146e27b10e5e12d"
+  },
+  {
+    "title": "EnzymeTransferasen",
+    "solution": "\u00dcbergeben",
+    "guid": "23dd7945878cc61fd71ff166d1ed3914"
+  },
+  {
+    "title": "Enzyme Spalten",
+    "solution": "Hydrolase",
+    "guid": "b4d32bbe81f6e1e0fcd964e974cc3a69"
+  },
+  {
+    "title": "Enzyme Binden",
+    "solution": "Ligase",
+    "guid": "5ff016a669a8341e83423f2aea905e4a"
+  }
+]

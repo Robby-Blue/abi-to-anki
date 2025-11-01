@@ -1,0 +1,37 @@
+[
+  {
+    "title": "BVerfG Aufgaben",
+    "solution": "Grundrechte, Normenkontrolle, Streite, Parteien",
+    "guid": "d78eb7f72ca489d39fb25eec0d7449a8"
+  },
+  {
+    "title": "BVerfG Grundrechte",
+    "solution": "Grundrechte einer Person sch\u00fctzen, wenn alle anderen Gerichte abgewiesen haben",
+    "guid": "4af52a21469c22761fc61dbadb390231"
+  },
+  {
+    "title": "BVerfG Normenkontrolle",
+    "solution": "Gesetze kontrollieren",
+    "guid": "4c1b8d851fb0a59a7692e397e1dd5f78"
+  },
+  {
+    "title": "BVerfG Normenkontrolle konkret",
+    "solution": "Fachgericht",
+    "guid": "d9e1b5bb18a24ab2bd31ec73098a3910"
+  },
+  {
+    "title": "BVerfG abstrakt",
+    "solution": "Bundesregierung, eines Landesregierung oder 1/4 des Bundestages",
+    "guid": "11bd180a818d7b23439a19ef430542c4"
+  },
+  {
+    "title": "BVerfG Streite",
+    "solution": "Bestimmt Rechte der Organe",
+    "guid": "7e922e0e90bd430f57bbc1abee81933d"
+  },
+  {
+    "title": "BVerfG Parteien",
+    "solution": "verbieten",
+    "guid": "fbf9fb8c847151214879da3c0360b448"
+  }
+]

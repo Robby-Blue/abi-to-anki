@@ -6,7 +6,7 @@
   },
   {
     "title": "de Broglie Formel",
-    "solution": "%lambda = %frac{h}{p}",
+    "solution_latex": "%lambda = %frac{h}{p}",
     "guid": "6be6067b0284115babc52e0d5d571515"
   },
   {

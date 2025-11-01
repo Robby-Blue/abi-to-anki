@@ -1,0 +1,42 @@
+[
+  {
+    "title": "DNA Replikation Art",
+    "solution": "semikonservativ",
+    "guid": "1413c71c9e655bae5c2d6963e2053e04"
+  },
+  {
+    "title": "DNA Replikation Ablauf",
+    "solution": "Teilung, Bindung,",
+    "guid": "770f6ac42487f9bffcbee4959cc4f2c6"
+  },
+  {
+    "title": "DNA Replikation Teilung",
+    "solution": "Helicase",
+    "guid": "706ce1a0deda26ba27be6781ee997165"
+  },
+  {
+    "title": "DNA Replikation Bindung",
+    "solution": "DNA-Polymerase bindet Nukleotide",
+    "guid": "ce1c9c0460d2f4805e0e439cf04471a4"
+  },
+  {
+    "title": "DNA Replikation Kontinuierlich Richtung",
+    "solution": "5' -> 3'",
+    "guid": "5b65c85ae9e0bbdd9d9a87a19c97124c"
+  },
+  {
+    "title": "DNA Replikation Kontinuierlich Name",
+    "solution": "Leitstrang",
+    "guid": "42aa3de323573b51eb24368da7f5fe07"
+  },
+  {
+    "title": "DNA Replikation Diskontinuierlich",
+    "solution": "Folgestrang, Bruchst\u00fccke Okazaki",
+    "guid": "24306b81a6087e49376ba11d2ba370a7"
+  },
+  {
+    "title": "DNA Replikation Okazaki-Fragmente",
+    "solution": "untereinander gebunden, Ligase fixt",
+    "guid": "98766b78e29deeeb5c1513219541823d"
+  }
+]

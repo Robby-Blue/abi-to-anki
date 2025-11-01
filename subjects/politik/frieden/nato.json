@@ -1,0 +1,32 @@
+[
+  {
+    "title": "NATO Name",
+    "solution": "North Atlantic Treaty Organization",
+    "guid": "2fcf528040d7833f38d5e88eb9188a0c"
+  },
+  {
+    "title": "NATO Ziel",
+    "solution": "Friedenssicherung",
+    "guid": "6f7fd192d48e1ee73c3319ba32d7eea4"
+  },
+  {
+    "title": "NATO B\u00fcndnisfall",
+    "solution": "Art 5, Bewaffneter Angriff auf einen ist Angriff auf alle.",
+    "guid": "3f1437350da513e810680647e1f20bc8"
+  },
+  {
+    "title": "NATO Osterweietung",
+    "solution": "NATO erweitert nach Osten",
+    "guid": "59ae1d8aa9743c0f06f917905a16430b"
+  },
+  {
+    "title": "NATO Osterweietung Folgen",
+    "solution": "Russland Sicherheitsdillema, Angriff",
+    "guid": "79d9f778255bc32f8ae6c7ee39ddbd5c"
+  },
+  {
+    "title": "NATO Osterweietung Beispiel",
+    "solution": "NATO-Gipfel 2008, versprochene Mitgliedschaft Ukraine",
+    "guid": "9c4c52056fb29b395223787f331ec879"
+  }
+]

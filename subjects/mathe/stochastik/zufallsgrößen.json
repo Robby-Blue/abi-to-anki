@@ -10,28 +10,8 @@
     "guid": "d2bcc6cf0569137a31cf2fe91959c244"
   },
   {
-    "title": "Stochastik Erwartungswert Formel",
-    "solution_latex": "%mu = E(X) = %sum_{i=1}^n x_i %cdot P(X=x_i)",
-    "guid": "9c458e75cba7746eee38273af499f2bb"
-  },
-  {
     "title": "Stochastik Standardabweichung Zeichen",
     "solution_latex": "%sigma",
     "guid": "867dfbc73ff26372a4e53ce8c318921f"
-  },
-  {
-    "title": "Stochastik Standardabweichung Formel",
-    "solution_latex": "%sigma = %sqrt{%sum_{i=1}^n (x_i - %mu)^2 %cdot P(X=x_i)}",
-    "guid": "3f990e80ee6ec01b43b03563b7a0f030"
-  },
-  {
-    "title": "Stochastik Intervallwahrscheinlichkeit",
-    "solution_latex": "P(%mu-%lfloor%sigma%rfloor < X <%mu+%lfloor%sigma%rfloor)",
-    "guid": "f335a379f1f248839b327f906a51e714"
-  },
-  {
-    "title": "Stochastik Intervallwahrscheinlichkeit Runden",
-    "solution_latex": "In das Intervall rein",
-    "guid": "cc892d3c7efe3b7e3a26115bd0991c6b"
   }
 ]

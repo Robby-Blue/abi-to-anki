@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Regierung Aufgaben",
+    "solution": "Gesetzestexte f\u00fcr Mehrheit, diese durchsetzen mit Verordnungen",
+    "guid": "0dbd4ea2e010400ecfa95b583ef8959c"
+  },
+  {
+    "title": "Regierung Prinzipien",
+    "solution": "Kanzlerprinzip, Ressortprinzip, Kollegialprinzip",
+    "guid": "5bae441cedad34a0d40c5d7295de44f2"
+  },
+  {
+    "title": "Regierung Kanzlerprinzip",
+    "solution": "Kanzler bestimmt Richtlinien, hat Verantwortung",
+    "guid": "dc2a06a492ddba38e2d3eb266a2ca2ea"
+  },
+  {
+    "title": "Regierung Ressortprinzip",
+    "solution": "Minister leiten Ressort selbstst\u00e4ndig, Verantwortung",
+    "guid": "649455063206f0df67a670ad0f44767f"
+  },
+  {
+    "title": "Regierung Kollegialprinzip",
+    "solution": "Mitglieder beraten/entscheiden gemeinsamen \u00fcber Gesetze und Streitfragen",
+    "guid": "a6f662604c0cb9c4001486e3c8d3fadd"
+  }
+]

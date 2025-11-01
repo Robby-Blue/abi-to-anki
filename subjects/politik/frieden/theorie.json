@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Neue Kriege Unterschiede",
+    "solution": "Akteure, Intensit\u00e4t, Dauer, Finanzierung, Kriegsrecht, Kriegsf\u00fchrung",
+    "guid": "7616f1910f31c1e4050efde127debf7b"
+  },
+  {
+    "title": "Neue Kriege Akteure",
+    "solution": "Staaten vs Private Akteure, Terroristen",
+    "guid": "cba41f15e69634b7779df7857b769947"
+  },
+  {
+    "title": "Neue Kriege Intensit\u00e4t",
+    "solution": "Gr\u00f6\u00dfer vs Geringer, keine Fronten",
+    "guid": "fc41ecb7544381c4ed85de84f255f0e1"
+  },
+  {
+    "title": "Neue Kriege Dauer",
+    "solution": "spezifisch, kurz vs unspezifisch",
+    "guid": "2be6da04d458b1fbad02de1c065b0690"
+  },
+  {
+    "title": "Neue Kriege Finanzierung",
+    "solution": "staatlich vs privat, Straftaten",
+    "guid": "087d045708fc683dd3e55dd2c4529df7"
+  },
+  {
+    "title": "Neue Kriege Kriegsrecht",
+    "solution": "eingehalten vs ignoriert, Zivile Ziele",
+    "guid": "2319461a4b5832fc4871ee80fe6546a3"
+  },
+  {
+    "title": "Neue Kriege Kriegsf\u00fchrung",
+    "solution": "Fronten vs Guerilla",
+    "guid": "a6117bde27ef26314f7f90f89b03a5b9"
+  }
+]

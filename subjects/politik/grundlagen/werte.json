@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Werte Zahl",
+    "solution": "5",
+    "guid": "626e568f654eeb17f797f4a8a0fd390f"
+  },
+  {
+    "title": "Werte",
+    "solution": "Sicherheit, Freiheit, Gerechtigkeit, Solidarit\u00e4t, Nachhaltigkeit",
+    "guid": "01e8d1518dd05a1def79ae23708bdc96"
+  },
+  {
+    "title": "Werte Sicherheit",
+    "solution": "Keine Bedrohung durch Personen oder Staaten auf andere",
+    "guid": "606e7210775950463ab41ace76ac6a87"
+  },
+  {
+    "title": "Werte Freiheit Arten",
+    "solution": "Formell und Materiell",
+    "guid": "dfd2e0ad92fda94d6a7464bde5153bc7"
+  },
+  {
+    "title": "Werte Freiheit Formell",
+    "solution": "Etwas d\u00fcrfen",
+    "guid": "b2951f4c4d618bf14de2686b4e2d8a06"
+  },
+  {
+    "title": "Werte Freiheit Materiell",
+    "solution": "Etwas k\u00f6nnen, eg. Finanzieren",
+    "guid": "99ba038a16f22dc8017c3908b2582599"
+  },
+  {
+    "title": "Werte Gerechtigkeit Arten",
+    "solution": "Verfahren und Verteilung",
+    "guid": "a1ab2e9ca84795409baa5cc547c4bbef"
+  },
+  {
+    "title": "Werte Verfahrensgerechtigkeit",
+    "solution": "Bei Justiz oder Entscheidungen",
+    "guid": "daa55022b18f30155c9e4f9c99395b7a"
+  },
+  {
+    "title": "Werte Verteilungsgerechtigkeit Arten",
+    "solution": "Leistungsprinzip, Egalit\u00e4tsprinzip, Bedarfsprinzip",
+    "guid": "5878f813b4dacdbb6994cc6328b1b4b9"
+  },
+  {
+    "title": "Werte Solidarit\u00e4t",
+    "solution": "Zusammenhalt einer Gruppe, zum Wohl der Allgemeinheit",
+    "guid": "c0ae7baa7f6b73f9d0724d1ae895ef71"
+  },
+  {
+    "title": "Werte Nachhaltigkeit",
+    "solution": "Regeneration der Ressourcen",
+    "guid": "92df7646c73cab80abd97a839db0af2c"
+  }
+]

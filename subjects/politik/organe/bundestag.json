@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Bundestag Aufgaben",
+    "solution": "Wahl-, Gesetzgebungs-, Kontroll-, Kommunikationsfunktion",
+    "guid": "0709bb039d40e7a1cfdf14da9f716a55"
+  },
+  {
+    "title": "Bundestag Wahl",
+    "solution": "W\u00e4hlt \u00c4mter (Bundeskanzler, h\u00e4lfte Pr\u00e4sident,BVerfGRichter",
+    "guid": "7a62015bfe15ae7e2cc661391cb5f101"
+  },
+  {
+    "title": "Bundestag Gesetzgebungs",
+    "solution": "Verabschieded Gesetze",
+    "guid": "cde51fed97365abd02e3de047595f7cd"
+  },
+  {
+    "title": "Bundestag Kontroll",
+    "solution": "Kontrolliert Regierung mit Anfragen",
+    "guid": "4dcf33e39bb68f81ffba52de457bb21e"
+  },
+  {
+    "title": "Bundestag Kommunikation",
+    "solution": "Zwischen Staat und B\u00fcrger",
+    "guid": "13e46185b1ecf0d2da61890e841a3c4b"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Stochastik Intervallwahrscheinlichkeit",
+    "solution_latex": "P(%mu-%lfloor k %cdot %sigma%rfloor < X <%mu+%lfloor k %cdot %sigma%rfloor)",
+    "guid": "f335a379f1f248839b327f906a51e714"
+  },
+  {
+    "title": "Stochastik Intervallwahrscheinlichkeit Runden",
+    "solution": "In das Intervall rein",
+    "guid": "cc892d3c7efe3b7e3a26115bd0991c6b"
+  },
+  {
+    "title": "Stochastik Sigma 0.9",
+    "solution_latex": "1.64",
+    "guid": "5d97c38bc188c564e029dbc16a37e0b0"
+  },
+  {
+    "title": "Stochastik Sigma 0.95",
+    "solution_latex": "1.96",
+    "guid": "4b2c606979b268c67476d8425cdc3670"
+  },
+  {
+    "title": "Stochastik Sigma 0.99",
+    "solution_latex": "2.58",
+    "guid": "f485459527736fa15f2511404adf8026"
+  },
+  {
+    "title": "Stochastik Sigma < 0.9 Name",
+    "solution": "vertr\u00e4glich mit p",
+    "guid": "8faed8e3763625ba90714a2c3c87b4ec"
+  },
+  {
+    "title": "Stochastik Sigma 0.95 Name",
+    "solution": "signifikant",
+    "guid": "70fdc7ed32969ead1aa8e3a0a6f3ee91"
+  },
+  {
+    "title": "Stochastik Sigma 0.99 Name",
+    "solution": "hochsignifikant",
+    "guid": "9be6afb64946964acff751d0e7620c70"
+  }
+]

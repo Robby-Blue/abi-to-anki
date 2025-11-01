@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Konfidenz p",
+    "solution_latex": "h = p %pm 1,96 %sqrt{%frac{p %cdot (1-p)}{n}}",
+    "guid": "adf19a9b142e6400d48ff046e0c8794f"
+  },
+  {
+    "title": "Konfidenz h",
+    "solution_latex": "%frac{k}{n}",
+    "guid": "7f4dca8d95659c73f01fadee580661be"
+  },
+  {
+    "title": "Konfidenz beschreibung",
+    "solution": "Ein Intervall in welchem zu 95% das eigentliche p ist",
+    "guid": "c268a10839ab53a4b8847f255a119eca"
+  }
+]

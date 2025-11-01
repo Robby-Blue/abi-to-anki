@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Medien Funktionen",
+    "solution": "Agenda-Setting, Gatekeeper",
+    "guid": "e248370b4e2b85802200d52ef3a06b34"
+  },
+  {
+    "title": "Medien Funktionen Agenda-Setting",
+    "solution": "Bestimmen Relevante Themen",
+    "guid": "8577832f65de6e58496c5fa6a4e3e29e"
+  },
+  {
+    "title": "Medien Funktionen Gatekeeper",
+    "solution": "Verschweigen Infos",
+    "guid": "fbb0bdaf98ff5329e060310f9eea0f39"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Krieg Definition",
+    "solution": "bewaffnet, mind 1 Staat, zentral organisiert, dauerhaft, strategisch",
+    "guid": "58874d6172ef0ace22dc953dca1dcd2c"
+  },
+  {
+    "title": "Krieg Definition Zahl",
+    "solution": "5",
+    "guid": "abc0663ce92e469a1cd6fdd69ccafe28"
+  },
+  {
+    "title": "Krieg Alternative",
+    "solution": "Bewaffneter Konflikt",
+    "guid": "6b5d8dd8fbc11009b93811b513e83657"
+  },
+  {
+    "title": "Krieg Ursachen Generell",
+    "solution": "Unzufriedenheit",
+    "guid": "a2f27365536dec977835ce1b22d88ad9"
+  },
+  {
+    "title": "Krieg Ursachen Beispiel",
+    "solution": "unbeliebte Regime, Systeme, fehlende Autonomie, Macht, folgen des Kolonialismus",
+    "guid": "f79fe18294c439772e927f17901ddeb5"
+  }
+]

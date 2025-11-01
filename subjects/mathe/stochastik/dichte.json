@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Dichtefunktion",
+    "solution": "Dichte einer Wahrscheinlichkeitsverteilung",
+    "guid": "9d95b0eb0b9a0e8630e4d92f23d40089"
+  },
+  {
+    "title": "Dichtefunktion Nutzen",
+    "solution_latex": "P(a %le x %le b) = %int_a^b f(x)%,%text{d}x",
+    "guid": "18f4ec6b3c9dadce5b79089989afe865"
+  },
+  {
+    "title": "Dichtefunktion Bedingungen",
+    "solution": "Nie unter 0, Integral von 1",
+    "guid": "caa8f6f681095ca87ed31eac02fbd287"
+  }
+]
