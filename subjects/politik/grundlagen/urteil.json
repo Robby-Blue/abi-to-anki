@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Pol Urteil Zahl",
+    "solution": "3",
+    "guid": "9f15ab02b4ca5ace4af2f547536466a9"
+  },
+  {
+    "title": "Pol Urteil",
+    "solution": "Effizienz, Legitimit\u00e4t, Grundwerte",
+    "guid": "12c938765c3ab70cb636f6cfa2f78e48"
+  },
+  {
+    "title": "Pol Urteil Effizienz",
+    "solution": "effektiv, schnell Durchsetzbar, geringen Kosten, gro\u00dfe Auswirkung, ohne Nebenwirkungen",
+    "guid": "737929e17a82768dcd667f0778099b23"
+  },
+  {
+    "title": "Pol Urteil Legitimit\u00e4t",
+    "solution": "Rechtsm\u00e4\u00dfig, Verfassung, Menschenrechte",
+    "guid": "5d621f324d02c8925f6a666fecc53e3f"
+  },
+  {
+    "title": "Pol Urteil Grundwert",
+    "solution": "Den 5 Grundwerten folgend",
+    "guid": "c4a8e1bb04df206ac7ffd8a4b02c6e91"
+  },
+  {
+    "title": "Pol Urteil Werturteil",
+    "solution": "Grundwerten",
+    "guid": "7d691e8a90aa7cf7cce66d4b60b29836"
+  },
+  {
+    "title": "Pol Urteil Sachurteil",
+    "solution": "Effizienz",
+    "guid": "5f5ddbd1f9ce8b03645552858bb0a80c"
+  },
+  {
+    "title": "Pol Urteil Sach- und Werturteil",
+    "solution": "Legitimit\u00e4t",
+    "guid": "93bf8a20b9f7de1d27eb5d7e0396950d"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "DNA Transkription Aufgabe",
+    "solution": "DNA zu mRNA, weil DNA in Zellkern, Info in Zytoplasma gebraucht",
+    "guid": "2e3f47f56aa5fadb5364b6ea228bc4ce"
+  },
+  {
+    "title": "DNA Transkription Phasen",
+    "solution": "Initiiation, Elongation, Termination",
+    "guid": "3c38f4aea6eae2a538e82d75a8a343e2"
+  },
+  {
+    "title": "DNA Transkription Initiiation",
+    "solution": "RNA-Polymerase findet Startsequenz, Promotor. DNA wird geteilt",
+    "guid": "18c7086c600492233145fa0fe0bce2b9"
+  },
+  {
+    "title": "DNA Transkription Elongation",
+    "solution": "RNA-Polymerase transkribiert codogenen Strang",
+    "guid": "427caaad7a5e3450963276d5db796e28"
+  },
+  {
+    "title": "DNA Transkription codogen Richtung",
+    "solution": "3' -> 5'",
+    "guid": "10e1e0ba1873aed9d23e3ddd4f4e98ae"
+  },
+  {
+    "title": "DNA Transkription neu Richtung",
+    "solution": "5' -> 3'",
+    "guid": "6363dfedacf78d2d8eb2c04f00c6bb43"
+  },
+  {
+    "title": "DNA Transkription Termination",
+    "solution": "Terminator gefunden, m-RNA freigegeben",
+    "guid": "2ecd3fe262e1996a0babff657406e72c"
+  }
+]

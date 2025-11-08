@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Staatsfunktionen",
+    "solution": "Sicherheitsfunktion, Wohlfahrtsfunktion, Legitimit\u00e4ts- und Rechtsstaatssfunktion",
+    "guid": "cfebdceb00ab6d87144fb6482d24e38d"
+  },
+  {
+    "title": "Staatsfunktionen Sicherheitsfunktion",
+    "solution": "Bietet B\u00fcrgerInnen Sicherheit",
+    "guid": "8871f6475acb3d0299bb9f7541cdf2ff"
+  },
+  {
+    "title": "Staatsfunktionen Wohlfahrtsfunktion",
+    "solution": "Unterst\u00fctzung, Ressourcne, Sozial- Bildungs- Gesundheitspolitik",
+    "guid": "642a64766ac73f26d681aaf9b7929b90"
+  },
+  {
+    "title": "Staatsfunktionen Legitimit\u00e4ts- und Rechtsstaatssfunktion",
+    "solution": "Demokratie, Rechtsstaat, Freiheit, Menschenrechte",
+    "guid": "7400b60b98d9cd9463f58d8d5fb0f511"
+  }
+]

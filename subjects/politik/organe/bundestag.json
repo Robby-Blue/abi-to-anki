@@ -21,7 +21,17 @@
   },
   {
     "title": "Bundestag Kommunikation",
-    "solution": "Zwischen Staat und B\u00fcrger",
+    "solution": "Zwischen Staat und B\u00fcrger, z.B. in Plenardebatten",
     "guid": "13e46185b1ecf0d2da61890e841a3c4b"
+  },
+  {
+    "title": "Bundestag Art",
+    "solution": "Arbeitsparlament",
+    "guid": "801813daeaeff406766e36c5b6327dbd"
+  },
+  {
+    "title": "Bundestag Arbeitsparlament",
+    "solution": "Keine Debatte",
+    "guid": "fb9ad079d536812e2d3fd6bf31f4decf"
   }
 ]

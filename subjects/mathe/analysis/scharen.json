@@ -3,5 +3,15 @@
     "title": "Ortskurve",
     "solution": "- x in Abh\u00e4ngigkeit von Parameter bei der Stelle\n- y in Abh\u00e4ngigkeit vom Parameter\n- Beides in Abh\u00e4ngigkeit von x",
     "guid": "c2632320ca49df4ec9382244d38aa7ea"
+  },
+  {
+    "title": "Funktionsschar Schreibweise",
+    "solution_latex": "f_a(x)",
+    "guid": "73a192e9e48e904eee8f744459c2ee5e"
+  },
+  {
+    "title": "Funktionsschar Schreibweise CAS",
+    "solution_latex": "f(x, a)",
+    "guid": "faf8f70016caf2fdae3a624cdb3d2c3d"
   }
 ]
