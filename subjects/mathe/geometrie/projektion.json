@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Projektion Namen",
+    "solution": "P mit Projektionsvektor zu P'",
+    "guid": "dee45ac741306bdd7ae6dc15b7a61f89"
+  },
+  {
+    "title": "Projektion Ort",
+    "solution": "Schnittpunkt Gerade, Ebene oder Matrix * P",
+    "guid": "f7e34f18a242c531ffc0ce624582d560"
+  },
+  {
+    "title": "Projektion Matrix",
+    "solution": "nth mit Br\u00fcchen; negativ, nth in Nenner, andere sortiert Z\u00e4hler. Und 1 0 \\ 0 1",
+    "guid": "a17ddcc6dd3e57a83d3274cca3b1ba27"
+  },
+  {
+    "title": "Schr\u00e4gbild Beschreiben",
+    "solution": "alpha = Winkel, k = L\u00e4nge von dritte Achse",
+    "guid": "03377f7daaaeb801394245f76cbb07a3"
+  },
+  {
+    "title": "Schr\u00e4gbild a b",
+    "solution": "P(1|0|0) zu P'(0|a|b)",
+    "guid": "8a134798328b2c8da67acfd1813582c0"
+  },
+  {
+    "title": "Schr\u00e4gbild a Formel",
+    "solution_latex": "a = -k %cos{%alpha}",
+    "guid": "04fe1a35ffc84c9a055df6f6390a2ff6"
+  },
+  {
+    "title": "Schr\u00e4gbild b Formel",
+    "solution_latex": "b = -k %sin{%alpha}",
+    "guid": "20b73830f0e8801f4116f751e6a5f68b"
+  },
+  {
+    "title": "Schr\u00e4gbild alpha Formel",
+    "solution_latex": "%tan{%alpha} = %frac{%vert b %vert}{%vert a %vert} ",
+    "guid": "83d8bd9cbb90ce8f1b62b42f1af4baff"
+  },
+  {
+    "title": "Schr\u00e4gbild k Formel",
+    "solution_latex": "k = %sqrt{a^2 + b^2}",
+    "guid": "452cbea56c171095bba46310d3d05aff"
+  },
+  {
+    "title": "Schr\u00e4gbild Vektor",
+    "solution_latex": "%vect{v} = %begin{bmatrix} -1 %% a %% b %end{bmatrix}",
+    "guid": "7bb9881c528336dbf7572732ff7689ed"
+  },
+  {
+    "title": "Schr\u00e4gbild Matrix",
+    "solution_latex": "%begin{bmatrix} a & 1 & 0 %% b & 0 & 1 %end{bmatrix} ",
+    "guid": "96c27102ef1ba67de8d75ed5cdb1d4b8"
+  }
+]

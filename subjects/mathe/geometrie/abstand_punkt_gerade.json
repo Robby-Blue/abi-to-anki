@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Abstand Punkt Gerade Schreibweise",
+    "solution_latex": "d(A,g)",
+    "guid": "0508b3da7b6541ed371a1f3e1c4ffd41"
+  },
+  {
+    "title": "Abstand Punkt Gerade Schreibweise",
+    "solution_latex": "(%vp{OS} + r %cdot %vect{u} - %vp{OA}) %cdot %vect{v} = 0",
+    "guid": "5c8231b46ac6f8cd9426609dbab1867f"
+  }
+]

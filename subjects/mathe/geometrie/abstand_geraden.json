@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Abstand Geraden Schreibweise",
+    "solution_latex": "d(g_1,g_2)",
+    "guid": "c857973d8b5dbf4dc75470630830e440"
+  },
+  {
+    "title": "Abstand Geraden Verbindungsvektor",
+    "solution_latex": "%vect{c} = %vp{X}_s - %vp{X}_r",
+    "guid": "7e6a6ed08a36d83b5ffce31c219f4de7"
+  },
+  {
+    "title": "Abstand Geraden Bedingung",
+    "solution_latex": "%vect{c} %cdot %vect{v} = 0 %quad %text{und} %quad %vect{c} %cdot %vect{u} = 0",
+    "guid": "001fed0ba840478a7f2b1ac1aa7d3af3"
+  }
+]

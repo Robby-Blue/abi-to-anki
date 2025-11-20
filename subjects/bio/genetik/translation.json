@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Translation Aufgabe",
+    "solution": "mRNA zu Proteine",
+    "guid": "a7da10a4d0f417082863fa0ae506f989"
+  },
+  {
+    "title": "Translation Ort, Mittel",
+    "solution": "Ribosome, tRNA",
+    "guid": "3c65c682ebfcccf8f852137d0fa35abf"
+  },
+  {
+    "title": "Translation Ribosome",
+    "solution": "EPA",
+    "guid": "f8ef58079aaf1b38e0d9fd3b8c8f9cb2"
+  },
+  {
+    "title": "Translation tRNA Aufbau",
+    "solution": "Anticodon und passende Aminos\u00e4ure",
+    "guid": "09659390be78d3020979d9469741c8be"
+  },
+  {
+    "title": "Translation Ablauf",
+    "solution": "tRNA kommt zu Ribosom, bindet, verl\u00e4sst, l\u00e4sst Aminos\u00e4ure da, Ribosom bewegt um ein Codon. Zyklus",
+    "guid": "7509716455971b9e351ab8c9d0219195"
+  }
+]

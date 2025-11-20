@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Mutation Arten",
+    "solution": "Substitution, Frameshift",
+    "guid": "7e0073be577241ccb05b85b9538066e1"
+  },
+  {
+    "title": "Mutation Substitution",
+    "solution": "Missense, Nonsense, Still",
+    "guid": "70f69d2ddda202ebad4b7cafb66535c5"
+  },
+  {
+    "title": "Mutation Missense",
+    "solution": "Eine Aminos\u00e4ure ver\u00e4ndert",
+    "guid": "128984052fbe869a5cf9dd2150a17417"
+  },
+  {
+    "title": "Mutation Nonsense",
+    "solution": "Fr\u00fchzeitige Termination",
+    "guid": "f7cd6e7e5a337991c4da442949a366ee"
+  },
+  {
+    "title": "Mutation Frameshift",
+    "solution": "Hinzuf\u00fcgen/Entfernen, Rest ist geshifted",
+    "guid": "f4ba444de117e68a7fdb721b405f42e9"
+  }
+]

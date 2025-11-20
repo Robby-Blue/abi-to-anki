@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Quadratische Erg\u00e4nzung",
+    "solution": "In Form bringen, auf beiden Seiten addieren, umformen und Wurzel ziehen",
+    "guid": "ce6f95b973ac21471d17925c459fedf6"
+  },
+  {
+    "title": "Quadratische Erg\u00e4nzung Form",
+    "solution_latex": "x^2 + px = -q",
+    "guid": "0edd2aeb96b1ade6d177f6b6facd9b57"
+  },
+  {
+    "title": "Quadratische Erg\u00e4nzung Addition",
+    "solution_latex": "(p %cdot 0.5)^2",
+    "guid": "015ed53c159c6fb9ef47beb71cffc4e3"
+  },
+  {
+    "title": "pq-Formel",
+    "solution_latex": "x = - %frac{p}{2} %pm %sqrt{%left(%frac{p}{2}%right)^2 - q}",
+    "guid": "7b38ffa3d2a7cba2562682d9b83e97c9"
+  },
+  {
+    "title": "Satz von Vieta",
+    "solution_latex": "x_1 + x_2 = -p %quad %text{und} %quad x_1 %cdot x_2 = q",
+    "guid": "c5434422063ae4697653de515a60c53d"
+  },
+  {
+    "title": "Satz von Vieta p",
+    "solution_latex": "x_1 + x_2 = -p",
+    "guid": "59dd8b71ad0dc9b1c0404276d8efcc32"
+  },
+  {
+    "title": "Satz von Vieta q",
+    "solution_latex": "x_1 %cdot x_2 = q ",
+    "guid": "83260c96907fc2e0c3ff29dbdf870d7d"
+  },
+  {
+    "title": "Mitternachtsformel",
+    "solution_latex": "x = %frac{-b %pm %sqrt{b^2-4ac}}{2a} ",
+    "guid": "7b1f20c4850a7e5326b2f8cf2fa18e5b"
+  }
+]
