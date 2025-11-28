@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Mach-Zehnder-Interferometer Aufbau",
+    "solution": "Laser, zwei Strahlenteiler, zwei Spiegel, zwei Detektoren",
+    "guid": "724426942c22e13378db445cb2aa6be3"
+  },
+  {
+    "title": "Mach-Zehnder-Interferometer Beobachtung",
+    "solution": "Detektor 1 kein Licht, Detektor 2 Interferenzmuster. Beim Weg messen verschwindet es.",
+    "guid": "fcff6e401ec3eb14798da1722da8fe2f"
+  },
+  {
+    "title": "Mach-Zehnder-Interferometer Folge",
+    "solution": "Photonen sind delokalisiert, interferieren mit selbst",
+    "guid": "424a5a1329a0406996d366b89f331557"
+  },
+  {
+    "title": "Mach-Zehnder-Interferometer Komplimentarit\u00e4tsprinzip",
+    "solution": "Entweder Welleneigentschaften oder Teilcheneigenschaften, nicht beides",
+    "guid": "699def4a8f2461b1d9b62988b0cd34e4"
+  }
+]

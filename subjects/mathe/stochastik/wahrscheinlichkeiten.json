@@ -8,5 +8,15 @@
     "title": "Stochastik Bedingte Wahrscheinlichkeit Formel",
     "solution_latex": "%frac{P(A %,%text{und}%, B)}{P(B)}",
     "guid": "c3970de8a2e771ecacf1a1db3b288345"
+  },
+  {
+    "title": "entweder E_1 oder E_2",
+    "solution_latex": "P(E_1) + P(E_2) - 2 %cdot P(E_1 %cap E_2)",
+    "guid": "025be9e4784a0b289ec390ea61ece411"
+  },
+  {
+    "title": "und",
+    "solution_latex": "P(E_1 %cap E_2) = P(E_1)",
+    "guid": "0c983764635500278a6c9ebe6d914e01"
   }
 ]

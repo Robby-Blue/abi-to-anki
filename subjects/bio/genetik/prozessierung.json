@@ -5,17 +5,17 @@
     "guid": "69d66887c18540187c7327f43705201d"
   },
   {
-    "title": "Alternative Splei\u00dfen Ablauf",
+    "title": "Splei\u00dfen Ablauf",
     "solution": "capping, tailing; Splei\u00dfen: Introns entfernt, Exons verbunden; Zellkern verlassen",
     "guid": "8690d6296dd3138cd006d13803fe96e4"
   },
   {
-    "title": "Alternative capping, tailing",
+    "title": "capping, tailing",
     "solution": "Enden werden abgebaut, also verl\u00e4ngern f\u00fcr Schutz",
     "guid": "db3e191bb32bd1fb75c7145885165bd7"
   },
   {
-    "title": "Alternative Introns Exons",
+    "title": "Introns Exons",
     "solution": "Immer abwechselnd, Exons speichern Erbinformation",
     "guid": "5ef7f721767e7b183e489379f739be77"
   }
