@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Stammbaum weiblich",
+    "solution": "Kreis",
+    "guid": "ddb9bc1cb2583f34d465fad9602897cf"
+  },
+  {
+    "title": "Stammbaum m\u00e4nnlich",
+    "solution": "Viereck",
+    "guid": "092957dcc934a1ae3efa1f419a0f288b"
+  },
+  {
+    "title": "Stammbaum dominant",
+    "solution": "A",
+    "guid": "0a9bd7fcd4ae2e47117fbbc2d48dd9fb"
+  },
+  {
+    "title": "Stammbaum rezessiv",
+    "solution": "a",
+    "guid": "b52af7339c4771872ceb818663626b63"
+  },
+  {
+    "title": "Stammbaum irrelevant",
+    "solution": "Unterschiedliche Eltern oder Eltern gleich Kind",
+    "guid": "282175809ce8889850c23abb9011c6dd"
+  },
+  {
+    "title": "Stammbaum wichtig",
+    "solution": "Gleiche Eltern aber anderes Kind",
+    "guid": "05da34e04fcf7385f816dfce49ff0a81"
+  },
+  {
+    "title": "Stammbaum Eltern Merkmal",
+    "solution": "dominant",
+    "guid": "53ad0fad8339304c3df01b5ae2f18b7f"
+  },
+  {
+    "title": "Stammbaum Eltern kein Merkmal",
+    "solution": "rezessiv",
+    "guid": "2909a1abd2d35a644bcb3e74be8a5e24"
+  }
+]

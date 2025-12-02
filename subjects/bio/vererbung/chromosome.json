@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Chromosome langer Strang",
+    "solution": "Chromatin",
+    "guid": "ee633c19c75e36f4a6b737d3ad3977ee"
+  },
+  {
+    "title": "Chromosome verdichtet",
+    "solution": "Chromosom",
+    "guid": "d1154c40b742625d01fc1d87fef247b2"
+  },
+  {
+    "title": "Chromosome Bestandteile",
+    "solution": "zwei Chromatide",
+    "guid": "4fc19091c1942b10c8efdcb4009cf302"
+  },
+  {
+    "title": "Chromosome Zusammenhalt",
+    "solution": "Centromer",
+    "guid": "35f81a4418492d5cc2758db45057a3e3"
+  },
+  {
+    "title": "Chromosome Unterschied",
+    "solution": "Zwei-Chromatid- und Ein-Chromatid-Chromosome",
+    "guid": "714f772d4166b2c1140e5fc57033f8f0"
+  },
+  {
+    "title": "Chromosome Zahl",
+    "solution": "46",
+    "guid": "68ba2bc693b6d11372c1c126545afde7"
+  },
+  {
+    "title": "Chromosome Autosomen",
+    "solution": "zwei homologe Chromosome",
+    "guid": "abaa79f13483dca18b598b153e7bff5c"
+  },
+  {
+    "title": "Allelen",
+    "solution": "Gen position",
+    "guid": "d22df0083c92121175d462e2f8022fec"
+  },
+  {
+    "title": "Allelen Arten",
+    "solution": "dominant, rezessiv",
+    "guid": "63b14af29d897fc7c2c1bb34e31fce04"
+  },
+  {
+    "title": "Allelen dominant",
+    "solution": "nur ein der beiden homologen notwenig um Auszupr\u00e4gen",
+    "guid": "c3f7f40a5c8fd7feda6d4574da3fb4c9"
+  },
+  {
+    "title": "Allelen rezessiv",
+    "solution": "in beiden homologen notwedig",
+    "guid": "ec98701a6c9f53b6214d85e8baed1e06"
+  },
+  {
+    "title": "homolog",
+    "solution": "Gleiche Allelen, nicht immer gleicher Inhalt",
+    "guid": "fd8d9f2a32f3cf0c9eb57c5a6f6a3780"
+  },
+  {
+    "title": "homolog Gleich",
+    "solution": "homozygoten",
+    "guid": "50234304d4ac8ba8b901790b1e8199c4"
+  },
+  {
+    "title": "homolog Ungleich",
+    "solution": "heterozygoten",
+    "guid": "87bba868499987056a80f1595ef73378"
+  },
+  {
+    "title": "Chromosome XX XY",
+    "solution": "Gonosom",
+    "guid": "2672cc2de7a162521fc780b78de8ef45"
+  },
+  {
+    "title": "Chromosome Alle 46",
+    "solution": "Diploid 2n",
+    "guid": "04d777e6e0c09432294072a579ecb297"
+  },
+  {
+    "title": "Chromosome Ei- und Spermazellen",
+    "solution": "haploid 1n",
+    "guid": "6a1045c4935e9bef6bbc80f86337d5ed"
+  },
+  {
+    "title": "Chromosome Typen",
+    "solution": "Ph\u00e4notyp, Genotyp",
+    "guid": "f447c724f4cd30fc4c6cfb3a7a97f0c3"
+  },
+  {
+    "title": "Ph\u00e4notyp",
+    "solution": "Aussehen",
+    "guid": "8dbb50afb0cae8c133055dc980a10064"
+  },
+  {
+    "title": "Genotyp",
+    "solution": "Gen",
+    "guid": "14fed43a31e4d767f56747f35ff9b7fb"
+  },
+  {
+    "title": "Bio Konduktor",
+    "solution": "Lebewesen mit Rezessivem, unausgepr\u00e4gten Merkmal, gibt weiter",
+    "guid": "29a1441a4d53448a19a028781b79a049"
+  }
+]
