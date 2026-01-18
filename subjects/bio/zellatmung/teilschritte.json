@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Zellatmung Teilschritte",
+    "solution": "Glykolyse, oxidative Decarboxylierung, Citratzyklus, oxidative Phosphorylierung",
+    "guid": "cf27c601782c57d436d38cc81269d178"
+  },
+  {
+    "title": "Zellatmung Glykolyse Ort",
+    "solution": "Zytoplasma",
+    "guid": "c484bf9e69ef87f1e5cfa636db97df8f"
+  },
+  {
+    "title": "Zellatmung Glykolyse Reaktion",
+    "solution": "Glucose zu zwei Pyruvat und 2NADH + H+",
+    "guid": "63aa6a15e8bc464c4d21bb3bacd5ee98"
+  },
+  {
+    "title": "Zellatmung Glykolyse Nutzen",
+    "solution": "Pyruvat f\u00fcr oxidative Decarboxylierung, 2NADH + H+ f\u00fcr oxidative Phosphorylierung",
+    "guid": "65609fdbb5c8b24d63f87914fd6c36e1"
+  },
+  {
+    "title": "Zellatmung oxidative Decarboxylierung Ort",
+    "solution": "Matrix",
+    "guid": "816f55af400d407fc301939642ca8499"
+  },
+  {
+    "title": "Zellatmung oxidative Decarboxylierung Reaktion",
+    "solution": "Pyruvat Kohlenstoff abgespalten, NAD+ des Pyruvat reduziert, mit Coenzym A entsteht Acetyl-CoA",
+    "guid": "002cc46c07fd5be6ffa098008878f646"
+  },
+  {
+    "title": "Zellatmung oxidative Decarboxylierung Nutzen",
+    "solution": "Acetyl-CoA f\u00fcr Citratzyklus",
+    "guid": "ba81b3dfcfd3bbbaf6952261bcf0ee83"
+  },
+  {
+    "title": "Zellatmung Citratzyklus Reaktion",
+    "solution": "aus Acetyl-CoA wird CO2 ATP NADH + H+ und FADH2 gewonnen",
+    "guid": "f2195f54d1f2144cae92a79dc4eebe3f"
+  },
+  {
+    "title": "Zellatmung oxidative Phosphorylierung",
+    "solution": "Atmungskette und ATP-Synthase",
+    "guid": "4792fcc17f88d311b867968da2569e1c"
+  }
+]

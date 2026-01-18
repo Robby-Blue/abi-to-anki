@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Mitochondrium Aufbau in Membram",
+    "solution": "Intermembranraum",
+    "guid": "b7a27985954a83edff613a593efa9f42"
+  },
+  {
+    "title": "Mitochondrium Aufbau innere Membrean Teile",
+    "solution": "Cristae, ATP-Synthase",
+    "guid": "5a12e9576e37336e06cb8037085855d7"
+  },
+  {
+    "title": "Mitochondrium Aufbau in innere Membrean",
+    "solution": "Matrix",
+    "guid": "2312ae2d247ecaf93059a9700c0aadc8"
+  },
+  {
+    "title": "Mitochondrium Aufbau in Matrix",
+    "solution": "Plasmid",
+    "guid": "f41000b0324efb134ac721be43cfc862"
+  },
+  {
+    "title": "Mitochondrium Aufbau Intermembranraum",
+    "solution": "mehr H+",
+    "guid": "adb8f8d057a167505bc90245add10fc6"
+  }
+]

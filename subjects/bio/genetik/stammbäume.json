@@ -38,5 +38,20 @@
     "title": "Stammbaum Eltern kein Merkmal",
     "solution": "rezessiv",
     "guid": "2909a1abd2d35a644bcb3e74be8a5e24"
+  },
+  {
+    "title": "Stammbaum Gonosomal",
+    "solution": "Wenn auf Y, dann alle mit Y",
+    "guid": "83a419240857530a5a37ea21a65761ba"
+  },
+  {
+    "title": "Stammbaum Gonosomal X M\u00f6glichkeiten",
+    "solution": "Beide Eltern mit, Kind ohne -> Autosomal; beide Eltern ohne, Kind mit -> rezessiv; Vater ohne, Mutter mit, Sohn mit -> beides; andere F\u00e4lle -> dominant",
+    "guid": "d9cc88576f365a4a72a473291eabda83"
+  },
+  {
+    "title": "Stammbaum Widerspruch",
+    "solution": "\u00dcber mehrere Gene, mehrere Wege, vererbt",
+    "guid": "7527a826f03dcb7b290075ddc91549cc"
   }
 ]

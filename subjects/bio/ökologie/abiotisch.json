@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Thermokonformer",
+    "solution": "Kein eigener Einfluss auf K\u00f6rpertemperatur",
+    "guid": "23e612ff7cc4ce2801e02cf77e73ff62"
+  },
+  {
+    "title": "Thermokonformer Vor/Nachteile",
+    "solution": "Mehr Abh\u00e4ngigkeit, kleinerer Lebensraum, Weniger Energienutzen",
+    "guid": "8991a56e9dfb5f85289be9b31710c03b"
+  },
+  {
+    "title": "Thermoregulierer",
+    "solution": "Regulieren K\u00f6pertemperatur",
+    "guid": "632e73f04bc94a635ca7e755163ed116"
+  },
+  {
+    "title": "Thermoregulierer Vor/Nachteile",
+    "solution": "Unabh\u00e4ngigkeit, Mehr Energie benutzt",
+    "guid": "b4acb8d3e955ad33ece4da7f81ccf2fd"
+  },
+  {
+    "title": "Bergmannsche Regel",
+    "solution": "K\u00e4ltere Klimazone = gr\u00f6\u00dfere Tiere",
+    "guid": "a0aa39bf547a54682bc638c18a65572f"
+  },
+  {
+    "title": "Bergmannsche Regel Grund",
+    "solution": "Volumen (Energiespeicher) ~ x^3, Oberfl\u00e4che (Energienutzer) ~ x^2; mehr Energie pro Fl\u00e4che",
+    "guid": "c7bdd0f04b1b0f6846554e1023c604d5"
+  },
+  {
+    "title": "Allensche Regel",
+    "solution": "K\u00e4ltere Klimazone = kleinere K\u00f6rperanh\u00e4nge",
+    "guid": "a1a945578df8686908f03a263e758175"
+  },
+  {
+    "title": "Allensche Regel Grund",
+    "solution": "gr\u00f6\u00dfer nutzt mehr Energie; gut zur Theormoregulation in w\u00e4rme, schlecht f\u00fcr Energieverschwendung wenn kalt",
+    "guid": "bbf8c7b352d3d12a4427985df339def5"
+  }
+]

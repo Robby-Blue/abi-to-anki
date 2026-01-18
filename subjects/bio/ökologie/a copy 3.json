@@ -1,0 +1,22 @@
+[
+  {
+    "title": "R\u00e4uber Beute",
+    "solution": "eine Tierart frisst andere",
+    "guid": "04f3605129a0b39da9cf96b808fed6e1"
+  },
+  {
+    "title": "R\u00e4uber Beute Auswirkung",
+    "solution": "Mehr Beute -> Mehr (Essen f\u00fcr) R\u00e4uber, Mehr R\u00e4uber -> weniger Beute",
+    "guid": "86652d3e1c1723ff08ee6e678ffe2265"
+  },
+  {
+    "title": "R\u00e4uber Beute Darstellung",
+    "solution": "Nahrungsnetz",
+    "guid": "0dc43702de1cc2197d857bf6e69531b5"
+  },
+  {
+    "title": "R\u00e4uber Beute Nahrungsnetz",
+    "solution": "Pfeil von Beute zu R\u00e4uber",
+    "guid": "14562ed7446a479fd0fdd08bf1ba21d8"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Populationsentwicklung Faktoren Arten",
+    "solution": "dichteabh\u00e4ngig, dichteunabh\u00e4ngig",
+    "guid": "3dfc978eab7aa093025254943e086bab"
+  },
+  {
+    "title": "Populationsentwicklung dichteabh\u00e4ngig",
+    "solution": "Nahrungs-, Wassermenge, Krankheiten, Parasiten",
+    "guid": "21ddbf295ac8c71de754ea52fea7d9a9"
+  },
+  {
+    "title": "Populationsentwicklung dichteunabh\u00e4ngig",
+    "solution": "Temperatur, Niederschlag, Umweltkatastrophen",
+    "guid": "a1c621925ab7c423ae1edda77e0a1113"
+  }
+]

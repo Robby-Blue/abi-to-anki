@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Elektronenshuttle",
+    "solution": "Transportieren Elektronen durch Reaktionen",
+    "guid": "f2547fc1711d82785041436d3983ff08"
+  },
+  {
+    "title": "Elektronenshuttle NADH + H+ Oxidiert",
+    "solution": "%ce{NAD+}",
+    "guid": "57ab33cbe27effee553835b0665cde18"
+  },
+  {
+    "title": "Elektronenshuttle NAD+ Reduziert",
+    "solution": "%ce{NADH + H+}",
+    "guid": "bbbb786fb16ba1dad75993537049f93a"
+  },
+  {
+    "title": "Elektronenshuttle FADH2 Oxidiert",
+    "solution": "%ce{FAD}",
+    "guid": "1dd6caa89cb0a55e39e01f1de1474b77"
+  },
+  {
+    "title": "Elektronenshuttle FAD Reduziert",
+    "solution": "%ce{FADH2}",
+    "guid": "c9c7b82d19ab9d4cfe2f8d2d62406c4d"
+  },
+  {
+    "title": "Redox Oxidation",
+    "solution": "Elektron abgeben",
+    "guid": "9ae47d87d65f2923363cae83c9a6f19e"
+  },
+  {
+    "title": "Redox Reduktion",
+    "solution": "Elektron aufnehmen",
+    "guid": "66557bce2e91f62bad0c6742409eae6a"
+  }
+]

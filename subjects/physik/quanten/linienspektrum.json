@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Linienspektrum Erkl\u00e4rung",
+    "solution": "Emmitiertes Licht beim Sprung eines ELektrons in ein niedrigeres Energieniveau",
+    "guid": "8b486abc3d85807e52266d81b4eba41f"
+  },
+  {
+    "title": "Linienspektrum",
+    "solution_latex": "f = f_{Ryd} %cdot %left(%frac{1}{n^2} - %frac{1}{m^2}%right)",
+    "guid": "608c9c7552e5ed2facca8cbc4ae0fef3"
+  },
+  {
+    "title": "Linienspektrum f_Ryd",
+    "solution": "Rydbergkonstante",
+    "guid": "8d528269b19b382f6d9b07e5871332ba"
+  }
+]

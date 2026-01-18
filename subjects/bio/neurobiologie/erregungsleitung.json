@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Erregungsweiterleitung",
+    "solution": "Leitet Aktionspotential weiter",
+    "guid": "f0829c4261f0feeacdcc1cf3c5f4efaf"
+  },
+  {
+    "title": "Erregungsweiterleitung Funktionsweise",
+    "solution": "Na+ im Axon, daneben negative Ladung, Na+ bewegt, dort depolarisiert, Na+ Ionenkan\u00e4le \u00f6ffnen sich, mehr Na+, Zylkus",
+    "guid": "3054dbc833d6f6ff1bf0a0cb6fbe7c8a"
+  },
+  {
+    "title": "Erregungsweiterleitung nicht zur\u00fcck",
+    "solution": "Kan\u00e4le k\u00f6nnen nicht wieder \u00f6ffnen, Refrakt\u00e4rzeit",
+    "guid": "9fe2cb5a7c6f29f3f3a798f586b0d2a0"
+  },
+  {
+    "title": "Erregungsweiterleitung Arten",
+    "solution": "Kontinuierlich und saltatorisch; saltatorisch schneller",
+    "guid": "7b45e1c518238137cdd08bca700ddd57"
+  },
+  {
+    "title": "Erregungsweiterleitung kontinuierlich",
+    "solution": "ununterbrochene Ionenkan\u00e4le",
+    "guid": "dbb54824bf6bb518062a0c948ab97325"
+  },
+  {
+    "title": "Erregungsweiterleitung saltatorisch",
+    "solution": "Myelinscheiden zwischen Ionenkan\u00e4len, '\u00fcbersprungen'",
+    "guid": "8f2eae5d3eb89341ad4249758cc68639"
+  },
+  {
+    "title": "Erregungsweiterleitung passiv",
+    "solution": "Im z.B. Soma",
+    "guid": "b130477b0b0077222206c4e744dc0098"
+  },
+  {
+    "title": "Erregungsweiterleitung aktiv",
+    "solution": "Im Axon",
+    "guid": "a692e297b1d216f12e56d489a9c17c93"
+  }
+]

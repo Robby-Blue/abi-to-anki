@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Nervenzellen Aufbau",
+    "solution": "Dendriten, Soma, Axon",
+    "guid": "a0877ca4951587383eafd4b13b6c5828"
+  },
+  {
+    "title": "Nervenzellen Aufbau Dendriten",
+    "solution": "Kurze Verbindung zur Aufnahme von Erregungen",
+    "guid": "5967bfb1c919ae2fab5e38ca9c781473"
+  },
+  {
+    "title": "Nervenzellen Aufbau Soma",
+    "solution": "Innenraum, mit Zellkern",
+    "guid": "67943cd63765941d9299d6822e6aca9d"
+  },
+  {
+    "title": "Nervenzellen Aufbau Axon",
+    "solution": "Am Axonh\u00fcgel, weiterleitung zur pr\u00e4synaptischen Endigung",
+    "guid": "ae3eb768bb55c54e837f429e6b14d292"
+  },
+  {
+    "title": "Nervenzellen Aufbau um Axon",
+    "solution": "Myelinscheide, Markscheide aus Gliazellen umwickelt f\u00fcr Isolation",
+    "guid": "390bcbc4b0546963471afbae3ccf003a"
+  },
+  {
+    "title": "Nervenzellen Aufbau nach Axon",
+    "solution": "Synapse",
+    "guid": "fea393e6c404c2bac610801268e8c397"
+  }
+]

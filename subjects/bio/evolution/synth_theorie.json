@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Synthetische Evolutionstheorie Name",
+    "solution": "Zusammengesetzt aus Zellbiologie und Genetik",
+    "guid": "e335be800d948f9821a5ccd6c3c2a94a"
+  },
+  {
+    "title": "Synth Population",
+    "solution": "Gruppe an artgleicher Lebewesen",
+    "guid": "ab774dee90d4d4807b43b91f8bbf11d9"
+  },
+  {
+    "title": "Synth reproduktive Fitness",
+    "solution": "Fortpflanzungserfolg eines Lebewesens basierend auf Merkmalen",
+    "guid": "4740b8efa35dd157628ed96906ed159d"
+  },
+  {
+    "title": "Synth Genpool",
+    "solution": "Gesamtheit aller Genvarianten",
+    "guid": "e444db749aeda46c591df334acb46825"
+  },
+  {
+    "title": "Synth Genfrequenz",
+    "solution": "H\u00e4ufigkeit von Genvarianten",
+    "guid": "1c93c73cdbe5a6885493607084df9ecf"
+  },
+  {
+    "title": "Synth Evolutionsfaktoren",
+    "solution": "Faktoren um Genfrequenz zu ver\u00e4ndern",
+    "guid": "50683339eedc525ce6e8a672b66763cf"
+  },
+  {
+    "title": "Synth Rekombination",
+    "solution": "Neue Kombinationen der Gene der Eltern bei Kindbildung",
+    "guid": "580fedac6475bf9080b2711dbfb9d12d"
+  },
+  {
+    "title": "Synth Mutation",
+    "solution": "Einziger Weg neue Genvarianten einzubringen",
+    "guid": "101012db4333c5a55c46e44e5316cda8"
+  }
+]

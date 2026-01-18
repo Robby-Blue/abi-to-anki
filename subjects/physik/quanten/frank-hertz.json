@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Frank-Hertz Versuch",
+    "solution": "Kathode, Gitter. Anode in Glasr\u00f6hre mit Hg-Dampf. Gegenspannung zwischen Gitter und Anode. U_B langsam erh\u00f6ht",
+    "guid": "581fcdffeebedd0e62a80c4841819f4f"
+  },
+  {
+    "title": "Frank-Hertz Beobachtung",
+    "solution": "U_B-I Diagramm zeigt steigende periodische \u00c4nderung. Steigung sobald U_g \u00fcberquert werden kann, bis bei 4,9eV und vielfachen sinkt.",
+    "guid": "8587e36b31dae22a733a1822a76f8b3f"
+  },
+  {
+    "title": "Frank-Hertz Erkl\u00e4rung",
+    "solution": "Hg-Atome k\u00f6nnen nur 4,9eV aufnehmen",
+    "guid": "06c45f649ea1d5128b79f5d66cb46f82"
+  }
+]

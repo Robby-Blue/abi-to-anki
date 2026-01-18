@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Normalverteilung Art",
+    "solution": "Dichtefunktion",
+    "guid": "0084c1061b32da14a8448d85d5e00af0"
+  },
+  {
+    "title": "Normalverteilung Formel",
+    "solution_latex": "f(x) = %frac{1}{%sigma %sqrt{2%pi}} %cdot %text{e}^{-%dfrac{(x-%mu)^2}{2%sigma^2}}",
+    "guid": "6bf37074409413a8f406598d6c0764b6"
+  },
+  {
+    "title": "Normalverteilung Erwartungswert",
+    "solution": "zu x=mu symmetrisch, h\u00f6chster Punkt",
+    "guid": "4eec4432f437556df69f58ea953dc989"
+  },
+  {
+    "title": "Normalverteilung Verteilungsfunktion Erkl\u00e4rung",
+    "solution": "Das Integral, die Kumulative Wahrscheinlichkeit P(-\\infty < X < x)",
+    "guid": "4a3e5167bc33663bc02cf1cced303f1f"
+  },
+  {
+    "title": "Normalverteilung Verteilungsfunktion Formel",
+    "solution_latex": "%Phi(x) = P(X %leq x) = %int_{-%infty}^x %varphi(t) %,%text{d}t",
+    "guid": "b3099d5b2eb8b1b6494a72a4eafe759d"
+  },
+  {
+    "title": "Normalverteilung Inverse Normalfunktion Erkl\u00e4rung",
+    "solution": "L\u00f6st nach x einer Verteilungsfunktion auf. Ab welcher Stelle ist eine kumulative Wahrscheinlichkeit erreicht?",
+    "guid": "c5954f98429e6bee03e8c26894faefec"
+  },
+  {
+    "title": "Normalverteilung Inverse Normalfunktion Formel",
+    "solution_latex": " %Phi(x) = A %Longleftrightarrow %texttt{invNorm(A, $%mu$, $%sigma$)} = x",
+    "guid": "6be9655dc41da30b4cfd47503372e31d"
+  }
+]

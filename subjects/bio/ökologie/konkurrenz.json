@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Konkurrenz Arten",
+    "solution": "Interspezifisch, Intraspezifisch",
+    "guid": "08558f945c1df7e275238a91b797b376"
+  },
+  {
+    "title": "Konkurrenz Intraspezifisch",
+    "solution": "zwei Tiere gleicher Art",
+    "guid": "63d1cbd15b3ca7a0c98f46b375e62b58"
+  },
+  {
+    "title": "Konkurrenz Interspezifisch",
+    "solution": "andere Arten",
+    "guid": "5253bf6ca6fa486343a9006aefa261b7"
+  },
+  {
+    "title": "Konkurrenz Interspezifisch Prinzipien",
+    "solution": "Konkurenzausschlussprinzip, Konkurrenzvermeidung",
+    "guid": "f392d03f6927f70f9b76a915c70272f9"
+  },
+  {
+    "title": "Konkurrenz Konkurenzausschlussprinzip",
+    "solution": "Tiere mit gleichen Anforderungen k\u00f6nnen langzeitig nicht zusammen leben",
+    "guid": "bc018b68bde513a8b5320c8ce5e1f453"
+  },
+  {
+    "title": "Konkurrenz Konkurrenzvermeidung",
+    "solution": "Tiere mit gleicher Nische k\u00f6nnen langzeitig zusammen leben, wenn sie sich vermeiden und den Raum unterschiedliche nutzen",
+    "guid": "944b2f097c3601978b8d8024cf104306"
+  }
+]

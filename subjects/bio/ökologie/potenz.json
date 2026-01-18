@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Potenz",
+    "solution": "Gibt an, wie gut ein Lebewesen bei Umweltfaktoren leben kann",
+    "guid": "e72591688ad7e9078363a65e40f51582"
+  },
+  {
+    "title": "Potenz Darstellung",
+    "solution": "Toleranzkurve",
+    "guid": "d76d298b3912d8fd79ed6244d92c85d8"
+  },
+  {
+    "title": "Potenz Arten",
+    "solution": "physiologisch und \u00f6kologisch",
+    "guid": "00ac9f879e1c55eeaa0d229dfaa31493"
+  },
+  {
+    "title": "Potenz physiologisch",
+    "solution": "Laborbedingungen",
+    "guid": "14aca1a27a49b93c2068176384e829c9"
+  },
+  {
+    "title": "Potenz \u00f6kologisch",
+    "solution": "Drau\u00dfen, mit Konkurrenz",
+    "guid": "293c2a44bdcfd7d765e0f6d800b8a0d7"
+  },
+  {
+    "title": "Potenz Eury\u00f6ken",
+    "solution": "gro\u00dfer Toleranzbereich",
+    "guid": "e4b0e5d04dc81261a073517346e198bf"
+  },
+  {
+    "title": "Potenz Sten\u00f6ken",
+    "solution": "spezialisiert",
+    "guid": "2453e923cf541cd37e4736520b281bec"
+  },
+  {
+    "title": "Toleranzkurve",
+    "solution": "x Umweltfaktor y Potenz",
+    "guid": "b200ae007dd0fb04df0b7706e8838546"
+  },
+  {
+    "title": "Toleranzkurve Punkte",
+    "solution": "Toleranzbereich, Pr\u00e4ferenzbereich, Optimum, Pessima, Minimum/Maximum",
+    "guid": "27a38b3ba5ecd6fb7ae19f8f8412ffb0"
+  },
+  {
+    "title": "Toleranzkurve 2D",
+    "solution": "\u00d6kogramm",
+    "guid": "1c92e67e34ed3822941441de0f69db3c"
+  },
+  {
+    "title": "\u00f6kologische Nische",
+    "solution": "Alle Anspr\u00fcche einer Art auf die Umwelt",
+    "guid": "6979636b05d5ea9caab868417d0b692d"
+  },
+  {
+    "title": "\u00f6kologische Nische Arten",
+    "solution": "Fundamental- und Realnische",
+    "guid": "cf868a29e8b4cb691b7a8dac688bfc77"
+  }
+]

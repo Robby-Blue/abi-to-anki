@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Zellatmung Reaktion",
+    "solution_latex": "%ce{C6H12O6 + 6O2 -> 6CO2 + 6H2O}",
+    "guid": "10be0961f9531663bd512fc35a189c42"
+  },
+  {
+    "title": "Zellatmung Glucose",
+    "solution_latex": "%ce{C6H12O6}",
+    "guid": "bae1e3951c6ba307e48f58d44f55a2fc"
+  },
+  {
+    "title": "Zellatmung",
+    "solution_latex": "Energie aus Glucose und Sauerstoff",
+    "guid": "843831f3cdbaf12899781e46cf9fe705"
+  },
+  {
+    "title": "Zellatmung Ablauf",
+    "solution_latex": "Vier Teilschritte um Elektronenshuttle aus Glucose zu bekommen, dann H+Konzentrationsgradienten, ATP-Synthese",
+    "guid": "c9d57a45a39e158a53d6ed9c36d73709"
+  }
+]

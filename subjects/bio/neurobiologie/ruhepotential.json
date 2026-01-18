@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Ruhepotential",
+    "solution": "Zellenpotential bei Ruhe, -70 mV",
+    "guid": "ea13446d65a5e2620b24ec9064621483"
+  },
+  {
+    "title": "Ruhepotential Entstehung Kurz",
+    "solution": "Konzentrationsunterschied, dann Spannung",
+    "guid": "55318c0a6258a7123acbf9ef3a198b18"
+  },
+  {
+    "title": "Ruhepotential Entstehung",
+    "solution": "K+ verl\u00e4sst, Cl- betritt bisschen wegen Konzentrationsunterschied",
+    "guid": "6d7efd2c0eb7fac051e6ab674bec9192"
+  },
+  {
+    "title": "Ruhepotential Natrium-Kalium-Pumpe Grund",
+    "solution": "Na+ leicht permeable, Leckstrom in die Zelle rein",
+    "guid": "43ba3c3c63f085056fe539ab2ac1600e"
+  },
+  {
+    "title": "Ruhepotential Natrium-Kalium-Pumpe Funktion",
+    "solution": "Pumpt f\u00fcr APT Na+ aus der Zellem K+ in die Zelle",
+    "guid": "bb62debabd1835193a95f9b25eb8f72d"
+  }
+]

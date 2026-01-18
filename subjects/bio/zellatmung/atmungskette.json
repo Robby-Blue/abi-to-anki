@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Atmungskette Reaktion",
+    "solution_latex": "%ce{2 NADH + 2H+ + O2 -> 2NAD+ + 2H2O} ",
+    "guid": "1ed23caed95df83c8c5d029a26614e75"
+  },
+  {
+    "title": "Atmungskette Sinn",
+    "solution": "H+Konzentrationsgef\u00e4lle aufbauen",
+    "guid": "7d303f84cd27284667f55e1650eb67e4"
+  },
+  {
+    "title": "Atmungskette Ablauf",
+    "solution": "Komplex I und II, Ubichinon, Komplex III, Cytochrom c, Komplex IV, Matrix",
+    "guid": "3f468a9be5f9466cf4449ae59d2be1fe"
+  },
+  {
+    "title": "Atmungskette Vergleich",
+    "solution": "Knallgasreaktion",
+    "guid": "91d420bf2112a171482d0950c2a61add"
+  },
+  {
+    "title": "Atmungskette Komplex I und II",
+    "solution": "NADH + H+ und FADH2 als Elektronenshuttle an Ubichinon. Oxidieren, Ubichinon reduziert",
+    "guid": "d30bbbde9cc4914aa692de3f5171d667"
+  },
+  {
+    "title": "Atmungskette Ubichinon",
+    "solution": "Gibt \u00fcber Komplex III an Cytochrom c ab, Ubichinon oxidiert, Cytochrom reduziert",
+    "guid": "23f7a1c758d48365838638e9b8a9f39a"
+  },
+  {
+    "title": "Atmungskette Cytochrom c",
+    "solution": "\u00dcber Komplex IV auf Sauerstoff in Matrix \u00fcbertragen.",
+    "guid": "379e6751527beb23d034ca969e2eb726"
+  },
+  {
+    "title": "Atmungskette Matrix",
+    "solution": "Sauerstoff reduziert, +2 H+ zu H2O",
+    "guid": "4236f537db4dd93569bd4f49a310e5e6"
+  },
+  {
+    "title": "Atmungskette Kopplung",
+    "solution": "zwischen Reaktionen und H+Ionengradienten",
+    "guid": "600cb5fb2a671f590b34ce44353751d2"
+  }
+]

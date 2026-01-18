@@ -1,0 +1,37 @@
+[
+  {
+    "title": "\u00d6kosysteme Adjektive",
+    "solution": "dynamisch (Umweltfaktoren), komplex, offen",
+    "guid": "f7516a80d168f891a88a19967082db52"
+  },
+  {
+    "title": "\u00d6kosysteme Aufteilung",
+    "solution": "Bioz\u00f6nose, Biotop",
+    "guid": "616bc5cd4196a696f589d99e96f26b0d"
+  },
+  {
+    "title": "\u00d6kosysteme Bioz\u00f6nose",
+    "solution": "Lebewesen",
+    "guid": "344ac2f5e7f9ef1672b8c075753cf212"
+  },
+  {
+    "title": "\u00d6kosysteme Biotop",
+    "solution": "Umwelt",
+    "guid": "5fece16cf2179e8a3b0e4ef2f50412e4"
+  },
+  {
+    "title": "Umweltfaktoren Aufteilung",
+    "solution": "biotisch, abiotsch",
+    "guid": "a7317f36582927690ba3fa4be7ce4a3f"
+  },
+  {
+    "title": "Umweltfaktoren biotisch",
+    "solution": "Bioz\u00f6nose",
+    "guid": "baa37591a2c3b44c0137639651d37b5f"
+  },
+  {
+    "title": "Umweltfaktoren abiotisch",
+    "solution": "Biotop",
+    "guid": "4c25a0a6db51e0aead71fa703b30e741"
+  }
+]

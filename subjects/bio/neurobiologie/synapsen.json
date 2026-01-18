@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Synapsen",
+    "solution": "pr\u00e4synaptische Endigung und synaptischer Spalt",
+    "guid": "026f9402dfdcc4a00a011218c969c99d"
+  },
+  {
+    "title": "Synapsen Endkn\u00f6pfchen",
+    "solution": "Vesikel voller spezifischer Neurotransmitter, Ca2+Ionenkan\u00e4le",
+    "guid": "c799a1cf95a139ddd1a8caeb899839c1"
+  },
+  {
+    "title": "Synapsen postsynaptische Membran",
+    "solution": "ligandengesteuerte Ionenkan\u00e4le, Enzyme um Neurotransmitter zu spalten",
+    "guid": "309c198a37d225a062f22ffdeccfd8ee"
+  },
+  {
+    "title": "Synapsen Ablauf Endigung",
+    "solution": "Aktionspotential erreicht, Ca2+ \u00f6ffnet, bindet an Vesikel, bewegt zur Membran",
+    "guid": "2484eaa8798d010bb9dc325f51c99e3f"
+  },
+  {
+    "title": "Synapsen Ablauf Spalt",
+    "solution": "Vesikel verschmilzt mit Membran, l\u00e4sst ACh, frei bindet an Rezeptoren, \u00f6ffnet Ionenkan\u00e4le, Na+ depolarisiert, \u00fcbertragen",
+    "guid": "9e6a52898a58f267d9ae257a086be63f"
+  },
+  {
+    "title": "Synapsen Ablauf Abbau",
+    "solution": "Cholinesterase spaltet Ach zu A und Ch, gelangen zur pr\u00e4. bilden Ach und Vesikel",
+    "guid": "ef8d0437be69a63b1317b3f84458f5f5"
+  },
+  {
+    "title": "Synapse \u00dcbertragenes Potential",
+    "solution": "EPSP (exitatorisches postsynaptisches Potential)",
+    "guid": "40c3ae6878d7162b22abf4c3ffe3f1d6"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Aktionspotential",
+    "solution": "Weiterleitung am Axonh\u00fcgel",
+    "guid": "23bebea25d9484ff29afd560f2616544"
+  },
+  {
+    "title": "Aktionspotential Schritte",
+    "solution": "Vordepolarisation, Depolarisation, Repolarisation, Hyperpolarisation, Ruhepotential",
+    "guid": "ef3dae082b9436564a22241ea2e5d4d2"
+  },
+  {
+    "title": "Aktionspotential Vordepolarisation",
+    "solution": "Leichte depolarisation kommt an",
+    "guid": "23b1f7f89e174364bbdb9621d1393370"
+  },
+  {
+    "title": "Aktionspotential Depolarisation",
+    "solution": "-50 mV, spannungsgesteuerte Na+Kan\u00e4le \u00f6ffnen sich, Na+ in Innenraum. Zu +35 mV",
+    "guid": "1c38ca4e1430ba73be976f6355b2a49f"
+  },
+  {
+    "title": "Aktionspotential Repolarisation",
+    "solution": "Na+ schlie\u00dft, K+ \u00f6ffnet und str\u00f6mt raus. Negativ",
+    "guid": "f464fe32abd85d1e365a149a6e5f0e61"
+  },
+  {
+    "title": "Aktionspotential Hyperpolarisation",
+    "solution": "Negativer als Ruhepotential",
+    "guid": "6d5fa1e9cbba27b42b33e97bac041013"
+  },
+  {
+    "title": "Aktionspotential Ruhepotential",
+    "solution": "Kan\u00e4le schlie\u00dfen, Ruhepotential aufgebaut",
+    "guid": "31ebd1dbbbef66a269411f034025998d"
+  },
+  {
+    "title": "Aktionspotential Alles oder Nichts",
+    "solution": "-50 mV erreicht, dann alles, sonst nichts",
+    "guid": "2425d7e7b275e7152f23331b12f1eab4"
+  }
+]
