@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Symbiose",
+    "solution": "Zusammenleben zweier Arten mit Vorteil",
+    "guid": "44bbf05e4a00bdf11885d35f083b5b12"
+  },
+  {
+    "title": "Symbiose Unterteilungen",
+    "solution": "Ort, Relevanz",
+    "guid": "c33b58d6ca344c439d028cbb92524c41"
+  },
+  {
+    "title": "Symbiose Ort",
+    "solution": "Ekto-, Endosymbiose",
+    "guid": "1b24abddf89315825d260b3ffc7d912c"
+  },
+  {
+    "title": "Symbiose Ektosymbiose",
+    "solution": "Oberfl\u00e4che",
+    "guid": "d81128723e6a84ecb7cb0fe0e4913927"
+  },
+  {
+    "title": "Symbiose Endosymbiose",
+    "solution": "Im K\u00f6rper",
+    "guid": "07c53f795366beae5603c13b2ed67b80"
+  },
+  {
+    "title": "Symbiose Relevanz",
+    "solution": "fakulativ, obligat",
+    "guid": "fcfa50450dad2110740eb6f3fcba8820"
+  },
+  {
+    "title": "Symbiose fakulativ",
+    "solution": "nicht \u00fcberlebensnotwendig",
+    "guid": "b8043e1a735f79fe5cea9bc2b6145430"
+  },
+  {
+    "title": "Symbiose obligat",
+    "solution": "\u00fcberlebensnotwendig",
+    "guid": "642a7a52f6873f878311c18defcce79b"
+  },
+  {
+    "title": "Symbiose Schreibweise",
+    "solution": "+/+",
+    "guid": "2b7b6d823dca96e493fd1a140c0aa049"
+  }
+]

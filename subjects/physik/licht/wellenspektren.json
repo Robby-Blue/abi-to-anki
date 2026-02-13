@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Wellenintensit\u00e4tsspektrum",
+    "solution": "Zuweisung Wellenl\u00e4nge Intensit\u00e4t",
+    "guid": "3c36fae0255d91cf3a7d22b9b7bbf988"
+  },
+  {
+    "title": "Wellenintensit\u00e4tsspektrum Teilen",
+    "solution": "Gitter, Prisma",
+    "guid": "2da82e8b29888b5546c8fd34a7cb0781"
+  },
+  {
+    "title": "Wellenintensit\u00e4tsspektrum Messen",
+    "solution": "LDR lichtempfindlicher Widerstand",
+    "guid": "cf511642c7317204b2ee160cb6df1be6"
+  },
+  {
+    "title": "Wellenintensit\u00e4tsspektrum LDR",
+    "solution": "Halbleiterelement. Photon l\u00f6st Valenzelektron. Erh\u00f6ht Leitf\u00e4higkeit",
+    "guid": "5eae9d9e8fd6733558788fc146fd276b"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Fotosynthese Formel Worte",
+    "solution": "Wasser, CO2, Licht zu O2, Glucose",
+    "guid": "dffcfb04932bef87108748397320de88"
+  },
+  {
+    "title": "Fotosynthese Formel",
+    "solution_latex": "%ce{6H2O + 6CO2 ->[Licht] 6O2 + C6H12O6}",
+    "guid": "b624341c6cddb30a8019035266c0cac2"
+  },
+  {
+    "title": "Fotosynthese Ablauf",
+    "solution_latex": "Prim\u00e4r, Sekund\u00e4rreaktion",
+    "guid": "abafefeb72b9976bd50ae800b828e475"
+  }
+]

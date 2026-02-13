@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Massendefekt",
+    "solution": "Teilchen des Atomkerns wiegen mehr als Atomkern selbst",
+    "guid": "cdec1534a3d60aa3bb2421a8e398ca0c"
+  },
+  {
+    "title": "Massendefekt Berechnen",
+    "solution": "Atommasse minus alle Elektronen, Protonen, Neutronen",
+    "guid": "5050f77041e8c8989a572357beb8c636"
+  },
+  {
+    "title": "Massendefekt Kernbindungsenergien",
+    "solution": "Massendefekt m * c^2 = E; durch Nukleonenzahl",
+    "guid": "db3ab3dfbcc5bc9efb6b1f41fd882bdc"
+  }
+]

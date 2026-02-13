@@ -46,8 +46,28 @@
   },
   {
     "title": "Stammbaum Gonosomal X M\u00f6glichkeiten",
-    "solution": "Beide Eltern mit, Kind ohne -> Autosomal; beide Eltern ohne, Kind mit -> rezessiv; Vater ohne, Mutter mit, Sohn mit -> beides; andere F\u00e4lle -> dominant",
+    "solution": "Beide Eltern mit, Kind ohne; beide Eltern ohne, Kind mit; Vater ohne, Mutter mit, Sohn mit; andere F\u00e4lle",
     "guid": "d9cc88576f365a4a72a473291eabda83"
+  },
+  {
+    "title": "Stammbaum Gonosomal X beide ohne",
+    "solution": "Autosomal",
+    "guid": "9d5e6cff6326913e32087f5ea6588268"
+  },
+  {
+    "title": "Stammbaum Gonosomal X beide mit",
+    "solution": "rezessiv",
+    "guid": "4e4c68aded9a8aef13f44ba210f10210"
+  },
+  {
+    "title": "Stammbaum Gonosomal X Mutter Sohn",
+    "solution": "beides",
+    "guid": "35f903d0fa8384dcc06022e051979c81"
+  },
+  {
+    "title": "Stammbaum Gonosomal X andere",
+    "solution": "dominant",
+    "guid": "a0017bd53b7a527a2551e9eb72eed5fd"
   },
   {
     "title": "Stammbaum Widerspruch",

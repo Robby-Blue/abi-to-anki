@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Sekund\u00e4rreaktion",
+    "solution": "Calvin-Zyklus",
+    "guid": "8d7c038f81a072d0adc10e5964534ac4"
+  },
+  {
+    "title": "Sekund\u00e4rreaktion Fixierungsphase",
+    "solution": "CO2 fixiert, mit RuBisCo an Ribulose-1,5-biphosphat gebunden -> 3-Phosphoglyzerins\u00e4ure",
+    "guid": "be944e77fd572c09585382f4f14aa422"
+  },
+  {
+    "title": "Sekund\u00e4rreaktion Fixierungsphase Enzym",
+    "solution": "RuBisCo",
+    "guid": "e9f7aceb10e93ee9accbc20ed6d9de2c"
+  },
+  {
+    "title": "Sekund\u00e4rreaktion Fixierungsphase Edukt",
+    "solution": "CO2, Ribulose-1,5-biphosphat",
+    "guid": "7a20002e824f423682988e3dc558a570"
+  },
+  {
+    "title": "Sekund\u00e4rreaktion Fixierungsphase Produkt",
+    "solution": "3-Phosphoglyzerins\u00e4ure",
+    "guid": "b1627f287a0b276201036f902dcb9c05"
+  },
+  {
+    "title": "Sekund\u00e4rreaktion Reduktionsphase",
+    "solution": "3-Phosphoglyzerins\u00e4ure zu Glyzerinaldehyd-3-phosphat",
+    "guid": "392209d28f00827fe1436bd51e73878a"
+  },
+  {
+    "title": "Sekund\u00e4rreaktion Reduktionsphase Produkt",
+    "solution": "Glyzerinaldehyd-3-phosphat, H2O",
+    "guid": "9d0eecb7a517013dcf8198aa23c117c8"
+  },
+  {
+    "title": "Sekund\u00e4rreaktion Reduktionsphase Energie",
+    "solution": "ATP -> ADP + P, NADPH -> NADP",
+    "guid": "a62cf56bed5ad1002f86fbfdaf9c4d1a"
+  },
+  {
+    "title": "Sekund\u00e4rreaktion Regenerationsphase",
+    "solution": "Ribulose-1,5-biphosphat regeneriert aus ATP von Glyzerinaldehyd-3-phosphat",
+    "guid": "514f39dea6661c7ee48c95b2f711682d"
+  }
+]

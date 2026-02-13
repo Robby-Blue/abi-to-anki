@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Parasiten",
+    "solution": "Parasit nutzt Ressourcen vom Wirt. Genug zum Leben",
+    "guid": "ab8e05117dd283e235d5c59e3ed1d08e"
+  },
+  {
+    "title": "Parasiten Ort",
+    "solution": "Endo, Ekto",
+    "guid": "4faf00b1f3e8e7758b9d0e7f706e5fbc"
+  },
+  {
+    "title": "Parasiten Lebenslauf",
+    "solution": "Zwischenwirte, Endwirt",
+    "guid": "b2cc2ff26a20eb4da1588a6c3378cb99"
+  },
+  {
+    "title": "Parasiten Schreibweise",
+    "solution": "+/-",
+    "guid": "3165b834f111bcce61c0afbb98f6405e"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Nebelkammer",
+    "solution": "Wilson-Expansionsnebelkammer, detektiert alpha Strahlung",
+    "guid": "55350f4a227738bd66440bebc89bdc28"
+  },
+  {
+    "title": "Nebelkammer Aufbau",
+    "solution": "Glasfenster, verschiedbarer Kolben, Luft-Wasser-Alkohol Gas, 20C",
+    "guid": "741b554465ca090145c8dffde7a6ab7c"
+  },
+  {
+    "title": "Nebelkammer Funktion",
+    "solution": "Kolben schieben, mehr Platz, Gas breitet aus, nutzt Energie, k\u00fchlt ab. Gas kondensiert. Wasser, Dipol, kondensiert bei positiven Ionen. Diese wurden durch alpha Strahlung erzeugt.",
+    "guid": "350ca8c8d1ce3ccf9701dc7d7692e9f6"
+  }
+]

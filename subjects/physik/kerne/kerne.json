@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Kerne",
+    "solution": "Nuklide; aus Protonen, Neutronen, beides Nukleonen",
+    "guid": "e3344b4fcca1ecb1e93f17f35c3959c1"
+  },
+  {
+    "title": "Kerne Protonen",
+    "solution": "Z",
+    "guid": "ef68993586e7105e61f9d7956501b752"
+  },
+  {
+    "title": "Kerne Neutronen",
+    "solution": "N",
+    "guid": "9ea68190f7cede4015a4043ef9deccea"
+  },
+  {
+    "title": "Kerne Nukleonen",
+    "solution": "A",
+    "guid": "539f26ad6be74935689da9a6d91abc96"
+  },
+  {
+    "title": "Kerne Z",
+    "solution": "Protonen",
+    "guid": "b1e6154553e99c4ea2c7346b8a3a91e0"
+  },
+  {
+    "title": "Kerne N",
+    "solution": "Neutronen",
+    "guid": "0591ddec96f3eebf7db37cb710b7d560"
+  },
+  {
+    "title": "Kerne A",
+    "solution": "Nukleonen",
+    "guid": "5b7d7148e7866994eb520877bbdf3e2f"
+  },
+  {
+    "title": "Kerne Gleichung",
+    "solution_latex": "A = N + Z",
+    "guid": "1cedc6cd1404c0a6cf13b85a33ca3830"
+  },
+  {
+    "title": "Kerne Schreibweise",
+    "solution_latex": "^A_Z%text{Element} %qquad %text{und} %qquad %text{Element-}A %qquad %text{und} %qquad %text{Element}_A",
+    "guid": "f259e31d3428b1badee648797e2dde61"
+  },
+  {
+    "title": "Kerne Schreibweise Protonen",
+    "solution": "%ksymb{1}{1}{p}",
+    "guid": "01b238c9d70f2ef8f0b0f32675d5cfce"
+  },
+  {
+    "title": "Kerne Schreibweise Neutronen",
+    "solution": "%ksymb{1}{0}{n}",
+    "guid": "3eb009000f69ea19bab5da1bc0527b3a"
+  },
+  {
+    "title": "Kerne Schreibweise Elektronen",
+    "solution": "%ksymb{0}{-1}{e}",
+    "guid": "b52d634305f95c30114db6505e37dc11"
+  },
+  {
+    "title": "Kerne Schreibweise Positronen",
+    "solution": "%ksymb{0}{1}{e}",
+    "guid": "1f985d3d0b60511612b688349af7a44b"
+  },
+  {
+    "title": "amu",
+    "solution": "atomare Masseneinheit 1/12 m_c-12",
+    "guid": "1247cb2eb370998bd3a7b273f39caa65"
+  },
+  {
+    "title": "Mol",
+    "solution": "Anzahl an Teilchen; Avogadro Konstante",
+    "guid": "a95c7ef4321fbae2a435da2addf4750b"
+  }
+]

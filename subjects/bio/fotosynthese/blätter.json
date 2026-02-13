@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Bl\u00e4tter Aufbau",
+    "solution": "Epidermis, Kutikula, Palisadengewebe, Chloroplasten, Schwammgewebe, Spalt\u00f6ffnung, Leitb\u00fcndel",
+    "guid": "607cdd13fcf54e473be7d21a3e39b296"
+  },
+  {
+    "title": "Bl\u00e4tter Epidermis",
+    "solution": "Wand, stabilisiert",
+    "guid": "76ab3aec2e6c4c1db5411ddd6de34a05"
+  },
+  {
+    "title": "Bl\u00e4tter Kutikula",
+    "solution": "Wachsartige Schicht auf Epidermis. Verhinder Stoffeintritt",
+    "guid": "60a206970a74fe187e4a7387f16fe19c"
+  },
+  {
+    "title": "Bl\u00e4tter Palisadengewebe",
+    "solution": "F\u00e4ngt Licht auf, hier Chloroplasten, Zwischen Epidermis, Schwammgewebe",
+    "guid": "e11229fa8dcb60ffcc16618074d58d21"
+  },
+  {
+    "title": "Bl\u00e4tter Chloroplasten",
+    "solution": "Ort der Fotosynthese",
+    "guid": "cf12a1db8e59cbcd90a1347a5c9f9945"
+  },
+  {
+    "title": "Bl\u00e4tter Schwammgewebe",
+    "solution": "System aus Hohlr\u00e4umen um CO2 und Wasser zu transportieren. Zwischen Palisadengewebe Epidermis",
+    "guid": "f57421ad1721104515d328e33d42bb91"
+  },
+  {
+    "title": "Bl\u00e4tter Spalt\u00f6ffnung",
+    "solution": "Stomata. Wasserabgeabe, CO2, Sauerstoff austausch",
+    "guid": "f3664f8dd3754b0f60eb29794dab0efd"
+  },
+  {
+    "title": "Bl\u00e4tter Leitb\u00fcndel",
+    "solution": "Adern zum Transport",
+    "guid": "6a0c8e96213049d74bfca68e5195ecf8"
+  }
+]

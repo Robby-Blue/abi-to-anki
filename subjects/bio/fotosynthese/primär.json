@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Prim\u00e4rreaktion Ort",
+    "solution": "Stroma, Thylakoidinnenraum",
+    "guid": "87fd8369e6e6393c5e1099219f26aade"
+  },
+  {
+    "title": "Prim\u00e4rreaktion Reaktion",
+    "solution_latex": "%ce{H2O + NADP+ + ADP + P ->[Licht] O2 + NADPH + ATP} ",
+    "guid": "8721b6fc218fa57cc9761e217c2170ad"
+  },
+  {
+    "title": "Prim\u00e4rreaktion Ablauf",
+    "solution": "Licht II, Fotolyse, Transport, Licht I, Gradient",
+    "guid": "45eb4a2a79447be1272be936ed465f99"
+  },
+  {
+    "title": "Prim\u00e4rreaktion Licht II",
+    "solution": "Licht trifft Fotosystem II (P680), gibt Elektronen ab",
+    "guid": "8e45aa53845614bfaaf9b92d3439150a"
+  },
+  {
+    "title": "Prim\u00e4rreaktion Fotosystem II",
+    "solution": "P680",
+    "guid": "542bc4165cb8812d5ec9b6f90dedd40d"
+  },
+  {
+    "title": "Prim\u00e4rreaktion Fotolyse",
+    "solution": "Chlorophyll katalysiert, 2H2O + Licht -> O2 + 4H+ + 4e-; auf Fotosystem II \u00fcbertragen, Thylakoidinnenraum",
+    "guid": "e247e0984769f4b93523a5210e93035a"
+  },
+  {
+    "title": "Prim\u00e4rreaktion Transport",
+    "solution": "Elektronen vom Akzeptor \u00fcber Plastochinon, Cytochrom-Komplex zu Fotosystem I (P700), Protonen in Innenraum -> Gradient",
+    "guid": "33d063045fdc37fd7ab02a5bac2d990f"
+  },
+  {
+    "title": "Prim\u00e4rreaktion Fotosystem I",
+    "solution": "P700",
+    "guid": "9ce680c911a9e7ba1bd0876cfd3cc7c8"
+  },
+  {
+    "title": "Prim\u00e4rreaktion Licht I",
+    "solution": "Elektronen auf Akzeptor, zu NADP+ Reduktase.",
+    "guid": "499f0ba456fcc9200cc995a8548c2f83"
+  },
+  {
+    "title": "Prim\u00e4rreaktion NADP+-Reduktase",
+    "solution": "NADP+ zu NADPH",
+    "guid": "38e914fb978b8b9e04c882df7fd77188"
+  },
+  {
+    "title": "Prim\u00e4rreaktion Gradient",
+    "solution": "Protonen aus Innenraum durch ATP-Synthase",
+    "guid": "074bf4102d774f6151e4b8d2ad6882ba"
+  },
+  {
+    "title": "Prim\u00e4rreaktion vgl",
+    "solution": "Wie Atmungskette; Protonengradient, ATP-Synthase",
+    "guid": "f8ffffb7542839ae6afc67be45507484"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Aktivit\u00e4t",
+    "solution": "Kernumwandlungen pro Sekunde",
+    "guid": "fb59f0b8d6ec1f28e88b57919c774e23"
+  },
+  {
+    "title": "Aktivit\u00e4t Einheit",
+    "solution": "bq Becquerel",
+    "guid": "5e0c5826b5435af8a38f5265a075ead7"
+  },
+  {
+    "title": "Aktivit\u00e4t Definition Diff",
+    "solution_latex": "A = -%frac{%Delta N}{%Delta t}",
+    "guid": "3e8c9f0c79d7d526750e9d04a57768bc"
+  },
+  {
+    "title": "Aktivit\u00e4t Definition lambda",
+    "solution_latex": "A = %lambda %cdot N",
+    "guid": "486bd979efbdde09ac313ac2e548b0dc"
+  },
+  {
+    "title": "Aktivit\u00e4t Zerfallsgesetz",
+    "solution_latex": "N(t) = N_0 %cdot e^{-%lambda %cdot t}",
+    "guid": "87278e28d171c5d4df04771d9e755d45"
+  },
+  {
+    "title": "Aktivit\u00e4t Zerfallsgesetz Herleitung",
+    "solution": "Def Gleichsetzen, dt, /N, int, bei 0 betrachten",
+    "guid": "7299f35cdabdf1ad1e215373aa289b85"
+  }
+]

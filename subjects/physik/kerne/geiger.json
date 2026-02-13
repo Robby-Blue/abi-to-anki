@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Strahlung detektieren",
+    "solution": "Geiger-M\u00fcller-Z\u00e4hler",
+    "guid": "6096c29c61b2bfe5683c9f60b1dc0b6c"
+  },
+  {
+    "title": "Geiger-M\u00fcller-Z\u00e4hler Aufbau",
+    "solution": "Gasgef\u00fcllter Metallmantel mit Metalldraht als Node, Widerstand",
+    "guid": "9bc95cc7ba7c5a5c80af9b0a57a59f44"
+  },
+  {
+    "title": "Geiger-M\u00fcller-Z\u00e4hler Funktion",
+    "solution": "Strahlung ionisiert Gas, l\u00f6st Elektronen. E-Feld zu Metalldraht, Sto\u00dfionisation. Sto\u00df messen und Ton abspielen",
+    "guid": "aedd56f5b698b566303242e08a2021e9"
+  },
+  {
+    "title": "Geiger-M\u00fcller-Z\u00e4hler Totzeit",
+    "solution": "10^-3 Sekunden keine Messung weil zu viele Ladungstr\u00e4gerpaare, kleinerer Widerstand, keine Beschleunigung",
+    "guid": "96a435f9edee95c39fb8ee4521658110"
+  }
+]

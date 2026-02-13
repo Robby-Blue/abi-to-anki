@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Beta Zerfall Energie Formel",
+    "solution_latex": "E = (m_A - m_B) %cdot c^2",
+    "guid": "79976ac4eec6b3c6f1f1425c209f5828"
+  },
+  {
+    "title": "Beta Zerfall Energie Problem",
+    "solution": "E_kin vom Elektron geringer; Nuklidkarte Mittelwert",
+    "guid": "c2155d0422f54fe394b8258f598fcacb"
+  },
+  {
+    "title": "Beta Zerfall Energie Grund",
+    "solution": "statistisch auf R\u00fccksto\u00df, Antineutrinos, Elektron aufgeteilt",
+    "guid": "7f717cb17f24a60b61fe8ad8be73251a"
+  },
+  {
+    "title": "Beta Zerfall kontinuierlich",
+    "solution": "0 bis 2,1 MeV; Mittelwert ca 1/3 bis 1/2",
+    "guid": "342d050f6dba2aa1154191fe89529128"
+  }
+]

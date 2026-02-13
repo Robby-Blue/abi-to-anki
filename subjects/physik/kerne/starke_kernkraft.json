@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Starke Kernkraft",
+    "solution": "1,5 fm",
+    "guid": "c28dbda1cbe956f6be881fd6d3f9d63e"
+  },
+  {
+    "title": "alpha Energie Problem",
+    "solution": "zu Gro\u00df; m\u00fcsste bei >35 fm Starten",
+    "guid": "33278c193492488f306d47dc5d6a4eac"
+  },
+  {
+    "title": "alpha Energie Rechnung B",
+    "solution_latex": "%int_{r_0+r_1+1,5 fm}^%infty F_c %,%text{d}r %qquad %text{mit 2e und Elektronen als Q}",
+    "guid": "72c2d3cc7ae3882a20b8c4a1143daff3"
+  },
+  {
+    "title": "alpha Energie L\u00f6sung",
+    "solution": "Tunneleffekt; Kern als Potentialtopf, Coulombwall, kann zu 35 fm Tunneln",
+    "guid": "f24d0f1bde08e3d1250f574f5437bd87"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Blattarten",
+    "solution": "Sonnen, Schattenblatt",
+    "guid": "1ff68494627476d54911270c573a9712"
+  },
+  {
+    "title": "Sonnenbl\u00e4tter",
+    "solution": "dunkel, dicker, kleiner. hohes maximum. mehrschichties Palisadengewebe",
+    "guid": "c2880f27f9d16e110205f604e014e62d"
+  },
+  {
+    "title": "Schattenbl\u00e4tter",
+    "solution": "hell, d\u00fcnner, kleiner maxima, schneller anstieg, einschichtiges Palisadengewebe",
+    "guid": "ed4df1bca3a7e24d343dcafd7a979a7d"
+  }
+]

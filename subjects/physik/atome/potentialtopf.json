@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Potentialtopf",
+    "solution": "Elektronen als Wellen in Topf L\u00e4nge L",
+    "guid": "694bbc8a77d8792c7b2d148a480b2574"
+  },
+  {
+    "title": "Potentialtopf L",
+    "solution_latex": "L = n %cdot %frac{%lambda}{2} ",
+    "guid": "c414ac7ab84628179310d9ba9b8070b7"
+  },
+  {
+    "title": "Potentialtopf Pauli",
+    "solution": "2 Elektronen pro n",
+    "guid": "d123a8fa6a1c38547c96ea63067ac4c8"
+  },
+  {
+    "title": "Potentialtopf Auftreffwahrscheinlichkeit",
+    "solution_latex": "%vert %psi %vert^2",
+    "guid": "556e67f0d96c79db0795bac15e553249"
+  },
+  {
+    "title": "Potentialtopf Energie",
+    "solution": "ekin mit p, de broglie, lambda aus L",
+    "guid": "cb44b9b2d3bf131b15e5fd525a848b2b"
+  }
+]

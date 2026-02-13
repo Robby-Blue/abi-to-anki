@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Bohr Annahmen",
+    "solution": "diskrete, strahlungsfreie Bahnen; \u00fcbergang Energiedifferenz als Photon",
+    "guid": "985ec60988b481ef0538ad0da6fcd201"
+  },
+  {
+    "title": "Bohr L",
+    "solution_latex": "L = rmv %qquad %text{mit} %quad L = n %cdot %frac{h}{2 %pi}",
+    "guid": "b37269fa6e5676b9c3dc0aad1ffdc5a6"
+  },
+  {
+    "title": "Bohr Bahnradius",
+    "solution": "n=1, L gleichsetzen, nach r. r in f_c=f_z",
+    "guid": "44625756a39af2d19bd5b11276e1ad37"
+  },
+  {
+    "title": "Bohr Lichtfrequenzen",
+    "solution_latex": "%int F_c %dx",
+    "guid": "197a487e6370680efd1901da6db29f59"
+  },
+  {
+    "title": "Bohr Leistungen",
+    "solution": "Elektronengr\u00f6\u00dfe, H-Atom, Linienspektren",
+    "guid": "674f25907d7bbfef954407d5f23f42de"
+  },
+  {
+    "title": "Bohr Grenzen",
+    "solution": "Wiederspruch; Kreisbewegungen als beschleunigte Bewegung, e-m-Strahlung; nicht strahlungsfrei und \u00fcbertragbarkeit und flach",
+    "guid": "4422c9e0edff58457dbdf097de4cb823"
+  }
+]

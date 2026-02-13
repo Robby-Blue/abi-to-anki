@@ -1,0 +1,47 @@
+[
+  {
+    "title": "alpha Strahlung",
+    "solution": "2 Protone, 2 Neutronen, ^4_2He oder ^4_2\\alpha",
+    "guid": "e4039d89fe02590fcbd59569a64896e7"
+  },
+  {
+    "title": "beta- Strahlung",
+    "solution": "einfaches Elektron",
+    "guid": "c52c5830565f428863151e410873cc1f"
+  },
+  {
+    "title": "beta- Strahlung Kern",
+    "solution": "Neutron -> Proton, Elektron, Antielektronenneutrino",
+    "guid": "9a4513f049d29572cf35d1201fc65123"
+  },
+  {
+    "title": "beta- Strahlung Kern Gleichung",
+    "solution_latex": "%ksymb{1}{0}{n} %rightarrow %ksymb{1}{1}{p} + %ksymb{0}{-1}{e} + %overline{%nu}_e",
+    "guid": "ed5ffe75d4b0c49d40362bbc4c267511"
+  },
+  {
+    "title": "beta+ Strahlung",
+    "solution": "einfaches Positron",
+    "guid": "1b2acf9fbeab9dd1f2e038391c7aac72"
+  },
+  {
+    "title": "beta+ Strahlung Kern",
+    "solution": "Proton -> Positron, Neutron, Elektronenneutrino",
+    "guid": "bc522d71c60cedb687337776cb17b693"
+  },
+  {
+    "title": "beta+ Strahlung Kern Gleichung",
+    "solution": "%ksymb{1}{1}{p} %rightarrow %ksymb{0}{1}{e} + %ksymb{1}{0}{n} + %nu_e",
+    "guid": "d8223750feddeb75d97fc636660adb17"
+  },
+  {
+    "title": "gamma Strahlung",
+    "solution": "e-m-Wellen; gamma-Quant; ^0_0\\gamma",
+    "guid": "c94de341cd22fab5d38a887e900ca1c0"
+  },
+  {
+    "title": "St\u00e4rkste Strahlung",
+    "solution": "gamma",
+    "guid": "1cd81a5e9c44bdba671b42d47f17d4fa"
+  }
+]
