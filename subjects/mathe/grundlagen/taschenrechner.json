@@ -40,7 +40,7 @@
     "guid": "62783b2cc3c0156a6d8bdc2f0705c431"
   },
   {
-    "title": "Binomialverteilung Ketten Taschenrechner",
+    "title": "Binpdf Taschenrechner",
     "solution": "5 5 A",
     "guid": "cc4f62d57e3d2152f40ce86c3338f6c8"
   },
@@ -80,8 +80,23 @@
     "guid": "62f413a4144ad3e9e8352b0e9bf0a1ba"
   },
   {
+    "title": "Taschenrechner Normalfunktion",
+    "solution": "5 5 1",
+    "guid": "302998b57995bdbaa139591257d0afc3"
+  },
+  {
     "title": "Taschenrechner Inverse Normalfunktion",
     "solution": "5 5 3",
     "guid": "e1ec489651d5220c5c908a1cb64a3eb7"
+  },
+  {
+    "title": "Taschenrechner u",
+    "solution": "_amu",
+    "guid": "43d61174e4cbcea294c199c39f14ab25"
+  },
+  {
+    "title": "Taschenrechner Massen",
+    "solution": "_Me, Mp, Mn",
+    "guid": "13b8bcb81c1a9d96b861113a59ead349"
   }
 ]

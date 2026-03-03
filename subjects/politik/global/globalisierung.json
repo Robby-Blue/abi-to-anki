@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Globalisierung",
+    "solution": "wirtschaftliche Vernetzung, auch kulturell",
+    "guid": "e9cb2110df4987165ce4c30118256fca"
+  },
+  {
+    "title": "Globalisierung Triebkr\u00e4fte",
+    "solution": "Deregulierung, Liberalisierung, Privatisierung, Technologie",
+    "guid": "75826ae2893a7e6976f9e404f1c60bcf"
+  },
+  {
+    "title": "Globalisierung Deregulierung",
+    "solution": "weniger B\u00fcrokratie",
+    "guid": "0fae03d0c8d454e06d0e61d59192df0e"
+  },
+  {
+    "title": "Globalisierung Liberalisierung",
+    "solution": "mehr Handelsrechte",
+    "guid": "23a2951f2ae9cc6f3df7a7653b815156"
+  },
+  {
+    "title": "Globalisierung Privatisierung",
+    "solution": "effizient",
+    "guid": "cbfce752b0b813d240736694dafb0893"
+  },
+  {
+    "title": "Globalisierung Technologie",
+    "solution": "Transport, Kommunikation",
+    "guid": "81553bc8c7e4da0758d3e5f618017a01"
+  },
+  {
+    "title": "Globalisierung Indikatoren",
+    "solution": "BIP, Exporte/Importe, Investitionen",
+    "guid": "d255a1e782918e2adc9b742ee7571353"
+  }
+]

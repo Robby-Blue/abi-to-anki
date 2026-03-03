@@ -31,7 +31,7 @@
   },
   {
     "title": "beta+ Strahlung Kern Gleichung",
-    "solution": "%ksymb{1}{1}{p} %rightarrow %ksymb{0}{1}{e} + %ksymb{1}{0}{n} + %nu_e",
+    "solution_latex": "%ksymb{1}{1}{p} %rightarrow %ksymb{0}{1}{e} + %ksymb{1}{0}{n} + %nu_e",
     "guid": "d8223750feddeb75d97fc636660adb17"
   },
   {

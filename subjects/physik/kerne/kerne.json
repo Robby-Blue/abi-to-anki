@@ -46,22 +46,22 @@
   },
   {
     "title": "Kerne Schreibweise Protonen",
-    "solution": "%ksymb{1}{1}{p}",
+    "solution_latex": "%ksymb{1}{1}{p}",
     "guid": "01b238c9d70f2ef8f0b0f32675d5cfce"
   },
   {
     "title": "Kerne Schreibweise Neutronen",
-    "solution": "%ksymb{1}{0}{n}",
+    "solution_latex": "%ksymb{1}{0}{n}",
     "guid": "3eb009000f69ea19bab5da1bc0527b3a"
   },
   {
     "title": "Kerne Schreibweise Elektronen",
-    "solution": "%ksymb{0}{-1}{e}",
+    "solution_latex": "%ksymb{0}{-1}{e}",
     "guid": "b52d634305f95c30114db6505e37dc11"
   },
   {
     "title": "Kerne Schreibweise Positronen",
-    "solution": "%ksymb{0}{1}{e}",
+    "solution_latex": "%ksymb{0}{1}{e}",
     "guid": "1f985d3d0b60511612b688349af7a44b"
   },
   {
