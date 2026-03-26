@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Einzelspalt Grund Idee",
+    "solution": "in einem Winkel kann in n Zonen aufgeteilt werden, so dass zwischen Zonen Phasendifferenz lambda / 2 gibt.",
+    "guid": "b049142d238c37e011cc4cc32cbe70bf"
+  },
+  {
+    "title": "Einzelspalt Grund Mathe",
+    "solution": "n=2k -> jede Zone kann mit einer anderen destruktiv interferrieren, Minima n=2k+1 -> eine Zone bleibt \u00fcbrig, Maxima",
+    "guid": "6ae6b1f7b716e7db6cc3ad6953ea9a06"
+  },
+  {
+    "title": "Einzelspalt Licht",
+    "solution": "Eine von n Zonen, 1/n Licht",
+    "guid": "f5a8efc026746c55c1871450e406d083"
+  }
+]

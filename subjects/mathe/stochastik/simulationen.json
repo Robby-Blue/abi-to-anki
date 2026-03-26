@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Simulationen Werte Normal",
+    "solution": "5, 4, 1",
+    "guid": "fc95a21d6453fc4b21e63b91f769c414"
+  },
+  {
+    "title": "Simulationen Werte Binomial",
+    "solution": "5, 4, 2",
+    "guid": "32a6586bf1158eb080af10c42d3a18c6"
+  },
+  {
+    "title": "Simulationen Verarbeiten",
+    "solution": "countIf(werte, bedingung) unbekannte als ?",
+    "guid": "036e78e09e3ffa91e70ede73738e2f00"
+  }
+]

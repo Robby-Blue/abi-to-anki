@@ -21,8 +21,8 @@
   },
   {
     "title": "Bundestag Kommunikation",
-    "solution": "Zwischen Staat und B\u00fcrger, z.B. in Plenardebatten",
-    "guid": "13e46185b1ecf0d2da61890e841a3c4b"
+    "solution": "Zwischen Staat und B\u00fcrger, z.B. in Plenardebatten. Gibt B\u00fcrgermeinung an Bundestag weiter. Gibt neues an B\u00fcrger. Meinungsbildung",
+    "guid": "ec4a4332d199baf3d7a9616fd72dbcec"
   },
   {
     "title": "Bundestag Art",
@@ -33,5 +33,10 @@
     "title": "Bundestag Arbeitsparlament",
     "solution": "Keine Debatte",
     "guid": "fb9ad079d536812e2d3fd6bf31f4decf"
+  },
+  {
+    "title": "Bundestag Abgeordnete",
+    "solution": "Immunit\u00e4t",
+    "guid": "52b5ffa2565ce5e3bd56b3fcceea33d0"
   }
 ]

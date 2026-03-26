@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Delayed-Choice",
+    "solution": "Mach-Zehnder mit Kristallen um Photonen zu teilen. Sensoren, Weginformation existiert. Interferenz verschwindet",
+    "guid": "7cec0f127911e18bc57e8a1254819efa"
+  },
+  {
+    "title": "Delayed-Choice Quantenradierer",
+    "solution": "Wird Weginformation ausradiert (Strahlenteiler zu zwei Sensoren), taucht Interferenz auf",
+    "guid": "644fec7f533d2ee136ac4e27fd7cc8ad"
+  }
+]

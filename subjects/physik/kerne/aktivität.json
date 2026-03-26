@@ -28,5 +28,15 @@
     "title": "Aktivit\u00e4t Zerfallsgesetz Herleitung",
     "solution": "Def Gleichsetzen, dt, /N, int, bei 0 betrachten",
     "guid": "7299f35cdabdf1ad1e215373aa289b85"
+  },
+  {
+    "title": "Tabellenkalkulation",
+    "solution": "N_i eintragen, A_i folgt. N_i+1 = N_i-A_i",
+    "guid": "d3d020839554f44eec253a2c60ae9a54"
+  },
+  {
+    "title": "Zerfallsgesetz Grenzen",
+    "solution": "stochastisch, bei gro\u00dfen N akkurat. idR gut genug. keine genaue Angabe bei kleinen N",
+    "guid": "2ef1572661bb3a12b4552db17d8b51a3"
   }
 ]

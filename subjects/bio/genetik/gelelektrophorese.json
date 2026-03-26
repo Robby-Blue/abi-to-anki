@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Gelelektrophorese Nutzen",
+    "solution": "DNA-Abschnitte vergleichen",
+    "guid": "d1a2fd5255ac1f3f19bce79706ca773f"
+  },
+  {
+    "title": "Gelelektrophorese Aufbau",
+    "solution": "mit PCR vervielf\u00e4ltigen, in Gel f\u00fcllen, Gleichstrom",
+    "guid": "a20b365a652826ad9e494abe361f524a"
+  },
+  {
+    "title": "Gelelektrophorese Ablauf",
+    "solution": "DNA bewegt sich nur Anode. kleiner Abschnitte schneller. Farbstoff. Position der DNA f\u00fcr l\u00e4ngen vergleichen.",
+    "guid": "61dc6e81aa55cee48f32fa5bdad76692"
+  },
+  {
+    "title": "PCR Nutzen",
+    "solution": "DNA vervielf\u00e4ltigen",
+    "guid": "0275f6373f80405938a8a2854e0753fa"
+  },
+  {
+    "title": "PCR Name",
+    "solution": "polymerase chain reaction",
+    "guid": "f4ba54c849eac34bc4945497467950d5"
+  },
+  {
+    "title": "PCR Vergleich",
+    "solution": "DNA Replikation der Zelle",
+    "guid": "f9e53bcf1d934e50728141b93a776f3c"
+  },
+  {
+    "title": "PCR Schritte",
+    "solution": "Denaturierung, Primer-Hybridisierung, Polymerisation",
+    "guid": "943a2b85c1319888766525c6f52b9179"
+  },
+  {
+    "title": "PCR Denaturierung",
+    "solution": "100c bricht Wasserstoffbr\u00fcckenbindungen, DNA Doppelstr\u00e4nge zu Einelstr\u00e4nge",
+    "guid": "60fc4811e950c5b1d0175e7ce01d5868"
+  },
+  {
+    "title": "PCR Primer-Hybridisierung",
+    "solution": "60c kann Primer an DNA-Seq binden",
+    "guid": "3d42b7fef61657c6fcdfcc4cc078f614"
+  },
+  {
+    "title": "PCR Polymerisation",
+    "solution": "Taq-Polymerase, hohe Temperaturen, findet Primer, bindet Nukleotide",
+    "guid": "d220aa2fe68e516d396bb5cbb7232a66"
+  }
+]

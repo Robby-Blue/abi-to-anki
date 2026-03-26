@@ -1,0 +1,32 @@
+[
+  {
+    "title": "elektromagnetischer Schwingkreis Aufbau",
+    "solution": "(Schalter/Wechselstrom), auf-entladung eines Kondensators mit einem Widerstand \u00fcber eine Spule mit Eisenkern",
+    "guid": "419b6922e5a6907f991d78c668f5bec6"
+  },
+  {
+    "title": "elektromagnetischer Schwingkreis Folge",
+    "solution": "Stromfluss sinkt, Lenzsches Gesetz, Selbstinduktion um Kondensator erneut aufzuladen",
+    "guid": "7c98b3453cf613540ff916ba93a63656"
+  },
+  {
+    "title": "elektromagnetischer Schwingkreis Analogie",
+    "solution": "Feder-Masse-Pendel",
+    "guid": "465bcca81249ba0f9aed6e5a7f78e7e6"
+  },
+  {
+    "title": "elektromagnetischer Schwingkreis Resonanzkurve",
+    "solution": "Wechselstrom mit Frequenz als Resonator, Voltmeter parallel zum Widerstand, Schwingung ist am gr\u00f6\u00dften bei Eigenfrequenz, U ist bei der Eigenfrequenz am gr\u00f6\u00dften",
+    "guid": "e10a5014f18bbf1cbbec23932718d1ce"
+  },
+  {
+    "title": "elektromagnetischer Schwingkreis Gleichung",
+    "solution": "Thomsonsche Schwingungsgleichung",
+    "guid": "ae9381e67f154aafead17fbfc0cc7844"
+  },
+  {
+    "title": "elektromagnetischer Schwingkreis",
+    "solution": "T = 2%pi %cdot %sqrt{L %cdot C}",
+    "guid": "47835e4ac5f11a49b7933608f700431e"
+  }
+]

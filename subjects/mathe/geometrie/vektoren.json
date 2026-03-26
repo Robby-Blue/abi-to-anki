@@ -3,5 +3,10 @@
     "title": "Vektorenprodukt",
     "solution_latex": "%begin{pmatrix} a_2 %cdot b_3-a_3 %cdot b_2 \\\\ %cdot b_1-a_1 %cdot b_3 \\\\ a_1 %cdot b_2-a_2 %cdot b_1 %end{pmatrix}",
     "guid": "7266c4921aa8f7bc24fe3599a2cef6ee"
+  },
+  {
+    "title": "Skalarprodukt als Projection",
+    "solution": "Ein Vektor auf den unteren, mal den unteren",
+    "guid": "17ae5516599f1fcc55aaefc0333483e7"
   }
 ]

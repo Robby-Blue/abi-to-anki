@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Quanten Interferenz",
+    "solution": "Mit Zeit gleiches Ergebnis",
+    "guid": "4674c0a1bcdb80175cbd4c5b1d1635d5"
+  },
+  {
+    "title": "Quanten Interferenz Stochastik",
+    "solution": "einzeln Unvorhersehrbar, langzeitig gleiche Verteilung",
+    "guid": "5fb9537e1c3ce2b1ccb907563893168a"
+  },
+  {
+    "title": "Quanten Interferenz Auftreffwahrscheinlichkeit",
+    "solution": "Quadrat der Amplitude",
+    "guid": "cc84e54041bdc3975b97104a2190cfd0"
+  },
+  {
+    "title": "Quanten Interferenz Elektronenzahlnachweis",
+    "solution": "Koinzidenzmethode, dass immer nur ein Quant gleichzeitig drin ist",
+    "guid": "4c493bc9894e6ec68f4015eb81871b7c"
+  },
+  {
+    "title": "Quanten Interferenz Koinzidenzmethode",
+    "solution": "Strahlenteiler auf zwei Sensoren. Immer nur einer geht an.",
+    "guid": "37fae7089032db76e581dd8addfb551b"
+  }
+]

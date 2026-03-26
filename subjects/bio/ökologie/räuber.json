@@ -18,5 +18,10 @@
     "title": "R\u00e4uber Beute Nahrungsnetz",
     "solution": "Pfeil von Beute zu R\u00e4uber",
     "guid": "14562ed7446a479fd0fdd08bf1ba21d8"
+  },
+  {
+    "title": "R\u00e4uber Beute Aufnahme",
+    "solution": "R\u00e4uber nimmt Biomasse, Energie auf. im vgl zum Wachsen der Beute nur wenig",
+    "guid": "275e66d88765bf60ec111a91cc437ce8"
   }
 ]

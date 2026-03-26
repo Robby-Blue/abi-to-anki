@@ -13,5 +13,35 @@
     "title": "Frank-Hertz Erkl\u00e4rung",
     "solution": "Hg-Atome k\u00f6nnen nur 4,9eV aufnehmen",
     "guid": "06c45f649ea1d5128b79f5d66cb46f82"
+  },
+  {
+    "title": "Frank-Hertz Periodenl\u00e4nge",
+    "solution": "Anregungsenergie des Atoms",
+    "guid": "6099ac05c12ff130d1dbf5b77bc552ec"
+  },
+  {
+    "title": "Frank-Hertz Sto\u00dfarten",
+    "solution": "elastisch, unelatisch",
+    "guid": "1b488143b0304fab83c74f5e8a6dd687"
+  },
+  {
+    "title": "elastischer Sto\u00df",
+    "solution": "kein Energieverlust",
+    "guid": "de7e971fe4e30cb3d6a5cbfbb5b69448"
+  },
+  {
+    "title": "unelastischer Sto\u00df",
+    "solution": "Energieverlust",
+    "guid": "4877f39fa5e24b56c6116ec2e42c72b7"
+  },
+  {
+    "title": "Frank-Hertz Linie",
+    "solution": "Kennlinie",
+    "guid": "510c89d2e4fcea7c3e3a8840b501a629"
+  },
+  {
+    "title": "Frank-Hertz Leuchterscheinungen",
+    "solution": "immer wenn Anregungsenergie erreicht ist. h\u00e4ufigkeit. je geringer, je weiter rechts",
+    "guid": "f24433388d2e5137e352c56a9e6fdcc5"
   }
 ]

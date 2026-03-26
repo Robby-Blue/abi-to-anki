@@ -13,5 +13,15 @@
     "title": "Resonanz Meiste Energie\u00fcbertragung",
     "solution": "Schwingungsfrequenz = Eigenfrequenz des Resonators",
     "guid": "b3ee70d0e9b67edec53b032b63fc4964"
+  },
+  {
+    "title": "Resonanz Experiment",
+    "solution": "Zwei Fadenpendel koppeln; erster Schwingt in Eigenfrequenz, Energie\u00fcbergabe maximal bei gleicher Fadenl\u00e4nge",
+    "guid": "f0c016c8dbc5dcbf13eaa133048fe1f8"
+  },
+  {
+    "title": "Resonanz Konstant",
+    "solution": "Eingeschr\u00e4nkt, wenn nicht Eigenfrequenz",
+    "guid": "0cc47f59f43149a5ff751969cff6ffdf"
   }
 ]

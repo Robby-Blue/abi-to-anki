@@ -43,5 +43,25 @@
     "title": "Soziale Marktwirtschaft Marktkonformit\u00e4tsprinzip",
     "solution": "Eingriffe der Politik in den Markt sind zu meiden",
     "guid": "0a3b5e74d16a4df6d93488f6060532c8"
+  },
+  {
+    "title": "Soziale Marktwirtschaft Staat",
+    "solution": "Gew\u00e4hrleistet Prinzipien, mehr nicht. G\u00fcter, Gesetze, Institutionn, etc. Wertefrage was genau",
+    "guid": "fd416d6c84a86cce1f2f35d6a21252c9"
+  },
+  {
+    "title": "Staatl. G\u00fcterarten",
+    "solution": "\u00f6ffentlich, meritorisch",
+    "guid": "23ac95cafe29a616866b234b8ebc382b"
+  },
+  {
+    "title": "\u00f6ffentliche G\u00fcter",
+    "solution": "kostenlos, wettbewerbslos",
+    "guid": "ced3931d686880bdc833710e986f6499"
+  },
+  {
+    "title": "meritorische G\u00fcter",
+    "solution": "subventioniert",
+    "guid": "ff5ced0ba9c1aa1ed5c83a5437f46aeb"
   }
 ]

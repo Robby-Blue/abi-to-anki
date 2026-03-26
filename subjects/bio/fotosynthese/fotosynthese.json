@@ -13,5 +13,10 @@
     "title": "Fotosynthese Ablauf",
     "solution_latex": "Prim\u00e4r, Sekund\u00e4rreaktion",
     "guid": "abafefeb72b9976bd50ae800b828e475"
+  },
+  {
+    "title": "Fotosynthese Zylkus",
+    "solution_latex": "%ce{NADP+ + ADP + P <-> NADPH+H+ + ATP}",
+    "guid": "7f5729c880cdb23077aca60d89f8cac4"
   }
 ]

@@ -43,5 +43,10 @@
     "title": "St\u00e4rkste Strahlung",
     "solution": "gamma",
     "guid": "1cd81a5e9c44bdba671b42d47f17d4fa"
+  },
+  {
+    "title": "Strahlung Grund",
+    "solution": "Kernumwandlung zu st\u00e4rkerem Kern",
+    "guid": "eebc3c3a70df4c1a5aa68a3c0644ca1e"
   }
 ]

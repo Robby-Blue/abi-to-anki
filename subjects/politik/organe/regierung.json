@@ -23,5 +23,10 @@
     "title": "Regierung Kollegialprinzip",
     "solution": "Mitglieder beraten/entscheiden gemeinsamen \u00fcber Gesetze und Streitfragen",
     "guid": "a6f662604c0cb9c4001486e3c8d3fadd"
+  },
+  {
+    "title": "Regierung Gewaltenteilung",
+    "solution": "Exekutive, geht hervor aus dem Bundestag",
+    "guid": "bc972269daf88e5d0c2abe28cb6347fb"
   }
 ]

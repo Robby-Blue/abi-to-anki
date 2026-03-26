@@ -11,7 +11,22 @@
   },
   {
     "title": "Kladogramme Aufstellen",
-    "solution": "kleinste Ver\u00e4nderung",
+    "solution": "kleinste Ver\u00e4nderung des Ph\u00e4notypen",
     "guid": "0b3b48d59a8b52dedc48ba8b192ccd0b"
+  },
+  {
+    "title": "Kladogramme Genauer",
+    "solution": "Ver\u00e4nderungen des Genotypen, nicht des Ph\u00e4notypen",
+    "guid": "b94b63e6897d6610f61fe93c285d58fc"
+  },
+  {
+    "title": "Kladogramme Parsimonie-Prinzip",
+    "solution": "Der Stammbaum am Wahrscheinlichsten, der die wenigsten evolutiven Ver\u00e4nderungen ben\u00f6tigt",
+    "guid": "029d183009c28d9737082413d41640c7"
+  },
+  {
+    "title": "Kladogramme Prinzip",
+    "solution": "Parsimonie-Prinzip",
+    "guid": "cdf9b40729882b2c566a2e871a8d0843"
   }
 ]

@@ -73,5 +73,15 @@
     "title": "Mol",
     "solution": "Anzahl an Teilchen; Avogadro Konstante",
     "guid": "a95c7ef4321fbae2a435da2addf4750b"
+  },
+  {
+    "title": "Kern Aufbau",
+    "solution": "Nukleonen als de-Broglie-Wellen",
+    "guid": "e749ea00c4da6acd87000f7e64348631"
+  },
+  {
+    "title": "Kern Energien",
+    "solution": "Diskret, weil quantisierte de-Broglie-Wellen",
+    "guid": "cf7f786a0db3dac95086a04d210be2fc"
   }
 ]

@@ -8,5 +8,20 @@
     "title": "Polarisator",
     "solution": "Gitterding um Wellen zu Polarisieren. Schwingungen in alle au\u00dfer eine Richtung werden blockiert",
     "guid": "23ebe13650f7be87c5c1bc110fbc3b1a"
+  },
+  {
+    "title": "Polarisation Licht Versuch",
+    "solution": "zwei Polarisatoren im Winkel zueinander",
+    "guid": "d16c481a8deb38e36b489347eff2fa32"
+  },
+  {
+    "title": "Polarisation Licht Fund",
+    "solution_latex": "%cos^2(%alpha)",
+    "guid": "77f712f87322d03793dcc377536845fc"
+  },
+  {
+    "title": "Polarisation Licht Fund Grund",
+    "solution": "Intensit\u00e4t ~ Amplitude\u00b2",
+    "guid": "b7b8393a4ad3a9ab5585f13bbf35ab32"
   }
 ]

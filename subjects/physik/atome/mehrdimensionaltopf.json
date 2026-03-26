@@ -23,5 +23,15 @@
     "title": "2D Topf Coulob Name",
     "solution": "p Orbitale px py pz",
     "guid": "66403f4eac6ace9fe5803d56ec0c1ea4"
+  },
+  {
+    "title": "2D Topf 3D Elektronenzahl",
+    "solution": "8 Permutationen, 2 Elektronen, also 16",
+    "guid": "dc45b62313cc7b4af54a1ecebdf663d3"
+  },
+  {
+    "title": "2D Topf 3D und Wasserstoff",
+    "solution": "\u00c4hnlich in der Bedeutung, Dimensionenzahl etc. Nur Form anders",
+    "guid": "b5c8afc8ed24ed211b907d1934d10480"
   }
 ]

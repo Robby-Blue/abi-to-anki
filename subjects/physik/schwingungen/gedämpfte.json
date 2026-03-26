@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Ged\u00e4mpfte Schwingungen",
+    "solution": "Amplitude nimmt ab",
+    "guid": "f2b0e9b77be14f62543b8b7793d9b8ef"
+  },
+  {
+    "title": "Ged\u00e4mpfte Schwingungen Grund",
+    "solution": "Keine konstante Energiezufuhr",
+    "guid": "397b48840a979b36cdaa1c81728502b5"
+  },
+  {
+    "title": "Ged\u00e4mpfte Schwingungen Mathe",
+    "solution": "Mal Prefix; nur Prefix als Einh\u00fcllende",
+    "guid": "d5cd3514584e8054504e0cd40419b7eb"
+  },
+  {
+    "title": "Ged\u00e4mpfte Schwingungen Prefix",
+    "solution_latex": "e^{-kt}",
+    "guid": "a04315b5f06835025f61ed5e22a540a6"
+  }
+]

@@ -31,7 +31,17 @@
   },
   {
     "title": "R\u00f6ntgen Charakteristische Strahlung Grund",
-    "solution": "Ausschlagen Elektrons unterer Schale der Anode",
-    "guid": "35264bd1aa32d9afe7f16c4f3031cb07"
+    "solution": "Ausschlagen Elektrons unterer Schale der Anode. f durch E von Energieniveaus",
+    "guid": "ca3e6308fd6a920eb0aeaf4d7c5f9957"
+  },
+  {
+    "title": "R\u00f6ntgen Warum Charakteristische",
+    "solution": "Energieniveaus von Material abh\u00e4ngig",
+    "guid": "a986f453a0bae62c1e94016b478bd95c"
+  },
+  {
+    "title": "R\u00f6ntgen Bremsstrahlung Grund",
+    "solution": "E_kin zu Photonen",
+    "guid": "674263a60b2337c19e89565b353f1191"
   }
 ]

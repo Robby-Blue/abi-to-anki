@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Soziale Ungleichheit Realit\u00e4t",
+    "solution": "gro\u00df",
+    "guid": "5afe38d7d05a7887512bc797f71f90a0"
+  },
+  {
+    "title": "Soziale Ungleichheit Darstellung",
+    "solution": "Lorenzkurve",
+    "guid": "e2b7f2f425150177c2f61aeed27ee7e7"
+  },
+  {
+    "title": "Soziale Ungleichheit Messen",
+    "solution": "Gini-Koeffizient",
+    "guid": "4ccab7967afdecd6e4aead5c851e3bc2"
+  },
+  {
+    "title": "Lorenzkurve",
+    "solution": "x Bev\u00f6lkerungsanteil y dessen Verm\u00f6gen",
+    "guid": "588e7bbe922bdafb5f04e4cfb5a039d7"
+  },
+  {
+    "title": "Gini-Koeffizient",
+    "solution": "Integral differenz zur besten Verteilung / Integral beste Verteilung -> 0 gerecht 1 ungerecht",
+    "guid": "8f3f5b27cb32e70756905633c5f85192"
+  },
+  {
+    "title": "Gini-Koeffizient Deutschland Entwicklung",
+    "solution": "gr\u00f6\u00dfer geworden",
+    "guid": "78284cd7547d96d9e52c35ada1a3a23c"
+  },
+  {
+    "title": "Gini-Koeffizient Deutschland Einkommen",
+    "solution": "0,3",
+    "guid": "3c98e4ca2957d552e57b3cdfc0967408"
+  },
+  {
+    "title": "Gini-Koeffizient Deutschland Verm\u00f6gen",
+    "solution": "0,68 -> 0,82 in 2010 - 2020",
+    "guid": "42f55130d039c18b4f628de4c58322a2"
+  }
+]
