@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Quantenteilchen Besonderheit",
+    "solution": "Teilchen und Welle (Komplementarit\u00e4t), Nichtlokalit\u00e4t",
+    "guid": "a8754bc1628a6788c49a1afe913d5053"
+  },
+  {
+    "title": "Quantenteilchen Zustand",
+    "solution": "bestimmte Eigenschaften, z.B. Polarisation",
+    "guid": "e389793ff4af5e349c5e2620493086d2"
+  },
+  {
+    "title": "Quantenteilchen Pr\u00e4paration",
+    "solution": "erzeugen des Zustandes",
+    "guid": "9fffff35d436fb205d06a48fb89fa432"
+  },
+  {
+    "title": "Quantenteilchen Superposition",
+    "solution": "mehrere Zust\u00e4nde, bis gemessen wird",
+    "guid": "ed6a494f511a538f8397d30cd3e9c3b8"
+  }
+]

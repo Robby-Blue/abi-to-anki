@@ -20,8 +20,18 @@
     "guid": "bce9ce89eb4d0a997548b1bee88a002c"
   },
   {
+    "title": "BRAGG Nutzen",
+    "solution": "Drehkristall oder d bestimmen",
+    "guid": "e1270d44e7fcce44fe492551d1abf137"
+  },
+  {
     "title": "BRAGG Drehkristall",
-    "solution": "Kristall und Sensor wird gedreht, bis alle lambda der gleichung entsprochen haben",
-    "guid": "6c2d15ae36e134b2dc3ae1dcb4367b33"
+    "solution": "Kristall und Sensor wird gedreht. f\u00fcr alle winkel die wellenl\u00e4nge. das als intensit\u00e4t",
+    "guid": "102c64d4a76ede7335fc0dd2d99d9f76"
+  },
+  {
+    "title": "BRAGG R\u00f6ntgenspektrum",
+    "solution": "Zuordnung Wellenl\u00e4nge Intensit\u00e4t von R\u00f6ntgenstrahlung",
+    "guid": "2ce71a4d992309cf1550205269505347"
   }
 ]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Nuklidkarte",
+    "solution": "N-Z-Tabellen",
+    "guid": "403a416bb6c3780baee837c01d093935"
+  },
+  {
+    "title": "Nuklidkarte alpha",
+    "solution": "-2,-2 (unten links)",
+    "guid": "b3cf78e2b7dcae990b85600dead68a84"
+  },
+  {
+    "title": "Nuklidkarte beta+",
+    "solution": "1,-1 (unten rechts)",
+    "guid": "80ecc6ca7f5229bd7be8745bd56e4eb8"
+  },
+  {
+    "title": "Nuklidkarte beta-",
+    "solution": "-1,1 (oben links)",
+    "guid": "b790624da4f3a19146461adc6df08d9d"
+  }
+]

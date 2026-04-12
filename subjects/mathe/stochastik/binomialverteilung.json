@@ -18,5 +18,10 @@
     "title": "Binomialverteilung E(X) im Histogramm",
     "solution": "E(X) ist in N\u00e4he von l\u00e4ngster Balken, wenn E(X) \\in N, dann ist l\u00e4ngster Balken",
     "guid": "e2e40da5c1e637e21b9efc1ef5dfa478"
+  },
+  {
+    "title": "Binomialverteilung Beschreiben",
+    "solution": "H\u00e4ufigkeitsverteilung",
+    "guid": "8833e69e5aa49314265a802faa6faa7c"
   }
 ]

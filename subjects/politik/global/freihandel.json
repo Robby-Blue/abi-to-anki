@@ -33,5 +33,35 @@
     "title": "Protektionismus Nachteil",
     "solution": "geringerer Wohlstand",
     "guid": "174bdc432df9044a0412ab64f8e6a401"
+  },
+  {
+    "title": "Protektionismus Optionen",
+    "solution": "Handelshemnisse, Subventionen",
+    "guid": "c15540649713ced50f2ac619cfd0aba2"
+  },
+  {
+    "title": "Protektionismus tarif\u00e4re Handelshemnisse",
+    "solution": "Z\u00f6lle",
+    "guid": "6c36ec3af3954888174578e4b70029f3"
+  },
+  {
+    "title": "Protektionismus nichttarif\u00e4re Handelshemnisse",
+    "solution": "Mengenbegrenzungen, Qualit\u00e4tsstandards",
+    "guid": "3d4c82463939df750a4db4537568f5e9"
+  },
+  {
+    "title": "Freihandel Optionen",
+    "solution": "Freihandelsabkommen",
+    "guid": "00ae14d400fa641de356cdb77a9d0590"
+  },
+  {
+    "title": "Freihandelsabkommen Beispiele",
+    "solution": "TTIP, Mercosur",
+    "guid": "85b479a1a4ba512cb4bf750bec79756a"
+  },
+  {
+    "title": "Freihandel EU",
+    "solution": "Zollunion; innerhalb und nach au\u00dfen gemeinsam",
+    "guid": "925937e784907687530ca99f2faea5c6"
   }
 ]

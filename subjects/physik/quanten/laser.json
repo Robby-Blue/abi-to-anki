@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Laser ",
+    "solution": "",
+    "guid": "a5e8968a843c49d690142e7ec32ba287"
+  },
+  {
+    "title": "Laser Aufbau",
+    "solution": "Spiegel auf Seiten, einer hald\u00fcrchlassig; Anode, Kathode (Hochspannung) He-Ne-Atome",
+    "guid": "e7cff1b22e388aafe6daabb05c434ff1"
+  },
+  {
+    "title": "Laser Funktion",
+    "solution": "Anregen, Sto\u00df, Emission",
+    "guid": "f0aff7815d207c434b751eb677a9d18a"
+  },
+  {
+    "title": "Laser Anregen",
+    "solution": "Hochspannung He anregen",
+    "guid": "a30d6ebcc918a012e30da5b2fb8d99b8"
+  },
+  {
+    "title": "Laser Sto\u00df",
+    "solution": "Angehobenes He st\u00f6\u00dft auf Ne, Sto\u00df\u00fcbertragung -> Ne zu metastabiler Zustand",
+    "guid": "0a9c55e37bbf8ea75dd0a151890ceb4f"
+  },
+  {
+    "title": "Laser Emission",
+    "solution": "Photon trifft angerechtes Ne -> abgeregt, emittiert Photon, dem ersten gleich",
+    "guid": "1d400456207f1cdcd6018848aed4d6cb"
+  },
+  {
+    "title": "Laser Besetzungsinversion",
+    "solution": "immer mehr angerechte Atome als nicht angeregte",
+    "guid": "04d797e647033b4245abeee6bb32e696"
+  },
+  {
+    "title": "Laser Spiegel",
+    "solution": "mehr m\u00f6glichkeiten Photone treffen, Abstand f\u00fcr konstruktive Interferenz",
+    "guid": "c80c8b7ae2379a3c08d40938c4175a39"
+  },
+  {
+    "title": "Laser Energieniveuas",
+    "solution": "Grundzustand, angeregter Zustand, metastabiler Zustand",
+    "guid": "42b0148beba612a16cbb46f253866e44"
+  }
+]

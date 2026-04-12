@@ -8,5 +8,20 @@
     "title": "Floureszenz Grund",
     "solution": "Erregung, R\u00fcckfall in Schritten auf mehreren Niveaus",
     "guid": "f4b0ca26e07e92b05a8b3defcc883fdc"
+  },
+  {
+    "title": "Lich Farbe \u00e4ndern Name",
+    "solution": "Floureszenz",
+    "guid": "e04caf4f3e7c4144d4c1f73286eef255"
+  },
+  {
+    "title": "Floureszenz Leuchtstoffr\u00f6hren",
+    "solution": "UV Licht erstellen, in sichtbares Licht umwandeln. effizienz",
+    "guid": "0663032fceee21cbb15a3a04a52ad990"
+  },
+  {
+    "title": "Floureszenz Wei\u00dfe LEDs",
+    "solution": "blaues Photon; durch Floureszenz rot und gelb. mit additiver Farbmischung wei\u00df",
+    "guid": "e945114951c7f1cb876567284e07d796"
   }
 ]

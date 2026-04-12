@@ -83,5 +83,20 @@
     "title": "Kern Energien",
     "solution": "Diskret, weil quantisierte de-Broglie-Wellen",
     "guid": "cf7f786a0db3dac95086a04d210be2fc"
+  },
+  {
+    "title": "Kern Energie Gr\u00f6\u00dfenordnung",
+    "solution_latex": "E = %frac{h^2}{8mL^2} %cdot n^2",
+    "guid": "5d57bd34311e3d74a155f635c3a88269"
+  },
+  {
+    "title": "Kern Energie Gr\u00f6\u00dfenordnung Bsp",
+    "solution": "Proton 2 MeV",
+    "guid": "7ac250a075bc30e64bbddffe3a067da9"
+  },
+  {
+    "title": "Kerndurchmesser",
+    "solution_latex": "%approx 10^{-14}%,%text{m}",
+    "guid": "d995cbe57483732dd05014b137bc722a"
   }
 ]

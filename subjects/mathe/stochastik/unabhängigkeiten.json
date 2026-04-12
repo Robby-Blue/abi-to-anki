@@ -8,5 +8,20 @@
     "title": "Stochastik Unabh\u00e4ngigkeiten Multiplikation",
     "solution_latex": "P(A %cap B) = P(A) %cdot P(B)",
     "guid": "0f246f59406d0342269346f56598bdd4"
+  },
+  {
+    "title": "Stochastik Unabh\u00e4ngigkeiten Arten",
+    "solution": "Stochastisch, Kausal",
+    "guid": "7fb5579ddb8c40b596c0993cd6b5d06a"
+  },
+  {
+    "title": "Stochastik Unabh\u00e4ngigkeiten Stochastisch",
+    "solution": "eines andere wahrscheinlichkeit wenn das andere",
+    "guid": "5063f378bbec61e6f1aa806cbbaa5d72"
+  },
+  {
+    "title": "Stochastik Unabh\u00e4ngigkeiten Kausal",
+    "solution": "eines weil das andere",
+    "guid": "a12d9f072fca1efe979f1c9b5954c3c7"
   }
 ]

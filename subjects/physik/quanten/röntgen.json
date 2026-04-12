@@ -25,6 +25,11 @@
     "guid": "2e49487fd96e4eb38c46ef706b3629fd"
   },
   {
+    "title": "R\u00f6ntgen Bremsstrahlung Mindeswellenl\u00e4nge",
+    "solution_latex": "%lambda_{min} = %frac{h %cdot c}{e %cdot U} ",
+    "guid": "1613f840655a65ab9835b5d595b04eb0"
+  },
+  {
     "title": "R\u00f6ntgen Charakteristische Strahlung",
     "solution": "Peaks der Anode, Position unabh\u00e4ngig von U",
     "guid": "06d2940ad3e7f89ef927d837835948b8"

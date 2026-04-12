@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Stochastik Prognose Intervallwahrscheinlichkeit",
+    "solution_latex": "P(%mu-%lfloor k %cdot %sigma%rfloor < X <%mu+%lfloor k %cdot %sigma%rfloor)",
+    "guid": "f335a379f1f248839b327f906a51e714"
+  },
+  {
+    "title": "Stochastik Prognose Runden",
+    "solution": "In das Intervall rein",
+    "guid": "cc892d3c7efe3b7e3a26115bd0991c6b"
+  },
+  {
+    "title": "Stochastik Prognose Anteil Formel",
+    "solution_latex": "h = p %pm 1,96 %sqrt{%frac{p %cdot (1-p)}{n}}",
+    "guid": "d3ea30189e4a50fa4b4ad1a8f6ecf746"
+  },
+  {
+    "title": "Stochastik Prognose Anteil Erkl\u00e4rung",
+    "solution": "h als Grenzen des echten h, mit n des Anteil und p",
+    "guid": "24b4d12531444e4a1aa730b9250cadde"
+  },
+  {
+    "title": "Stochastik Prognose Tabellen und Graphen",
+    "solution_latex": "P(%mu- k %le X %le %mu+ k) %ge S",
+    "guid": "c835bd6a3fb42f4ee26ac275725d2b07"
+  }
+]

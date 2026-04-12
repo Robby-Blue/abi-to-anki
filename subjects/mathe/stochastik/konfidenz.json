@@ -13,5 +13,10 @@
     "title": "Konfidenz beschreibung",
     "solution": "Ein Intervall in welchem zu 95% das eigentliche p ist",
     "guid": "c268a10839ab53a4b8847f255a119eca"
+  },
+  {
+    "title": "Konfidenz Faktor",
+    "solution": "Sicherheitsfaktor",
+    "guid": "527ae9ba69dbf49122b93ce678c1ced5"
   }
 ]

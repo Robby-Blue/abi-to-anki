@@ -5,13 +5,53 @@
     "guid": "7ed9ec218f89a57470433dc67e16efdd"
   },
   {
-    "title": "Internationaler Terrorismus Arten",
+    "title": "Terrorismus Arten",
     "solution": "seperatistisch, linksextrem, rechtsextrem, religi\u00f6s",
     "guid": "c8aa4a2370819b11bcfbbae94ffb33c4"
   },
   {
-    "title": "Internationaler Terrorismus Bek\u00e4mpfung",
+    "title": "Terrorismus Beispiele",
+    "solution": "IRA, RAF, NSU, IS",
+    "guid": "9b286738ed79f0aeee281a758df9f203"
+  },
+  {
+    "title": "Terrorismus Bek\u00e4mpfung",
     "solution": "Geheimdienste, Spionage; Sicherheitsbeh\u00f6rden. Pr\u00e4vention (deradikalisierung), Schutz (von B\u00fcrgern und Infrastruktur), Reaktion (hilfe)",
     "guid": "3ee1a3123a48eb6c9e5cb9bb7317772d"
+  },
+  {
+    "title": "Terrorismus Gr\u00fcnde",
+    "solution": "Frustration, Drang, Ideologie, Umfeld, Gewalt",
+    "guid": "cdba5e7c26c66dcac23c28d1aee7be56"
+  },
+  {
+    "title": "Terrorismus Gr\u00fcnde Frustration",
+    "solution": "Ziel nicht erf\u00fcllen -> Agression auf S\u00fcndenbock",
+    "guid": "27a34003b725ad88049d7988d85285fc"
+  },
+  {
+    "title": "Terrorismus Gr\u00fcnde Drang",
+    "solution": "Angebot einer Identit\u00e4t, eines Sinns",
+    "guid": "0f71afa6760cfe544ed93dd186600993"
+  },
+  {
+    "title": "Terrorismus Gr\u00fcnde Ideologie",
+    "solution": "Vereinfachte Darstellung, S\u00fcndenb\u00f6cker",
+    "guid": "d6c9f79e68b91984d53191fcfa349653"
+  },
+  {
+    "title": "Terrorismus Gr\u00fcnde Umfeld",
+    "solution": "soziale und politische Umfeld",
+    "guid": "db4f498cea86d0383d36b557b69823c2"
+  },
+  {
+    "title": "Terrorismus Gr\u00fcnde Gewalt",
+    "solution": "Aufwachsen mit Gewalt, ansehen als normal",
+    "guid": "05bd3285015e071c28e82bafa5b1599a"
+  },
+  {
+    "title": "Terrorismus Strategien",
+    "solution": "Teilweise Schaden, eher kommunizieren; Angst, Macht",
+    "guid": "16afe05ea30d7087e48b29ffe4b7d979"
   }
 ]

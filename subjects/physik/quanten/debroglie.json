@@ -15,8 +15,13 @@
     "guid": "fa496dba2fb792a2b891c773bc2c6aae"
   },
   {
-    "title": "de Broglie",
+    "title": "Impuls",
     "solution": "p = m %cdot v",
     "guid": "49dab4a0baf64ff8860231f49519eb35"
+  },
+  {
+    "title": "de Broglie Antiproportionait\u00e4t",
+    "solution": "Elektronenbeugung mit Geschwindigkeit; Ver\u00e4ndert sich wie Gitter mit Wellenl\u00e4ngne",
+    "guid": "8f57f156f74a7cab96b6a7281d879541"
   }
 ]

@@ -23,5 +23,10 @@
     "title": "Quanten Interferenz Koinzidenzmethode",
     "solution": "Strahlenteiler auf zwei Sensoren. Immer nur einer geht an.",
     "guid": "37fae7089032db76e581dd8addfb551b"
+  },
+  {
+    "title": "Quanten Interferenz Komplimentarit\u00e4t",
+    "solution": "Messen Teilchen, Verhalten bis zum Messen Welle",
+    "guid": "ed939b0f14203aab592e2a4d0af0bde3"
   }
 ]

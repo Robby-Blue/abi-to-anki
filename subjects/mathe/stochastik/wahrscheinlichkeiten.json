@@ -16,7 +16,7 @@
   },
   {
     "title": "und",
-    "solution_latex": "P(E_1 %cap E_2) = P(E_1)",
+    "solution_latex": "P(E_1 %cap E_2)",
     "guid": "0c983764635500278a6c9ebe6d914e01"
   }
 ]
