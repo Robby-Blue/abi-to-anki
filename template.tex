@@ -4,6 +4,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{mhchem}
+\usepackage{tikz}
+\usetikzlibrary{positioning, arrows, decorations.pathreplacing, decorations.pathmorphing,patterns}
 \begin{document}
 \newcommand{\vabs}[1]{\abs{\ve{#1}}}
 \newcommand{\abs}[1]{\lvert #1 \rvert}
@@ -19,9 +21,11 @@
 \newcommand{\unitdef}[3]{1 \,\text{#1} = \frac{1 \,\text{#2}}{1 \,\text{#3}}}
 \newcommand{\mdots}{\mathellipsis} 
 \newcommand{\ksymb}[3]{^{#1}_{#2}#3} 
-\color{white}{
-\[
+
+\newcommand{\envdefault}[1]{\color{white}{\[#1\]}} 
+\newcommand{\envtikz}[1]{\colorbox{white}{#1}} 
+
+\<ENV>{
  <CONTENT>
-\]
 }
 \end{document}

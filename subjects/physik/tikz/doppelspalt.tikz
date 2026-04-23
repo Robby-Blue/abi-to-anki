@@ -1,0 +1,26 @@
+Doppelspalt Maxima
+doppelspalt_maxima260417
+Dreieck Spalte und Maxima, Dreieck Mitte, Schirm, Maxima. tan im großen, sin im kleinen
+\begin{tikzpicture}
+ \draw (0, -0.2) -- (0, 0.2);
+ \draw (0, 0.4) -- (0, 1.3);
+ \draw (0, -0.4) -- (0, -1.3); 
+
+ \draw (4, -1.3) -- (4, 1.3); 
+ \draw[domain=-1.3:1.3,variable=\y,blue,samples=100]
+   plot ({4+0.5*(1+cos(7*\y r))*(0.7-abs(0.5*\y))},\y);
+
+ \draw[dashed] (0, 0) -- (4, 0) node [pos=0, left] {M} node [pos=0.5, below] {$e$} node [pos=1, right] {L}; 
+ \draw[dashed] (0, 0) -- (4, 0.9);
+ \draw[red] (0, 0.3) -- (4, 0.9) node [pos=0, above left] {A} node [pos=1, above left] {P};
+ \draw[red] (0, -0.3) -- (4, 0.9) node [pos=0, below left] {B};
+ \draw (0, 0.3) -- (0.15, -0.25) node [below right] {K};
+ \draw (4, 0.44) node [left] {$a$};
+ 
+ \draw (4.2, 0.9) node[right] {max 1. Ordnung};
+ \draw (4.7, 0) node[right] {max 0. Ordnung};
+ \draw (4, -0.448) node[right] {min 1. Ordnung};
+
+ \draw[green!50!black, <->] (-0.8, -0.3) -- (-0.8, 0.3) node [midway, left] {$b$};
+
+\end{tikzpicture} 

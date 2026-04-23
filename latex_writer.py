@@ -17,25 +17,39 @@ def create_latex(data):
     
     for note in data:
         note["media_paths"] = []
+        latex_key = None
+        
         if "title_latex" in note:
-            equations.append((note["guid"]+ANSWER, note["title_latex"]))
+            guid_suffix = ANSWER
+            latex_key = "title_latex"
         if "solution_latex" in note:
-            equations.append((note["guid"]+SOLUTION, note["solution_latex"]))
-    
+            guid_suffix = SOLUTION
+            latex_key = "solution_latex"
+            
+        if not latex_key:
+            continue
+
+        guid = note["guid"]+guid_suffix
+        latex = note[latex_key]
+        env = "env" + note.get("latex_env", "default")
+
+        equations.append((guid, env, latex))
+
     media_paths = []
     
-    for guid, latex in tqdm(equations):
-        media_paths.append(create_latex_node(guid, latex))
+    for guid, env, latex in tqdm(equations):
+        media_paths.append(create_latex_node(guid, env, latex))
     return media_paths
 
-def create_latex_node(guid, latex):
+def create_latex_node(guid, env, latex):
     latex = latex.replace("%", "\\")
     svg_file = os.path.join(workspace_folder, f"{guid}.svg")
 
     if os.path.exists(svg_file):
         return svg_file
     
-    full_latex = template.replace("<CONTENT>", latex)
+    full_latex = template.replace("<ENV>", env)
+    full_latex = full_latex.replace("<CONTENT>", latex)
     with open(tex_file, "w") as f:
         f.write(full_latex)
 
