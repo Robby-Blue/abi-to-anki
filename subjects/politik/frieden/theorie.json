@@ -38,5 +38,30 @@
     "title": "Neue Kriege Kriegsf\u00fchrung",
     "solution": "Fronten vs Guerilla",
     "guid": "a6117bde27ef26314f7f90f89b03a5b9"
+  },
+  {
+    "title": "Fragile Staatlichkeit",
+    "solution": "konsolidiert, schwach, zerfallend, kollabiert",
+    "guid": "60d17ca0f8ea1990a4344f1cacd358cc"
+  },
+  {
+    "title": "Staatsfunktionen",
+    "solution": "Sicherheitsfunktion, Wohlfahrtsfunktion, Legitimit\u00e4ts- und Rechtsstaatssfunktion",
+    "guid": "cfebdceb00ab6d87144fb6482d24e38d"
+  },
+  {
+    "title": "Staatsfunktionen Sicherheitsfunktion",
+    "solution": "Gewaltmonopol, Entwaffnung, Au\u00dfengrenzen",
+    "guid": "3051df3a57c6f6a565c564b830b8bb7a"
+  },
+  {
+    "title": "Staatsfunktionen Wohlfahrtsfunktion",
+    "solution": "Ressourcen, Sozial- Bildung- Gesundheit",
+    "guid": "584c5a37e1699ebf33db481d5a8136be"
+  },
+  {
+    "title": "Staatsfunktionen Legitimit\u00e4ts- und Rechtsstaatssfunktion",
+    "solution": "Wahlen, Gewaltenteilung, Menschenrechte",
+    "guid": "901e0f55a208c806e65c09b1d2b1c99f"
   }
 ]
