@@ -3,5 +3,20 @@
     "title": "Karikatur Analysieren",
     "solution": "1. Sichtbares benennen 2. Symbole 3. Deutung 4. Kritik",
     "guid": "4810f0bd7f46ca713c3f8603bfde2567"
+  },
+  {
+    "title": "Pol Operator Beurteilen",
+    "solution": "Sachurteil",
+    "guid": "b795388710966c063eeb0d49827289a5"
+  },
+  {
+    "title": "Pol Operator Stellung nehmen",
+    "solution": "Werturteil",
+    "guid": "4d936cb1f7172bae74dcc68f5053befe"
+  },
+  {
+    "title": "Pol Operator Er\u00f6rtern",
+    "solution": "Sach/Werturteil",
+    "guid": "a237acc3912515702ad952599f8a1320"
   }
 ]

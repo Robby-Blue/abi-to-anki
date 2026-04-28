@@ -8,24 +8,34 @@ def gen_uid(question):
     data = json.dumps(question, indent=2)
     return hashlib.md5(data.encode("UTF8")).hexdigest()
 
-def read_folder(path):
+def read_folder(path, names):
     data = []
 
     for name in os.listdir(path):
+        display_name = name
+        if "." in display_name:
+            display_name = name[:name.index(".")]
+        new_names = list(names)
+        new_names.append(display_name)
+        
         sub_path = os.path.join(path, name)
         if os.path.isdir(sub_path):
-            data += read_folder(sub_path)
+            data += read_folder(sub_path, new_names)
         else:
-            data += read_file(sub_path)
+            data += read_file(sub_path, new_names)
     
     return data
 
-def read_file(path):
+def read_file(path, new_names):
     if path.endswith(".json"):
-        return read_json(path)
+        cards = read_json(path)
     if path.endswith(".tikz"):
-        return read_tikz(path)
+        cards = read_tikz(path)
     
+    for card in cards:
+        card["tags"] = new_names
+        
+    return cards
     
 def read_tikz(path):
     with open(path, "r") as f:
@@ -67,5 +77,3 @@ def read_json(path):
             json.dump(data, f, indent=2)
 
     return data
-
-data = read_folder("subjects")

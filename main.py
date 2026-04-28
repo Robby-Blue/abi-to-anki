@@ -17,7 +17,7 @@ styling = """
 }
 """
 
-data = card_reader.read_folder("subjects")
+data = card_reader.read_folder("subjects", [])
 media_paths = latex_writer.create_latex(data)
 
 deck = genanki.Deck(
@@ -92,6 +92,8 @@ double_latex_model = genanki.Model(
   css=styling)
 
 for note in data:
+  tags = note.get("tags", [])
+  
   if "title_latex" in note:
     if "solution_latex" in note:
       ans_filename = note["guid"]+ANSWER+".svg"
@@ -101,14 +103,16 @@ for note in data:
       anki_note = genanki.Note(
         model=double_latex_model,
         fields=[note["title"], ans_image_path, sol_image_path],
-        guid=note["guid"])
+        guid=note["guid"],
+        tags=tags)
     else:
       filename = note["guid"]+ANSWER+".svg"
       image_path = f"<img src=\"{filename}\" class=\"media\">"
       anki_note = genanki.Note(
         model=latex_model,
         fields=[note["title"], note["solution"], image_path],
-        guid=note["guid"])
+        guid=note["guid"],
+        tags=tags)
   else:
     if "solution_latex" in note:
       filename = note["guid"]+SOLUTION+".svg"
@@ -116,12 +120,14 @@ for note in data:
       anki_note = genanki.Note(
         model=solution_latex_model,
         fields=[note["title"], image_path],
-        guid=note["guid"])
+        guid=note["guid"],
+        tags=tags)
     else:
       anki_note = genanki.Note(
         model=normal_model,
         fields=[note["title"], note["solution"]],
-        guid=note["guid"])
+        guid=note["guid"],
+        tags=tags)
   deck.add_note(anki_note)
 
 print(f"{len(data)} notes created")
