@@ -6,7 +6,7 @@
   },
   {
     "title": "Sekund\u00e4rreaktion Fixierungsphase",
-    "solution": "CO2 fixiert, mit RuBisCo an Ribulose-1,5-biphosphat gebunden -> 3-Phosphoglyzerins\u00e4ure",
+    "solution": "CO2 fixiert, mit RuBisCo an Ribulose-1,5-bisphosphat gebunden -> 3-Phosphoglyzerins\u00e4ure",
     "guid": "be944e77fd572c09585382f4f14aa422"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "title": "Sekund\u00e4rreaktion Fixierungsphase Edukt",
-    "solution": "CO2, Ribulose-1,5-biphosphat",
+    "solution": "CO2, Ribulose-1,5-bisphosphat",
     "guid": "7a20002e824f423682988e3dc558a570"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "title": "Sekund\u00e4rreaktion Reduktionsphase Produkt",
-    "solution": "Glyzerinaldehyd-3-phosphat, H2O",
+    "solution": "Glyzerinaldehyd-3-phosphat, Glukose",
     "guid": "9d0eecb7a517013dcf8198aa23c117c8"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "title": "Sekund\u00e4rreaktion Regenerationsphase",
-    "solution": "Ribulose-1,5-biphosphat regeneriert aus ATP von Glyzerinaldehyd-3-phosphat",
+    "solution": "Ribulose-1,5-bisphosphat regeneriert aus ATP von Glyzerinaldehyd-3-phosphat",
     "guid": "514f39dea6661c7ee48c95b2f711682d"
   }
 ]

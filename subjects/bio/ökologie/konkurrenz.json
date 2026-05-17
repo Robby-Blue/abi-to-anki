@@ -28,5 +28,10 @@
     "title": "Konkurrenz Konkurrenzvermeidung",
     "solution": "Tiere mit gleicher Nische k\u00f6nnen langzeitig zusammen leben, wenn sie sich vermeiden und den Raum unterschiedliche nutzen",
     "guid": "944b2f097c3601978b8d8024cf104306"
+  },
+  {
+    "title": "Konkurrenz Analyse",
+    "solution_latex": "\u00dcberlappung Nische (Toleranzkurve)",
+    "guid": "0d8f4fbf3b3b8bb6583543d70199d6cd"
   }
 ]

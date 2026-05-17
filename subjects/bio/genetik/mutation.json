@@ -16,12 +16,12 @@
   },
   {
     "title": "Mutation Nonsense",
-    "solution": "Fr\u00fchzeitige Termination",
+    "solution": "Fr\u00fchzeitige Termination, Stopp-Codon",
     "guid": "f7cd6e7e5a337991c4da442949a366ee"
   },
   {
     "title": "Mutation Frameshift",
-    "solution": "Hinzuf\u00fcgen/Entfernen, Rest ist geshifted",
+    "solution": "Hinzuf\u00fcgen/Entfernen, Rest ist geshifted, alle nachfolgenden Codons verändern sich",
     "guid": "f4ba444de117e68a7fdb721b405f42e9"
   }
 ]

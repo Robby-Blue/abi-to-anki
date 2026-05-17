@@ -20,13 +20,13 @@
     "guid": "e444db749aeda46c591df334acb46825"
   },
   {
-    "title": "Synth Genfrequenz",
+    "title": "Synth Allelfrequenz",
     "solution": "H\u00e4ufigkeit von Genvarianten",
     "guid": "1c93c73cdbe5a6885493607084df9ecf"
   },
   {
     "title": "Synth Evolutionsfaktoren",
-    "solution": "Faktoren um Genfrequenz zu ver\u00e4ndern",
+    "solution": "Faktoren um Allelfrequenz zu ver\u00e4ndern",
     "guid": "50683339eedc525ce6e8a672b66763cf"
   },
   {

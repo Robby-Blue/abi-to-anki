@@ -38,5 +38,30 @@
     "title": "Bl\u00e4tter Leitb\u00fcndel",
     "solution": "Adern zum Transport",
     "guid": "6a0c8e96213049d74bfca68e5195ecf8"
+  },
+  {
+    "title": "Blattarten Wasser",
+    "solution": "Meso- und Xerophyten",
+    "guid": "da7cedc92d16ad5abbae4703842678e9"
+  },
+  {
+    "title": "Blattarten mesomorphe Aufbau",
+    "solution": "d\u00fcnnere Kutikula, einfaches Palisadengewebe, einer \u00e4u\u00dferen Spalt\u00f6ffnung",
+    "guid": "423ba3b7629f70cf33061b213194c80d"
+  },
+  {
+    "title": "Blattarten mesomorphe Grund",
+    "solution": "Wasser effizient verwenden",
+    "guid": "1b340923321b3c43c92368ae9161cbbb"
+  },
+  {
+    "title": "Blattarten xeromorphe Aufbau",
+    "solution": "gr\u00f6\u00dfere Kutikula, mehrschichtige Epidermis, mehrschichtiges Palisadengewebe, eingesenkten Spalt\u00f6ffnung",
+    "guid": "bf573e309b2c116bd9a98634fed5ac6c"
+  },
+  {
+    "title": "Blattarten xeromorphe Grund",
+    "solution": "sch\u00fctzt vor dem Verdampfen des Wassers",
+    "guid": "501792e44b00a05e8d60679459a19386"
   }
 ]

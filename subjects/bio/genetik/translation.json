@@ -20,8 +20,23 @@
     "guid": "09659390be78d3020979d9469741c8be"
   },
   {
-    "title": "Translation Ablauf",
+    "title": "Translation Phasen",
+    "solution": "Initiation, Elongation, Termination",
+    "guid": "0eeee2342730ce7af7d4078f7df63047"
+  },
+  {
+    "title": "Translation Initiation",
+    "solution": "Ribosom, tRNA binden, tRNA an P Stelle",
+    "guid": "acd59eb0a24b3626528a16c34224b6d6"
+  },
+  {
+    "title": "Translation Elongation",
     "solution": "tRNA kommt zu Ribosom, bindet, verl\u00e4sst, l\u00e4sst Aminos\u00e4ure da, Ribosom bewegt um ein Codon. Zyklus",
     "guid": "7509716455971b9e351ab8c9d0219195"
+  },
+  {
+    "title": "Translation Termination",
+    "solution": "Stopp-Codon, Release-Faktor, Translationskomplex zerf\u00e4llt",
+    "guid": "06e9a210bd898124d1a011611cf9317d"
   }
 ]
