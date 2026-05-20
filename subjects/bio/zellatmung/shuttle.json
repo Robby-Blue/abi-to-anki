@@ -33,5 +33,10 @@
     "title": "Redox Reduktion",
     "solution": "Elektron aufnehmen",
     "guid": "66557bce2e91f62bad0c6742409eae6a"
+  },
+  {
+    "title": "Redoxpotential",
+    "solution": "Spannung (<0 => gibt ab, >0 => nimmt uf)",
+    "guid": "1868c6bb9c8a916ac8e632950cc525ae"
   }
 ]

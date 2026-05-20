@@ -6,8 +6,8 @@
   },
   {
     "title": "Erregungsweiterleitung Funktionsweise",
-    "solution": "Na+ im Axon, daneben negative Ladung, Na+ bewegt, dort depolarisiert, Na+ Ionenkan\u00e4le \u00f6ffnen sich, mehr Na+, Zylkus",
-    "guid": "3054dbc833d6f6ff1bf0a0cb6fbe7c8a"
+    "solution": "Na+ im Axon, daneben negative Ladung, Na+ bewegt und negative Ionen anziehen, dort depolarisiert, Na+ Ionenkan\u00e4le \u00f6ffnen sich, mehr Na+, Zylkus",
+    "guid": "e5a016f41265ec0bcd8ebefdd18c3c2e"
   },
   {
     "title": "Erregungsweiterleitung nicht zur\u00fcck",
@@ -38,5 +38,15 @@
     "title": "Erregungsweiterleitung aktiv",
     "solution": "Im Axon",
     "guid": "a692e297b1d216f12e56d489a9c17c93"
+  },
+  {
+    "title": "Motorische Endplatte",
+    "solution": "Synapse vor Muskel",
+    "guid": "7f2e6346e1302206d019871a57db77d0"
+  },
+  {
+    "title": "Motorische Endplatte Endigungen Namen",
+    "solution": "von Motoneuron zu Muskelfaster",
+    "guid": "5cf458cbac9e514196f6d01f9dbb6060"
   }
 ]
